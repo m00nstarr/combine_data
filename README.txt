@@ -1,47 +1,40 @@
 제작자 : 이문형 (캘커타 랩 인턴)
 연락처 : moonstar114@naver.com
 
+
+프로그램의 명세서는 document.docx를 참고하세요.
+
 이 프로그램은 CMS로 부터 받은 파일을 각각 오픈하며 앞에 6개의 column을 해당 내용에 알맞게 생성하는 프로그램이다.
 
-준비 사항:
-1) CMS로 부터 받은 파일을 모두 이름을 바꾸어주어야 한다.
-
-(os_type)_(date_type)_(country_code)_(type)_(category)_(date).csv
-
+# 준비 사항:
+1) CMS로 부터 받은 파일을 모두 이름을 바꾸어주어야 한다.  (os_type)_(date_type)_(country_code)_(type)_(category)_(date).csv
 ex) 한국 안드로이드의 TRAVEL 카테고리의 FREE 타입 2019년 1월 데이터
 AN_M_KR_FREE_TRAVEL_201901.csv
 
-코드 내에서 파일 명을 parsing해서 정보를 사용하기 때문에 반드시 이 규칙을 지켜주어야 합니다. 
+** 코드 내에서 파일 명을 parsing해서 정보를 사용하기 때문에 반드시 이 규칙을 지켜주어야 합니다. 
 
 2) 코드가 실행되고 있는 디렉토리 내에 데이터를 담은 폴더를 업로드 한 후에 실행합니다. 
-
 3) 리눅스 환경에서 사용됩니다.
 4) 파이썬의 pandas 패키지가 포함되어있습니다. 
 
 
-combine.py 사용법 :
+# combine.py 사용법 :
 준비사항을 마친 후 코드를 실행하면 각 디렉토리를 순회하며 디렉토리 내의 모든 파일에 대해 (파일명)_out_v1.csv 파일을 생성합니다
-
 생성된 파일 내에는 기존의 원본 내용과 앞에 6개의 새로운 column 필드가 추가되어있습니다. (추가된 필드 : Country, type, OS, year, month, date type)
 
 
 
-combin_all_csv_file.bat 사용법:
+# combin_all_csv_file.bat 사용법:
 output파일들을 한군데에 합치는 batch 파일입니다. 
-
 1) combine_all_csv_file.bat 파일은 다음과 같이 수정하여 사용합니다. (수정법 : 우클릭->편집 )
-
 copy *out_v1.csv (원하는 합본 파일 이름).csv   
 
-
 2) combine.py를 통해 나온 output이 있는 폴더 내에 위 bat 파일을 이동시킨후 더블클릭하여 실행합니다.
-
 3) CSV 파일이기 때문에 UTF-8로 액셀에서 인코딩하여 오픈해야 합니다.
-
 4) 액셀 실행 -> 데이터 -> 데이터 가져오기 -> 파일에서 -> 텍스트/CSV -> (합본 파일 클릭) -> 한국어를 UTF-8로 변경 -> 데이터 변환 
 
 
-머릿글 필드명 중복행 삭제 방법 :
+# 머릿글 필드명 중복행 삭제 방법 :
 
 데이터 합본을 하게 되면, 머릿글 필드명들이 중복되서 나오게 되는데 필터를 통해서 해당 행을 찾은 후에 삭제를 해준다.  
 
@@ -52,8 +45,8 @@ copy *out_v1.csv (원하는 합본 파일 이름).csv
 5) 홈 ->찾기 및 선택  -> 이동 옵션 -> 빈셀 체크  -> 삭제 탭  -> 시트 행 삭제 클릭 
 
 
+요약 : 
 combine.py -> combine_all_csv_file.bat 실행 -> 머릿글 필드명 중복행 삭제 
-
 를 통해 데이터 합본을 얻을 수 있다. 
 
 
