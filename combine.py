@@ -68,3 +68,6 @@ for directory in directory_list:
     print() 
     print("Modify Total "+str(file_count)+ " files in "+directory )
     print("------------------------------------------------------")
+print()
+print("End Program <Press> Enter")
+end = input()
