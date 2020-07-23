@@ -69,5 +69,5 @@ for directory in directory_list:
     print("Modify Total "+str(file_count)+ " files in "+directory )
     print("------------------------------------------------------")
 print()
-print("End Program <Press> Enter")
+print("End Program <Press> Enter to Exit")
 end = input()
