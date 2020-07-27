@@ -60,7 +60,7 @@ for directory in directory_list:
       CSV_file[["Country","Type","OS", "year", "month", "date type", \
                 "Rank", "Change", "Industry", "subcategory","App","Publisher",\
                 "Price", "Inapp", "Date", "CRScore", "URL(Address)"]]\
-                .to_csv(directory+"/"+new_file_name, index= False, encoding = 'utf-8')
+                .to_csv(directory+"/"+new_file_name, index= False, encoding = 'latin')
 
       print("modify  " + file_name +  " with "+ str(len(CSV_file))+ " records")
       file_count = file_count +1
