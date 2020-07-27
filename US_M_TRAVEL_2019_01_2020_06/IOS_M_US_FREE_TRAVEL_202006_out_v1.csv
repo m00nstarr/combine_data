@@ -1,0 +1,201 @@
+Country,Type,OS,year,month,date type,Rank,Change,Industry,subcategory,App,Publisher,Price,Inapp,Date,CRScore,URL(Address)
+US,FREE,IOS,2020,6,M,1,-,,Travel,Uber - Request a ride,"Uber Technologies, Inc.",0.0,,2010-05-20,294091,https://itunes.apple.com/US/app/id368677368
+US,FREE,IOS,2020,6,M,2,+1,,Travel,Airbnb,"Airbnb, Inc.",0.0,,2010-11-10,147615,https://itunes.apple.com/US/app/id401626263
+US,FREE,IOS,2020,6,M,3,+2,,Travel,Lyft,"Lyft, Inc.",0.0,,2012-05-30,125557,https://itunes.apple.com/US/app/id529379082
+US,FREE,IOS,2020,6,M,4,-2,,Travel,Google Earth,Google LLC,0.0,,2008-10-27,73862,https://itunes.apple.com/US/app/id293622097
+US,FREE,IOS,2020,6,M,5,+1,,Travel,Vrbo Vacation Rentals,"HomeAway.com, Inc.",0.0,,2017-07-19,65598,https://itunes.apple.com/US/app/id1245772818
+US,FREE,IOS,2020,6,M,6,+1,,Travel,Booking.com: Hotels & Travel,Booking.com,0.0,,2010-04-14,51677,https://itunes.apple.com/US/app/id367003839
+US,FREE,IOS,2020,6,M,7,+3,,Travel,Southwest Airlines,Southwest Airlines Co.,0.0,,2009-12-17,43596,https://itunes.apple.com/US/app/id344542975
+US,FREE,IOS,2020,6,M,8,+3,,Travel,"Expedia: Hotels, Flights & Car","Expedia, Inc.",0.0,,2011-04-06,36293,https://itunes.apple.com/US/app/id427916203
+US,FREE,IOS,2020,6,M,9,+3,,Travel,American Airlines,American Airlines,0.0,,2010-07-26,33887,https://itunes.apple.com/US/app/id382698565
+US,FREE,IOS,2020,6,M,10,+18,,Travel,Hopper - Flight & Hotel Deals,Hopper,0.0,,2015-01-27,28577,https://itunes.apple.com/US/app/id904052407
+US,FREE,IOS,2020,6,M,11,+2,,Travel,Turo - Better Than Car Rental,Turo Inc.,0.0,,2012-08-31,25975,https://itunes.apple.com/US/app/id555063314
+US,FREE,IOS,2020,6,M,12,+4,,Travel,"Bird - Be Free, Enjoy the Ride","Bird Rides, Inc.",0.0,,2017-09-11,24605,https://itunes.apple.com/US/app/id1260842311
+US,FREE,IOS,2020,6,M,13,+5,,Travel,"Priceline - Hotel, Flight, Car",priceline.com,0.0,,2009-10-26,21710,https://itunes.apple.com/US/app/id336381998
+US,FREE,IOS,2020,6,M,14,+3,,Travel,HomeAway Vacation Rentals,"HomeAway.com, Inc.",0.0,,2020-06-23,21268,https://itunes.apple.com/US/app/id642441300
+US,FREE,IOS,2020,6,M,15,-6,,Travel,Google Street View,Google LLC,0.0,,2014-08-19,20698,https://itunes.apple.com/US/app/id904418768
+US,FREE,IOS,2020,6,M,16,+3,,Travel,Fly Delta,"Delta Air Lines, Inc.",0.0,,2010-08-31,19442,https://itunes.apple.com/US/app/id388491656
+US,FREE,IOS,2020,6,M,17,+9,,Travel,Lime - Your Ride Anytime,Neutron Holdings. Inc.,0.0,,2017-05-09,18564,https://itunes.apple.com/US/app/id1199780189
+US,FREE,IOS,2020,6,M,18,+2,,Travel,Hotels.com: Book Hotels & More,Hotels.com,0.0,,2019-02-11,18103,https://itunes.apple.com/US/app/id284971959
+US,FREE,IOS,2020,6,M,19,-4,,Travel,Drive Safe & Save™,State Farm Mutual Automobile Insurance Company,0.0,,2015-11-08,15923,https://itunes.apple.com/US/app/id1043246998
+US,FREE,IOS,2020,6,M,20,+2,,Travel,Hilton Honors: Book Hotels,"Hilton Worldwide, Inc.",0.0,,2013-04-29,15339,https://itunes.apple.com/US/app/id635150066
+US,FREE,IOS,2020,6,M,21,+8,,Travel,Allegiant,Allegiant Travel Company,0.0,,2012-06-06,15255,https://itunes.apple.com/US/app/id528413490
+US,FREE,IOS,2020,6,M,22,-1,,Travel,Spin — Electric Scooters,Skinny Labs Inc.,0.0,,2017-06-21,15066,https://itunes.apple.com/US/app/id1241808993
+US,FREE,IOS,2020,6,M,23,+2,,Travel,United Airlines,United Airlines,0.0,,2011-07-19,14741,https://itunes.apple.com/US/app/id449945214
+US,FREE,IOS,2020,6,M,24,-1,,Travel,Enterprise Rent-A-Car,"Enterprise Holdings, Inc.",0.0,,2015-10-03,14101,https://itunes.apple.com/US/app/id1020641417
+US,FREE,IOS,2020,6,M,25,-11,,Travel,GasBuddy: Find Cheap Gas,GasBuddy Organization Inc,0.0,,2010-12-17,12581,https://itunes.apple.com/US/app/id406719683
+US,FREE,IOS,2020,6,M,26,+7,,Travel,Marriott Bonvoy,Marriott International,0.0,,2011-08-05,11840,https://itunes.apple.com/US/app/id455004730
+US,FREE,IOS,2020,6,M,27,+21,,Travel,Spirit Airlines,Spirit Airlines,0.0,,2018-11-15,11226,https://itunes.apple.com/US/app/id1438670520
+US,FREE,IOS,2020,6,M,28,+14,,Travel,Recreation.gov,Booz Allen Hamilton Inc.,0.0,,2019-03-29,11165,https://itunes.apple.com/US/app/id1440487780
+US,FREE,IOS,2020,6,M,29,+3,,Travel,Revel: Shared Electric Rides,Revel Transit Inc.,0.0,,2018-08-01,10789,https://itunes.apple.com/US/app/id1410368210
+US,FREE,IOS,2020,6,M,30,+7,,Travel,Passport Parking,"Passport Labs, Inc.",0.0,,2012-03-09,10785,https://itunes.apple.com/US/app/id501324867
+US,FREE,IOS,2020,6,M,31,-4,,Travel,U-Haul,"U-Haul International, Inc.",0.0,,2015-05-25,10003,https://itunes.apple.com/US/app/id989307692
+US,FREE,IOS,2020,6,M,32,-8,,Travel,GetUpside Cashback: Gas & Food,Upside Services Inc,0.0,,2016-04-19,9969,https://itunes.apple.com/US/app/id1099997174
+US,FREE,IOS,2020,6,M,33,+3,,Travel,Travelocity Hotels & Flights,Travelocity,0.0,,2019-02-12,9842,https://itunes.apple.com/US/app/id284803487
+US,FREE,IOS,2020,6,M,34,-,,Travel,Tripadvisor Hotels & Vacation,Tripadvisor,0.0,,2019-02-05,9745,https://itunes.apple.com/US/app/id284876795
+US,FREE,IOS,2020,6,M,35,+8,,Travel,Frontier Airlines,Frontier Airlines,0.0,,2015-10-15,8584,https://itunes.apple.com/US/app/id1041410548
+US,FREE,IOS,2020,6,M,36,-1,,Travel,Rover—Dog Sitters & Walkers,Rover.com,0.0,,2012-08-08,8561,https://itunes.apple.com/US/app/id547320928
+US,FREE,IOS,2020,6,M,37,-7,,Travel,Flightradar24 | Flight Tracker,Flightradar24 AB,0.0,Silver Plan - Monthly : $1.49 / Gold Plan - Monthly : $3.99,2010-07-21,8264,https://itunes.apple.com/US/app/id382233851
+US,FREE,IOS,2020,6,M,38,+1,,Travel,trivago: Compare hotel prices,trivago N.V.,0.0,,2010-06-15,8105,https://itunes.apple.com/US/app/id376888389
+US,FREE,IOS,2020,6,M,39,-8,,Travel,iTranslate Converse,iTranslate,0.0,iTranslate Pro : $9.99 / iTranslate Pro : $39.99 / iTranslate Pro : $4.99 / iTranslate PRO : $49.99,2017-08-03,7977,https://itunes.apple.com/US/app/id1241264761
+US,FREE,IOS,2020,6,M,40,-2,,Travel,HotelTonight - Hotel Deals,Hotel Tonight Inc,0.0,,2010-12-15,7920,https://itunes.apple.com/US/app/id407690035
+US,FREE,IOS,2020,6,M,41,+133,,Travel,Universal Orlando Resort™,"NBCUniversal Media, LLC",0.0,,2014-05-16,7451,https://itunes.apple.com/US/app/id878217080
+US,FREE,IOS,2020,6,M,42,+17,,Travel,PayByPhone Parking,PayByPhone Technologies Inc.,0.0,,2011-07-15,7420,https://itunes.apple.com/US/app/id448474183
+US,FREE,IOS,2020,6,M,43,+1,,Travel,JetBlue - Book & manage trips,JetBlue Airways,0.0,,2012-02-03,7397,https://itunes.apple.com/US/app/id481370590
+US,FREE,IOS,2020,6,M,44,+13,,Travel,Hospitality by GladToHaveYou,"GLAD TO HAVE YOU, INC",0.0,,2017-10-31,7081,https://itunes.apple.com/US/app/id1281580838
+US,FREE,IOS,2020,6,M,45,+9,,Travel,The Dyrt: Tent & RV Camping,The Dyrt,0.0,The Dyrt PRO : $29.99 / The Dyrt PRO with Trial : $29.99,2017-03-10,6882,https://itunes.apple.com/US/app/id1187626329
+US,FREE,IOS,2020,6,M,46,-,,Travel,Alaska Airlines,"Alaska Airlines, Inc.",0.0,,2010-02-19,6695,https://itunes.apple.com/US/app/id356143077
+US,FREE,IOS,2020,6,M,47,-7,,Travel,Hertz Car Rental,The Hertz Corporation,0.0,,2019-04-09,6649,https://itunes.apple.com/US/app/id1456169098
+US,FREE,IOS,2020,6,M,48,+1,,Travel,Roadtrippers - Trip Planner,Roadtrippers,0.0,Roadtrippers Plus - Annual : $29.99 / Roadtrippers Plus - Monthly : $6.99,2014-11-25,6636,https://itunes.apple.com/US/app/id944060491
+US,FREE,IOS,2020,6,M,49,+4,,Travel,"KAYAK Flights, Hotels & Cars",KAYAK,0.0,,2009-02-27,6286,https://itunes.apple.com/US/app/id305204535
+US,FREE,IOS,2020,6,M,50,+2,,Travel,IHG® Hotel Deals & Rewards,InterContinental Hotels Group,0.0,,2010-04-26,5995,https://itunes.apple.com/US/app/id368217298
+US,FREE,IOS,2020,6,M,51,+22,,Travel,Vacasa - Vacation Rentals,"Vacasa, LLC",0.0,,2019-08-18,5926,https://itunes.apple.com/US/app/id1454336721
+US,FREE,IOS,2020,6,M,52,+28,,Travel,Orbitz Hotels & Flights,Orbitz,0.0,,2010-11-12,5918,https://itunes.apple.com/US/app/id403546234
+US,FREE,IOS,2020,6,M,53,+8,,Travel,Choice Hotels : Book Hotels,Choice Hotels International,0.0,,2012-05-01,5896,https://itunes.apple.com/US/app/id509342785
+US,FREE,IOS,2020,6,M,54,+1,,Travel,Wag! - Dog Walkers & Sitters,"Wag Labs, Inc.",0.0,,2014-12-23,5598,https://itunes.apple.com/US/app/id940734609
+US,FREE,IOS,2020,6,M,55,+47,,Travel,Six Flags,Six Flags Entertainment Corporation,0.0,,2015-05-29,5481,https://itunes.apple.com/US/app/id988953433
+US,FREE,IOS,2020,6,M,56,-,,Travel,Zipcar: cars on-demand,Zipcar,0.0,,2009-09-27,5339,https://itunes.apple.com/US/app/id329384702
+US,FREE,IOS,2020,6,M,57,+5,,Travel,Amtrak,Amtrak,0.0,,2011-08-09,5271,https://itunes.apple.com/US/app/id405074003
+US,FREE,IOS,2020,6,M,58,-,,Travel,Getaround - Instant Car Rental,"Getaround, Inc.",0.0,,2011-01-27,5194,https://itunes.apple.com/US/app/id412017926
+US,FREE,IOS,2020,6,M,59,-12,,Travel,Curb - The Taxi App,"Curb Mobility, LLC",0.0,,2008-12-08,5083,https://itunes.apple.com/US/app/id299226386
+US,FREE,IOS,2020,6,M,60,+8,,Travel,Skiplagged — Flights & Hotels,Skiplagged LLC,0.0,,2014-02-24,5071,https://itunes.apple.com/US/app/id823443083
+US,FREE,IOS,2020,6,M,61,+15,,Travel,Hipcamp: Camping & Glamping,"Hipcamp, Inc",0.0,,2019-05-08,5030,https://itunes.apple.com/US/app/id1440066037
+US,FREE,IOS,2020,6,M,62,+3,,Travel,CheapOair: Cheap Flight Deals,"Fareportal, Inc.",0.0,,2011-05-18,5023,https://itunes.apple.com/US/app/id436858222
+US,FREE,IOS,2020,6,M,63,+117,,Travel,Air India,Air India Ltd.,0.0,,2014-10-31,4840,https://itunes.apple.com/US/app/id932302964
+US,FREE,IOS,2020,6,M,64,+3,,Travel,Skyscanner – travel deals,Skyscanner,0.0,,2011-02-17,4816,https://itunes.apple.com/US/app/id415458524
+US,FREE,IOS,2020,6,M,65,+7,,Travel,Avis - Car Rental,Avis Budget Group,0.0,,2009-04-25,4787,https://itunes.apple.com/US/app/id308342527
+US,FREE,IOS,2020,6,M,66,-21,,Travel,Pilot Flying J,Pilot Flying J,0.0,,2011-10-28,4786,https://itunes.apple.com/US/app/id474259675
+US,FREE,IOS,2020,6,M,67,-3,,Travel,Greyhound (US),Firstgroup America Inc,0.0,,2014-10-28,4758,https://itunes.apple.com/US/app/id931612822
+US,FREE,IOS,2020,6,M,68,+18,,Travel,stayconnect® mobile,"SONIFI Solutions, Inc.",0.0,year-long subscription to the Program Guide : $0.99,2011-12-19,4716,https://itunes.apple.com/US/app/id483233552
+US,FREE,IOS,2020,6,M,69,+13,,Travel,Volaris,Volaris,0.0,,2014-12-09,4431,https://itunes.apple.com/US/app/id945390888
+US,FREE,IOS,2020,6,M,70,+8,,Travel,Hotwire: Hotel & Car Deals,"Hotwire, Inc.",0.0,,2012-10-10,4377,https://itunes.apple.com/US/app/id566635048
+US,FREE,IOS,2020,6,M,71,-2,,Travel,BMW Connected,BMW,0.0,,2016-03-31,4374,https://itunes.apple.com/US/app/id1087277146
+US,FREE,IOS,2020,6,M,72,+9,,Travel,"KOA | RV, Cabin & Tent Camping",Kampgrounds of America,0.0,,2013-11-18,4335,https://itunes.apple.com/US/app/id736924592
+US,FREE,IOS,2020,6,M,73,+149,,Travel,MGM Resorts International,MGM Resorts,0.0,,2010-04-12,4269,https://itunes.apple.com/US/app/id366518979
+US,FREE,IOS,2020,6,M,74,-24,,Travel,StreetViewMap Street View Maps,均壮 韩,0.0,,2016-04-08,4187,https://itunes.apple.com/US/app/id1100136845
+US,FREE,IOS,2020,6,M,75,-,,Travel,Veo,VEORIDE INC,0.0,,2017-10-20,4182,https://itunes.apple.com/US/app/id1279820696
+US,FREE,IOS,2020,6,M,76,-13,,Travel,Razor Scooter Share,Razor USA,0.0,,2018-08-04,4084,https://itunes.apple.com/US/app/id1414149130
+US,FREE,IOS,2020,6,M,77,+15,,Travel,NJ TRANSIT Mobile App,NEW JERSEY TRANSIT CORPORATION,0.0,,2013-04-24,4063,https://itunes.apple.com/US/app/id589549928
+US,FREE,IOS,2020,6,M,78,-18,,Travel,Planes Live - Flight Tracker,"Weather or Not Apps, LLC",0.0,Planes Live Premium : $2.99 / Planes Live Premium 1 Month : $4.99,2016-06-16,3950,https://itunes.apple.com/US/app/id1097815000
+US,FREE,IOS,2020,6,M,79,-38,,Travel,BCycle,"B-cycle, LLC",0.0,,2010-05-12,3881,https://itunes.apple.com/US/app/id371185597
+US,FREE,IOS,2020,6,M,80,+3,,Travel,Bolt (Taxify),BOLT TECHNOLOGY OU,0.0,,2013-07-23,3867,https://itunes.apple.com/US/app/id675033630
+US,FREE,IOS,2020,6,M,81,-15,,Travel,My Disney Experience,Disney,0.0,One Day Memory Maker : $69.99 / 30 Day Memory Maker : $199.99,2012-08-02,3856,https://itunes.apple.com/US/app/id547436543
+US,FREE,IOS,2020,6,M,82,-8,,Travel,WiFi Map: Find Internet & VPN,WiFi Map LLC,0.0,Remove Ads : $1.99 / PRO Version : $29.99,2012-09-20,3840,https://itunes.apple.com/US/app/id548925969
+US,FREE,IOS,2020,6,M,83,+18,,Travel,Agoda - Best Travel Deals,Agoda.com,0.0,,2011-06-06,3756,https://itunes.apple.com/US/app/id440676901
+US,FREE,IOS,2020,6,M,84,-5,,Travel,SunPass,FL Dept. of Transportation/SunPass,0.0,,2013-01-02,3743,https://itunes.apple.com/US/app/id492680525
+US,FREE,IOS,2020,6,M,85,+36,,Travel,Outdoorsy - RV Rentals,"Outdoorsy, Inc.",0.0,,2018-11-22,3670,https://itunes.apple.com/US/app/id1443835927
+US,FREE,IOS,2020,6,M,86,+1,,Travel,Via: Low-Cost Ride-Sharing,"Via Transportation, Inc.",0.0,,2013-07-01,3620,https://itunes.apple.com/US/app/id657777015
+US,FREE,IOS,2020,6,M,87,+7,,Travel,Justfly.com Book Cheap Flights,Momentum Travel Group,0.0,,2016-06-23,3612,https://itunes.apple.com/US/app/id1124727497
+US,FREE,IOS,2020,6,M,88,-17,,Travel,Love's Connect,"Love's Travel Stops & Country Stores, Inc.",0.0,,2011-05-02,3586,https://itunes.apple.com/US/app/id421276073
+US,FREE,IOS,2020,6,M,89,-,,Travel,Campendium - RV & Tent Camping,"Campendium, Inc.",0.0,Annual Supporter : $23.99,2017-09-13,3486,https://itunes.apple.com/US/app/id1191380095
+US,FREE,IOS,2020,6,M,90,-2,,Travel,Wyndham Rewards,Wyndham Hotel Group,0.0,,2013-12-30,3430,https://itunes.apple.com/US/app/id783649785
+US,FREE,IOS,2020,6,M,91,-40,,Travel,Roadie Driver,Roadie Inc,0.0,,2019-11-18,3372,https://itunes.apple.com/US/app/id1436325695
+US,FREE,IOS,2020,6,M,92,+5,,Travel,Budget – Car Rental,Avis Budget Group,0.0,,2012-07-14,3361,https://itunes.apple.com/US/app/id538787758
+US,FREE,IOS,2020,6,M,93,+46,,Travel,Caesars Rewards Resort Offers,Caesars Entertainment Corporation,0.0,,2013-12-19,3318,https://itunes.apple.com/US/app/id720839830
+US,FREE,IOS,2020,6,M,94,-9,,Travel,SIXT rent share & taxi,Sixt,0.0,,2008-11-08,3301,https://itunes.apple.com/US/app/id295079411
+US,FREE,IOS,2020,6,M,95,-25,,Travel,Gotcha Mobility,"Gotcha Media Holdings, LLC",0.0,,2019-10-06,3205,https://itunes.apple.com/US/app/id1482058975
+US,FREE,IOS,2020,6,M,96,new,,Travel,FareRyder,FareRyder LLC,0.0,,2020-02-07,3176,https://itunes.apple.com/US/app/id1483605475
+US,FREE,IOS,2020,6,M,97,-6,,Travel,The Flight Tracker,International Airport Flight Track Technologies,0.0,Premium Membership Monthly : $1.99 / Ultimate Flight Tracking : $7.49 / Live Text Alerts for 4 Flights : $3.99,2012-07-20,3139,https://itunes.apple.com/US/app/id533365777
+US,FREE,IOS,2020,6,M,98,-3,,Travel,TripIt: Travel Planner,TripIt,0.0,TripIt Pro (1 Year) : $48.99,2009-04-10,3100,https://itunes.apple.com/US/app/id311035142
+US,FREE,IOS,2020,6,M,99,+15,,Travel,Vacation Countdown App,Kulana Media Productions LLC,0.0,Removal of ads : $2.99 / function to add your own picture : $2.99 / Theme Cruise Ship : $2.99,2014-11-12,3098,https://itunes.apple.com/US/app/id937072424
+US,FREE,IOS,2020,6,M,100,-4,,Travel,FlightAware Flight Tracker,FlightAware,0.0,Ad Remove - 1 Month : $0.99 / Ad Remove - 1 Year : $5.99,2009-06-04,3017,https://itunes.apple.com/US/app/id316793974
+US,FREE,IOS,2020,6,M,101,-8,,Travel,HyreCar: Rideshare Car Rentals,HyreCar Inc.,0.0,,2019-02-09,3007,https://itunes.apple.com/US/app/id1440817663
+US,FREE,IOS,2020,6,M,102,-3,,Travel,"MAPS.ME: Offline Maps, GPS Nav",MY COM,0.0,Yearly Ads Removal : $3.49 / Weekly Ads Removal : $0.99 / Overview guide : $0.99,2012-04-12,2901,https://itunes.apple.com/US/app/id510623322
+US,FREE,IOS,2020,6,M,103,-26,,Travel,Travel Channel,"The Travel Channel, L.L.C.",0.0,,2013-06-06,2896,https://itunes.apple.com/US/app/id596546023
+US,FREE,IOS,2020,6,M,104,+14,,Travel,World of Hyatt,Hyatt,0.0,,2011-11-02,2876,https://itunes.apple.com/US/app/id476639005
+US,FREE,IOS,2020,6,M,105,+17,,Travel,Gogo Entertainment,GOGO LLC,0.0,,2015-08-04,2865,https://itunes.apple.com/US/app/id1021721629
+US,FREE,IOS,2020,6,M,106,-1,,Travel,FlightHub - Book Cheap Flights,Momentum Travel Group,0.0,,2016-01-27,2864,https://itunes.apple.com/US/app/id1068318118
+US,FREE,IOS,2020,6,M,107,+33,,Travel,MTA eTix,Metropolitan Transportation Authority,0.0,,2016-06-29,2860,https://itunes.apple.com/US/app/id1104885987
+US,FREE,IOS,2020,6,M,108,-18,,Travel,Park TYB,"City of Tybee Island, Georgia",0.0,,2018-07-25,2831,https://itunes.apple.com/US/app/id1397897827
+US,FREE,IOS,2020,6,M,109,-3,,Travel,RV LIFE - RV GPS & Campgrounds,"Social Knowledge, LLC",0.0,Annual Plan : $49.99 / Monthly Plan : $9.99 / RVTW Annual Plan : $19.99,2018-09-27,2798,https://itunes.apple.com/US/app/id1275803975
+US,FREE,IOS,2020,6,M,110,-3,,Travel,Cheap flights－Jetradar,Go Travel Un Limited,0.0,Business class notifications : $1.99,2013-03-04,2767,https://itunes.apple.com/US/app/id606870241
+US,FREE,IOS,2020,6,M,111,+109,,Travel,NPS Yellowstone National Park,National Park Service,0.0,,2016-05-15,2763,https://itunes.apple.com/US/app/id1053468455
+US,FREE,IOS,2020,6,M,112,-3,,Travel,RA Camping,"RA Outdoors, LLC, d/b/a Aspira",0.0,,2012-02-24,2742,https://itunes.apple.com/US/app/id503915200
+US,FREE,IOS,2020,6,M,113,new,,Travel,Wheels - Ride Safe,"Wheels Labs, Inc.",0.0,,2018-09-14,2724,https://itunes.apple.com/US/app/id1436122530
+US,FREE,IOS,2020,6,M,114,+6,,Travel,Carla Car Rental - Rent a Car,Kasaba Bilgi Teknolojileri Ticaret A.S.,0.0,,2016-01-14,2698,https://itunes.apple.com/US/app/id1035631234
+US,FREE,IOS,2020,6,M,115,+19,,Travel,BringFido,BringFido,0.0,,2013-08-16,2651,https://itunes.apple.com/US/app/id682820712
+US,FREE,IOS,2020,6,M,116,-6,,Travel,Globe 3D - Planet Earth,Akadem GmbH,0.0,Full Pack : $19.99 / 1 Month Subscription : $18.99 / 3 Months Sale : $18.99,2017-03-19,2650,https://itunes.apple.com/US/app/id1205858913
+US,FREE,IOS,2020,6,M,117,-33,,Travel,Carnival HUB,Carnival Cruise Lines,0.0,,2015-01-15,2645,https://itunes.apple.com/US/app/id925117977
+US,FREE,IOS,2020,6,M,118,-7,,Travel,Boondocking,William Modesitt,0.0,,2012-09-18,2605,https://itunes.apple.com/US/app/id561352659
+US,FREE,IOS,2020,6,M,119,+24,,Travel,Trip.com: Flights & Hotels,Ctrip.com international,0.0,,2013-08-05,2559,https://itunes.apple.com/US/app/id681752345
+US,FREE,IOS,2020,6,M,120,+40,,Travel,Capital Bikeshare,Motivate,0.0,,2017-06-14,2549,https://itunes.apple.com/US/app/id1233403073
+US,FREE,IOS,2020,6,M,121,+23,,Travel,ParkChicago,"Chicago Parking Meters, LLC",0.0,,2014-04-11,2548,https://itunes.apple.com/US/app/id686658594
+US,FREE,IOS,2020,6,M,122,-24,,Travel,Social Bicycles,MobilityCloud Inc,0.0,,2013-05-09,2543,https://itunes.apple.com/US/app/id641497286
+US,FREE,IOS,2020,6,M,123,+14,,Travel,MYmta,Metropolitan Transportation Authority,0.0,,2018-07-02,2541,https://itunes.apple.com/US/app/id1297605670
+US,FREE,IOS,2020,6,M,124,+3,,Travel,RV Parks & Campgrounds,ParkAdvisor LLC,0.0,,2015-05-18,2483,https://itunes.apple.com/US/app/id991632449
+US,FREE,IOS,2020,6,M,125,+8,,Travel,Cheapflights Flights & Hotels,Cheapflights,0.0,,2014-10-31,2431,https://itunes.apple.com/US/app/id773105628
+US,FREE,IOS,2020,6,M,126,+3,,Travel,National Car Rental,National Car Rental,0.0,,2013-08-01,2396,https://itunes.apple.com/US/app/id675304115
+US,FREE,IOS,2020,6,M,127,+65,,Travel,CheapTickets Hotels & Flights,CheapTickets,0.0,,2014-06-18,2380,https://itunes.apple.com/US/app/id880759727
+US,FREE,IOS,2020,6,M,128,-11,,Travel,zTrip,zTrip INC,0.0,,2012-09-27,2337,https://itunes.apple.com/US/app/id559861547
+US,FREE,IOS,2020,6,M,129,+54,,Travel,campersAPP,Gere Enterprises,0.0,,2016-07-14,2319,https://itunes.apple.com/US/app/id1051556213
+US,FREE,IOS,2020,6,M,130,+32,,Travel,REEF Mobile: Parking Made Easy,Reef Global Inc.,0.0,,2020-03-27,2316,https://itunes.apple.com/US/app/id1502843483
+US,FREE,IOS,2020,6,M,131,+40,,Travel,Rentalcars.com Car rental App,Booking.com Transport Limited,0.0,,2014-01-06,2315,https://itunes.apple.com/US/app/id570156001
+US,FREE,IOS,2020,6,M,132,+15,,Travel,Alamo - Car Rental,"Enterprise Holdings, Inc.",0.0,,2018-09-23,2288,https://itunes.apple.com/US/app/id1434891109
+US,FREE,IOS,2020,6,M,133,-30,,Travel,Trucker Tools,Salebug.com LLC,0.0,,2010-04-09,2258,https://itunes.apple.com/US/app/id362413088
+US,FREE,IOS,2020,6,M,134,-22,,Travel,Disneyland®,Disney,0.0,Digital Photo Download : $14.99,2015-08-04,2255,https://itunes.apple.com/US/app/id1022164656
+US,FREE,IOS,2020,6,M,135,-31,,Travel,MacroPoint For Truckers,The Descartes Systems Group,0.0,,2013-08-08,2245,https://itunes.apple.com/US/app/id680879975
+US,FREE,IOS,2020,6,M,136,+25,,Travel,PTC E-ZPass,TransCore / Pennsylvania Turnpike Commission,0.0,,2019-02-23,2221,https://itunes.apple.com/US/app/id1448386870
+US,FREE,IOS,2020,6,M,137,+1,,Travel,Cheap hotel deals — Hotellook,Go Travel Un Limited,0.0,,2014-04-30,2209,https://itunes.apple.com/US/app/id762156897
+US,FREE,IOS,2020,6,M,138,-12,,Travel,iOverlander,Sam Christiansen,0.0,,2014-07-25,2205,https://itunes.apple.com/US/app/id894352689
+US,FREE,IOS,2020,6,M,139,-23,,Travel,NTTA Tollmate®,North Texas Tollway Authority,0.0,,2013-05-20,2193,https://itunes.apple.com/US/app/id640432720
+US,FREE,IOS,2020,6,M,140,+29,,Travel,National Park Trail Guide,Adventure Projects Inc.,0.0,,2015-09-15,2177,https://itunes.apple.com/US/app/id1031987936
+US,FREE,IOS,2020,6,M,141,-22,,Travel,My Firestone,"Bridgestone Retail Operations, LLC",0.0,,2012-02-27,2174,https://itunes.apple.com/US/app/id503947184
+US,FREE,IOS,2020,6,M,142,-29,,Travel,The Real Yellow Pages - YP,YELLOWPAGES.COM LLC,0.0,,2019-02-11,2132,https://itunes.apple.com/US/app/id284806204
+US,FREE,IOS,2020,6,M,143,-15,,Travel,myAudi,Audi,0.0,,2018-08-27,2124,https://itunes.apple.com/US/app/id440464115
+US,FREE,IOS,2020,6,M,144,+2,,Travel,Good Sam Camping,Consent Media & Waterfield Technologies,0.0,,2011-07-21,2110,https://itunes.apple.com/US/app/id449060020
+US,FREE,IOS,2020,6,M,145,-14,,Travel,Beat - Ride app,Taxibeat Ltd.,0.0,,2011-05-23,2109,https://itunes.apple.com/US/app/id436031420
+US,FREE,IOS,2020,6,M,146,+42,,Travel,HomeToGo: Vacation Rentals,hometogo.com,0.0,,2016-08-26,2105,https://itunes.apple.com/US/app/id1104996296
+US,FREE,IOS,2020,6,M,147,-15,,Travel,AARP Roadside Assistance,"Signature Motor Club, Inc.",0.0,,2013-05-25,2097,https://itunes.apple.com/US/app/id647759413
+US,FREE,IOS,2020,6,M,148,-25,,Travel,Translate Free - Language Translator & Dictionary,myLanguage,0.0,,2009-03-10,2090,https://itunes.apple.com/US/app/id306752957
+US,FREE,IOS,2020,6,M,149,-24,,Travel,WiFi Around - Nearby Hotspots,Chengdu Meiji Tuwen Co. LTD,0.0,,2018-07-03,2088,https://itunes.apple.com/US/app/id1391573345
+US,FREE,IOS,2020,6,M,150,+137,,Travel,Universal Studios Hollywood™,"NBCUniversal Media, LLC",0.0,,2020-06-17,2064,https://itunes.apple.com/US/app/id1148662693
+US,FREE,IOS,2020,6,M,151,+33,,Travel,Ventra,Chicago Transit Authority,0.0,,2015-11-18,2060,https://itunes.apple.com/US/app/id1005645256
+US,FREE,IOS,2020,6,M,152,+6,,Travel,RYDEapp,RYDE INC,0.0,,2017-12-14,1992,https://itunes.apple.com/US/app/id1316990341
+US,FREE,IOS,2020,6,M,153,-45,,Travel,Texas State Parks Guide,Texas Parks & Wildlife,0.0,,2016-03-02,1988,https://itunes.apple.com/US/app/id1047413656
+US,FREE,IOS,2020,6,M,154,+25,,Travel,nextbike,nextbike,0.0,,2012-03-09,1987,https://itunes.apple.com/US/app/id504288371
+US,FREE,IOS,2020,6,M,155,+8,,Travel,RV Parky - Parks & Campgrounds,Mission Management Information Systems Inc.,0.0,,2013-09-12,1930,https://itunes.apple.com/US/app/id695969271
+US,FREE,IOS,2020,6,M,156,-26,,Travel,TruckSmart ™,Travelcenters of America,0.0,,2011-02-23,1922,https://itunes.apple.com/US/app/id420579235
+US,FREE,IOS,2020,6,M,157,-22,,Travel,Hum: GPS Family Locator,Verizon Connect Inc.,0.0,,2015-08-28,1910,https://itunes.apple.com/US/app/id1023978906
+US,FREE,IOS,2020,6,M,158,+33,,Travel,GetMyBoat,"GetMyBoat, Inc",0.0,,2013-07-19,1896,https://itunes.apple.com/US/app/id673121605
+US,FREE,IOS,2020,6,M,159,-3,,Travel,OjO - Rideshare Done Right,"OjO Electric, LLC",0.0,,2018-12-27,1888,https://itunes.apple.com/US/app/id1390111731
+US,FREE,IOS,2020,6,M,160,-12,,Travel,Hawaiian Airlines,"Hawaiian Airlines, Inc.",0.0,,2012-11-08,1869,https://itunes.apple.com/US/app/id575400964
+US,FREE,IOS,2020,6,M,161,-4,,Travel,iExit Interstate Exit Guide,"Metrocket, LLC",0.0,Bottom Banner Ad Removal : $1.99,2010-11-10,1863,https://itunes.apple.com/US/app/id401746066
+US,FREE,IOS,2020,6,M,162,-38,,Travel,WiFi Finder + Map,Etrality GmbH,0.0,Remove Ads : $1.99 / Offline Maps Deal : $7.99 / Offline Maps 3 Months Subscription : $3.99,2015-03-10,1831,https://itunes.apple.com/US/app/id946365975
+US,FREE,IOS,2020,6,M,163,+4,,Travel,Best Western to Go,Best Western International,0.0,,2009-12-17,1826,https://itunes.apple.com/US/app/id343620821
+US,FREE,IOS,2020,6,M,164,+11,,Travel,GIG Car Share,A3 Mobility LLC,0.0,,2017-04-16,1809,https://itunes.apple.com/US/app/id1221568885
+US,FREE,IOS,2020,6,M,165,new,,Travel,HERide,HERide LLC,0.0,,2020-02-21,1788,https://itunes.apple.com/US/app/id1494482042
+US,FREE,IOS,2020,6,M,166,-16,,Travel,FreeRoam - Boondocking & More,FreeRoam Foundation,0.0,,2018-08-31,1756,https://itunes.apple.com/US/app/id1434359242
+US,FREE,IOS,2020,6,M,167,+11,,Travel,Harvest Hosts,Harvest Hosts,0.0,,2017-12-12,1746,https://itunes.apple.com/US/app/id1321631420
+US,FREE,IOS,2020,6,M,168,+42,,Travel,NYC Ferry by Hornblower,Hornblower Cruises & Events,0.0,,2017-04-23,1673,https://itunes.apple.com/US/app/id1225258864
+US,FREE,IOS,2020,6,M,169,+8,,Travel,Aeromexico,Aeroméxico,0.0,,2017-02-01,1651,https://itunes.apple.com/US/app/id1180513011
+US,FREE,IOS,2020,6,M,170,+17,,Travel,Toll Calculator GPS Navigation,InfoTalk LLC,0.0,1-Year Car Only : $4.99 / 3-Month Truck RV Bus Car : $4.99 / 6-Month Truck RV Bus Car : $9.99,2016-03-20,1622,https://itunes.apple.com/US/app/id1087852553
+US,FREE,IOS,2020,6,M,171,+2,,Travel,The BACH,Menna Tech LLC,0.0,,2020-06-25,1608,https://itunes.apple.com/US/app/id1433495524
+US,FREE,IOS,2020,6,M,172,+53,,Travel,OpenKey,Openkey,0.0,,2015-05-22,1533,https://itunes.apple.com/US/app/id990142776
+US,FREE,IOS,2020,6,M,173,+9,,Travel,E-PASS Toll App,Central Florida Expressway Authority,0.0,,2019-07-22,1528,https://itunes.apple.com/US/app/id1450310543
+US,FREE,IOS,2020,6,M,174,+35,,Travel,Flowbird parking,Flowbird,0.0,,2018-11-22,1502,https://itunes.apple.com/US/app/id1440123516
+US,FREE,IOS,2020,6,M,175,+14,,Travel,DiDi-Rider,DiDi,0.0,,2018-04-22,1500,https://itunes.apple.com/US/app/id1362398401
+US,FREE,IOS,2020,6,M,176,-27,,Travel,Grab App,Grab.com,0.0,,2013-05-15,1469,https://itunes.apple.com/US/app/id647268330
+US,FREE,IOS,2020,6,M,177,+44,,Travel,ParkBoston – Boston Parking,City of Boston,0.0,,2015-01-02,1432,https://itunes.apple.com/US/app/id953579075
+US,FREE,IOS,2020,6,M,178,new,,Travel,Sharktivity,Conserve.IO,0.0,,2016-06-30,1408,https://itunes.apple.com/US/app/id1097933510
+US,FREE,IOS,2020,6,M,179,+33,,Travel,App in the Air,AITA LIMITED,0.0,Annual premium subscription : $29.99 / Monthly subscription for premium features : $4.99 / Lifetime Text/Push subscription for all flights alerts : $49.99,2012-05-31,1404,https://itunes.apple.com/US/app/id527299553
+US,FREE,IOS,2020,6,M,180,-80,,Travel,Play Disney Parks,Disney,0.0,,2018-06-30,1374,https://itunes.apple.com/US/app/id1325935439
+US,FREE,IOS,2020,6,M,181,+82,,Travel,Asbury PARK - parking app,City of Asbury Park,0.0,,2017-05-25,1340,https://itunes.apple.com/US/app/id1237340067
+US,FREE,IOS,2020,6,M,182,-41,,Travel,Royal Caribbean International,Royal Caribbean Cruises Ltd.,0.0,,2020-06-16,1306,https://itunes.apple.com/US/app/id1260728016
+US,FREE,IOS,2020,6,M,183,-17,,Travel,Guthook Guides: Hike Offline,Atlas Guides LLC,0.0,AT Section 1: GA/NC : $8.99 / Guthook's Appalachian Trail : $59.99 / AT Section 5: PA & MD : $8.99,2013-03-08,1264,https://itunes.apple.com/US/app/id605447532
+US,FREE,IOS,2020,6,M,184,+83,,Travel,LINK — Scooter Sharing,Superpedestrian,0.0,,2020-01-21,1231,https://itunes.apple.com/US/app/id1487864428
+US,FREE,IOS,2020,6,M,185,-21,,Travel,inDriver: Offer your fare,INDRIVERRU LTD,0.0,,2020-05-30,1196,https://itunes.apple.com/US/app/id780125801
+US,FREE,IOS,2020,6,M,186,new,,Travel,QEEQ Car Rental -  Rental Cars,Easy Tour International Ltd.,0.0,,2017-06-26,1153,https://itunes.apple.com/US/app/id1227605924
+US,FREE,IOS,2020,6,M,187,-42,,Travel,Webcams – EarthCam,"EarthCam, Inc.",0.0,Buy All Webcam Packages : $4.99,2014-08-14,1110,https://itunes.apple.com/US/app/id853926670
+US,FREE,IOS,2020,6,M,188,-33,,Travel,EZ TAG,Harris County Toll Road Authority,0.0,,2019-12-12,1097,https://itunes.apple.com/US/app/id1477234981
+US,FREE,IOS,2020,6,M,189,+43,,Travel,Last Minute – Cheap Flights,Andrei Danileiko,0.0,,2015-01-17,1067,https://itunes.apple.com/US/app/id952459926
+US,FREE,IOS,2020,6,M,190,+14,,Travel,Vrbo Owner,"HomeAway.com, Inc.",0.0,,2016-02-02,1060,https://itunes.apple.com/US/app/id1071907841
+US,FREE,IOS,2020,6,M,191,new,,Travel,The Parking Spot®,The Parking Spot,0.0,,2015-05-20,1023,https://itunes.apple.com/US/app/id965838041
+US,FREE,IOS,2020,6,M,192,-16,,Travel,abillionveg - Find Vegan Stuff,"abillionveg, Inc.",0.0,,2020-05-29,987,https://itunes.apple.com/US/app/id1377119949
+US,FREE,IOS,2020,6,M,193,-23,,Travel,My Currency Converter & Rates,JRustonApps B.V.,0.0,Remove Ads from My Currency Converter : $0.99 / removal of advertisements license : $0.99,2012-08-20,979,https://itunes.apple.com/US/app/id549019596
+US,FREE,IOS,2020,6,M,194,+39,,Travel,Kiwi.com: Cheap Travel Deals,Kiwi.com s.r.o,0.0,,2013-06-11,971,https://itunes.apple.com/US/app/id657843853
+US,FREE,IOS,2020,6,M,195,+5,,Travel,"Radisson Hotels, hotel booking","Radisson Hospitality, Inc.",0.0,,2019-08-16,963,https://itunes.apple.com/US/app/id1437901776
+US,FREE,IOS,2020,6,M,196,new,,Travel,OK State Parks Official Guide,Oklahoma Tourism and Recreation Department,0.0,,2020-06-13,961,https://itunes.apple.com/US/app/id1512625834
+US,FREE,IOS,2020,6,M,197,+53,,Travel,ParkByApp,"Park By App, Inc",0.0,,2016-04-20,953,https://itunes.apple.com/US/app/id1104440562
+US,FREE,IOS,2020,6,M,198,-45,,Travel,Sonder - Taking Stay Further,Sonder,0.0,,2019-01-08,946,https://itunes.apple.com/US/app/id1422914567
+US,FREE,IOS,2020,6,M,199,+30,,Travel,MTA Bus Time,Metropolitan Transportation Authority,0.0,,2015-05-27,895,https://itunes.apple.com/US/app/id991384615
+US,FREE,IOS,2020,6,M,200,+14,,Travel,Skip Scooters,"Skip Transport, Inc.",0.0,,2018-02-23,889,https://itunes.apple.com/US/app/id1296115307

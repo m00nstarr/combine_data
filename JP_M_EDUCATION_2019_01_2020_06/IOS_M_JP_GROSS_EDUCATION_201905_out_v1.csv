@@ -1,0 +1,201 @@
+Country,Type,OS,year,month,date type,Rank,Change,Industry,subcategory,App,Publisher,Price,Inapp,Date,CRScore,URL(Address)
+JP,GROSS,IOS,2019,5,M,1,+16,,Education,EWA English: 初心者のために英語を学ぶ,Lithium Lab Pte Ltd,0.0,,2017-05-18,222586,https://itunes.apple.com/JP/app/id1200778841
+JP,GROSS,IOS,2019,5,M,2,-,,Education,英会話、英語リスニング - スタディサプリENGLISH,"Recruit Co.,Ltd.",0.0,,2015-10-29,151209,https://itunes.apple.com/JP/app/id1048103403
+JP,GROSS,IOS,2019,5,M,3,-2,,Education,算数を簡単に(Math Learner 数学),Fun Games For Free,0.0,,2018-09-06,150871,https://itunes.apple.com/JP/app/id1148728253
+JP,GROSS,IOS,2019,5,M,4,-1,,Education,スタディサプリ,"Recruit Co.,Ltd.",0.0,,2016-02-24,110941,https://itunes.apple.com/JP/app/id1059640427
+JP,GROSS,IOS,2019,5,M,5,-1,,Education,AI英会話SpeakBuddy(スピークバディ),appArray Inc.,0.0,"SpeakBuddyプレミアムサービス : ¥1,950 / 英会話・英語学習アプリスピークバディプレミアムサービス : ¥1,950 / SpeakBuddyプレミアムサービス - 1年プラン : ¥14,000",2016-09-25,57560,https://itunes.apple.com/JP/app/id1129621266
+JP,GROSS,IOS,2019,5,M,6,-1,,Education,AI英語教材abceed（エービーシード）,Globee.Inc,0.0,,2015-12-15,49716,https://itunes.apple.com/JP/app/id1060016132
+JP,GROSS,IOS,2019,5,M,7,+4,,Education,Udemy:ビデオで授業が受けられる学習アプリ,Udemy,0.0,,2012-10-15,40102,https://itunes.apple.com/JP/app/id562413829
+JP,GROSS,IOS,2019,5,M,8,-2,,Education,スタディサプリENGLISH TOEIC®L&Rテスト対策,"Recruit Co.,Ltd.",0.0,"スタディサプリ ENGLISH TOEICプレミアムサービス : ¥3,700",2017-08-06,39385,https://itunes.apple.com/JP/app/id1256890650
+JP,GROSS,IOS,2019,5,M,9,-2,,Education,英単語アプリ mikan,"mikan Co.,Ltd.",0.0,,2014-10-27,37654,https://itunes.apple.com/JP/app/id920856839
+JP,GROSS,IOS,2019,5,M,10,-1,,Education,Duolingoで英会話 - リスニングや会話の練習,Duolingo,0.0,,2012-11-13,31155,https://itunes.apple.com/JP/app/id570060128
+JP,GROSS,IOS,2019,5,M,11,+3,,Education,続く英語学習 えいぽんたん！ 英単語からリスニングまで,"Drecom Co., Ltd.",0.0,,2013-04-14,28694,https://itunes.apple.com/JP/app/id592674216
+JP,GROSS,IOS,2019,5,M,12,-4,,Education,JoyTunes がおくる Simply Piano,JoyTunes,0.0,,2015-09-01,26309,https://itunes.apple.com/JP/app/id1019442026
+JP,GROSS,IOS,2019,5,M,13,-,,Education,Busuu | 言語学習 - 英語、中国語、外国語勉強,Busuu Limited,0.0,,2010-09-21,24234,https://itunes.apple.com/JP/app/id379968583
+JP,GROSS,IOS,2019,5,M,14,-4,,Education,語学プレーヤー〈NHK出版〉,"NHK Publishing,Inc.",0.0,NHK 基礎英語３　2011年4月号（上） : ¥730 / NHK 基礎英語３　2011年4月号（下） : ¥860 / NHK ラジオ英会話　2011年4月号（上） : ¥980,2011-03-08,23375,https://itunes.apple.com/JP/app/id420342384
+JP,GROSS,IOS,2019,5,M,15,-,,Education,LissN ビジネスニュースを英語でリスニング,NIKKEI INC.,0.0,Basic Plan 1 Month : ¥600 / Unlimited Plan 1 Month : ¥980,2015-06-21,19833,https://itunes.apple.com/JP/app/id991262185
+JP,GROSS,IOS,2019,5,M,16,+3,,Education,Progate -楽しく学べるプログラミング学習アプリ,Progate,0.0,,2018-01-21,18975,https://itunes.apple.com/JP/app/id1335868128
+JP,GROSS,IOS,2019,5,M,17,+1,,Education,ニック式英会話ジム,INSTYLE GROUP,"¥3,000",,2019-02-19,17861,https://itunes.apple.com/JP/app/id1441895583
+JP,GROSS,IOS,2019,5,M,18,-6,,Education,PEAK（ピーク）- 脳トレ,brainbow,0.0,,2014-09-01,17366,https://itunes.apple.com/JP/app/id806223188
+JP,GROSS,IOS,2019,5,M,19,-3,,Education,HelloTalkハロートーク-英語を勉強する,HELLOTALK FOREIGN LANGUAGE EXCHANGE LEARNING TALK CHAT APP,0.0,,2012-12-15,17006,https://itunes.apple.com/JP/app/id557130558
+JP,GROSS,IOS,2019,5,M,20,-,,Education,うたって！おどって！アンパンマン,"SMARTEDUCATION, Ltd.",0.0,"うたっておどってアンパンマン あそびほうだいコース : ¥600 / うたっておどってアンパンマン あそびほうだいコース : ¥4,800",2015-02-18,15984,https://itunes.apple.com/JP/app/id958023729
+JP,GROSS,IOS,2019,5,M,21,+7,,Education,英語学習 POLYGLOTS - TOEIC・TOEFL対策,POLYGLOTS inc.,0.0,プレミアム購読 : ¥480 / 旺文社TOEFLテスト英単語3800 ランク1 : ¥730 / 旺文社TOEFLテスト英単語3800 ランク2 : ¥730,2014-06-14,14404,https://itunes.apple.com/JP/app/id877494771
+JP,GROSS,IOS,2019,5,M,22,-1,,Education,英語学習 iKnow!,Cerego,0.0,"6 Month Plan : ￦59,000 / 12 Month Plan : ￦99,000",2011-03-19,13965,https://itunes.apple.com/JP/app/id417713473
+JP,GROSS,IOS,2019,5,M,23,+26,,Education,PictureThis：撮ったら、判る-1秒植物図鑑,Glority Global Group Ltd.,0.0,,2017-09-25,13670,https://itunes.apple.com/JP/app/id1252497129
+JP,GROSS,IOS,2019,5,M,24,-2,,Education,やったね！できたね！アンパンマン,"SMARTEDUCATION, Ltd.",0.0,やったねできたねアンパンマン　あそびほうだいコース : ¥600,2015-04-29,12907,https://itunes.apple.com/JP/app/id973379577
+JP,GROSS,IOS,2019,5,M,25,+1,,Education,英会話で親日外国人と友達になろうーLangmate,Langmate Inc.,0.0,,2016-04-05,12773,https://itunes.apple.com/JP/app/id1093968775
+JP,GROSS,IOS,2019,5,M,26,+20,,Education,英語リスニングの神: 英会話 勉強 学習 - RedKiwi,HayanMind Inc.,0.0,,2017-05-16,11969,https://itunes.apple.com/JP/app/id1227219560
+JP,GROSS,IOS,2019,5,M,27,-3,,Education,Real英会話,"LT Box Co., Ltd.",¥600,,2010-05-26,11441,https://itunes.apple.com/JP/app/id373563219
+JP,GROSS,IOS,2019,5,M,28,-5,,Education,ターゲットの友 英単語アプリ,"Obunsha Co.,Ltd.",0.0,必勝パック(マイリスニング+苦手特訓） : ¥730 / マイリスニングのみ : ¥490 / 苦手特訓のみ : ¥490,2014-04-29,11114,https://itunes.apple.com/JP/app/id860500836
+JP,GROSS,IOS,2019,5,M,29,-2,,Education,タッチ！あそベビー,WAO CORPORATION,0.0,,2013-05-07,10835,https://itunes.apple.com/JP/app/id634212248
+JP,GROSS,IOS,2019,5,M,30,-,,Education,Think!Think!シンクシンク 思考力が育つ教育アプリ,WonderLab Inc.,0.0,,2016-03-11,9473,https://itunes.apple.com/JP/app/id1082259392
+JP,GROSS,IOS,2019,5,M,31,+1,,Education,楽しく外国語を覚えるならMemrise - スピーキング重視,Memrise,0.0,,2013-05-20,9192,https://itunes.apple.com/JP/app/id635966718
+JP,GROSS,IOS,2019,5,M,32,-1,,Education,バイリンガルニュース,Michael Yamaura,0.0,"38. Bilingual News 11.04.13 : ￦1,200 / 39. Bilingual News 11.07.13 : ￦1,200 / 1. Bilingual News 05.15.13 : 0",2014-01-17,9093,https://itunes.apple.com/JP/app/id722855127
+JP,GROSS,IOS,2019,5,M,33,+7,,Education,どんどん話すための瞬間英作文トレーニング,Beret Publishing Co. INC,"¥1,200",おかわり！どんどん話すための瞬間英作文トレーニング : ¥860,2011-06-14,9091,https://itunes.apple.com/JP/app/id443332137
+JP,GROSS,IOS,2019,5,M,34,+8,,Education,クレヨンしんちゃん お手伝い大作戦,Neos Corporation,0.0,,2017-07-26,8365,https://itunes.apple.com/JP/app/id1241122788
+JP,GROSS,IOS,2019,5,M,35,+10,,Education,Tandem タンデム - 言語交換で外国語学習,Tripod Technology,0.0,,2015-02-20,8342,https://itunes.apple.com/JP/app/id959001619
+JP,GROSS,IOS,2019,5,M,36,+3,,Education,だいすけお兄さんから電話,MediaActive Inc.,0.0,だいすけお兄さんアプリ月額会員 : ¥350 / 100Point : ¥120 / 200Point : ¥250,2017-12-04,8271,https://itunes.apple.com/JP/app/id1290089796
+JP,GROSS,IOS,2019,5,M,37,+6,,Education,Eigooo 英会話,Eigooo Inc.,0.0,,2014-01-15,8090,https://itunes.apple.com/JP/app/id767915885
+JP,GROSS,IOS,2019,5,M,38,-13,,Education,Bright - 初心者のための英語,Language Apps Limited,0.0,,2017-09-04,7591,https://itunes.apple.com/JP/app/id1258621855
+JP,GROSS,IOS,2019,5,M,39,+13,,Education,ざっくり英語ニュース！StudyNow(リスニング・解説付),株式会社イオテックインターナショナル,0.0,"魔法の鍵20個 : ¥250 / 魔法の鍵66個 : ¥730 / 魔法の鍵140個セット : ¥1,480",2014-12-14,7443,https://itunes.apple.com/JP/app/id934785989
+JP,GROSS,IOS,2019,5,M,40,-5,,Education,究極英単語,Yibei Inc,0.0,"究極英単語(3ヵ月) : ¥1,500 / 究極英単語(6ヵ月) : ¥2,700 / 究極英単語(1年間) : ¥3,600",2012-11-25,7361,https://itunes.apple.com/JP/app/id556736118
+JP,GROSS,IOS,2019,5,M,41,+13,,Education,mikan でる順パス単準1級,"mikan Co.,Ltd.",¥840,,2017-05-18,7036,https://itunes.apple.com/JP/app/id1226898942
+JP,GROSS,IOS,2019,5,M,42,-5,,Education,CNN ENGLISH EXPRESS,"Asahipress Co., Ltd.",0.0,,2014-03-06,7003,https://itunes.apple.com/JP/app/id826292491
+JP,GROSS,IOS,2019,5,M,43,-5,,Education,Schoo（スクー） - ライブ動画で学べるアプリ,SCHOO INC.,0.0,,2015-03-30,6973,https://itunes.apple.com/JP/app/id903311774
+JP,GROSS,IOS,2019,5,M,44,-3,,Education,言語を学ぶ - LinGo Play,Lingo Play Ltd,0.0,,2015-03-09,6766,https://itunes.apple.com/JP/app/id969976197
+JP,GROSS,IOS,2019,5,M,45,+58,,Education,HelloChinese - 中国語を学ぼう,"HelloChinese Technology Co., Ltd.",0.0,,2015-06-18,6566,https://itunes.apple.com/JP/app/id1001507516
+JP,GROSS,IOS,2019,5,M,46,+2,,Education,AnkiMobile Flashcards,Ankitects Pty Ltd,"¥3,000",,2010-05-26,6530,https://itunes.apple.com/JP/app/id373493387
+JP,GROSS,IOS,2019,5,M,47,-13,,Education,きこえ〜ご　生きた英語を楽しくリスニング！,Reducate,0.0,,2015-09-04,6454,https://itunes.apple.com/JP/app/id977104066
+JP,GROSS,IOS,2019,5,M,48,+29,,Education,「２級建築士」受験対策,TK office,¥720,,2012-06-13,6188,https://itunes.apple.com/JP/app/id532066477
+JP,GROSS,IOS,2019,5,M,49,+1,,Education,Epic! - Kids’ Books and Videos,"Epic Creations, Inc.",0.0,,2013-12-01,6134,https://itunes.apple.com/JP/app/id719219382
+JP,GROSS,IOS,2019,5,M,50,-17,,Education,ユーキャン資格本アプリ,"U-CAN,Inc.",0.0,"保育士 一問一答 2018年版 : ¥1,100 / 社労士 速習レッスン 2018年版 : ¥3,540 / 登録販売者 一問一答 第5版 : ¥1,100",2018-04-01,6113,https://itunes.apple.com/JP/app/id1339813610
+JP,GROSS,IOS,2019,5,M,51,+21,,Education,超字幕　映画で英語は上達する,SOURCENEXT CORPORATION,0.0,"ハリー・ポッターと秘密の部屋 : ¥1,840 / ターミネーター：サラ・コナー クロニクルズⅠ 7～9 : ¥1,840 / プラダを着た悪魔 : ¥1,840",2011-07-04,6071,https://itunes.apple.com/JP/app/id429115007
+JP,GROSS,IOS,2019,5,M,52,+6,,Education,数研Library　－数研の教材をスマホ・タブレットで学習－,Suken Shuppan K.K.,0.0,,2016-04-14,6064,https://itunes.apple.com/JP/app/id1076051161
+JP,GROSS,IOS,2019,5,M,53,+14,,Education,Quizlet  クイズレット: 英語を習うそして勉強,Quizlet Inc,0.0,,2012-08-08,5774,https://itunes.apple.com/JP/app/id546473125
+JP,GROSS,IOS,2019,5,M,54,-25,,Education,英単語  by 物書堂,物書堂,0.0,英単語ターゲット1900（5訂版） : ¥610 / チャンクで英単語 Basic : ¥610 / チャンクで英単語 Basic【無料お試し版】 : 0,2019-03-04,5743,https://itunes.apple.com/JP/app/id1398954789
+JP,GROSS,IOS,2019,5,M,55,-4,,Education,絵本が読み放題！知育アプリPIBO,"EVER SENSE, INC.",0.0,,2013-12-07,5649,https://itunes.apple.com/JP/app/id765195011
+JP,GROSS,IOS,2019,5,M,56,+3,,Education,アオイゼミ - 中学生・高校生向けの勉強アプリ,Aoi.co,0.0,,2013-08-09,5583,https://itunes.apple.com/JP/app/id659363761
+JP,GROSS,IOS,2019,5,M,57,+39,,Education,「一級建築施工管理技士」受験対策,TK office,¥960,,2015-05-21,5523,https://itunes.apple.com/JP/app/id992831778
+JP,GROSS,IOS,2019,5,M,58,+5,,Education,Blinkist: 15min Book Insights,Blinks Labs,0.0,,2013-11-13,5451,https://itunes.apple.com/JP/app/id568839295
+JP,GROSS,IOS,2019,5,M,59,+10,,Education,キクタン TOEIC®【All-in-One版】(アルク),PLAYSQUARE INC.,"¥1,800","例文音声 : ¥1,220 / 総合テスト(8種のテスト形式) : ¥1,220 / 総合テスト＋例文音声＋単語レベル診断 : ¥2,440",2017-04-28,5424,https://itunes.apple.com/JP/app/id1230841760
+JP,GROSS,IOS,2019,5,M,60,-5,,Education,FluentU: 言語学習アプリ - ビデオで言語を学ぼう！,Enux Education Limited,0.0,,2016-02-24,5289,https://itunes.apple.com/JP/app/id917892175
+JP,GROSS,IOS,2019,5,M,61,-5,,Education,アンパンマンとこれ なあに？｜赤ちゃん・幼児向け無料知育アプリ,Forecast Communications Inc.,0.0,たべものパック : ¥370 / のりもの : ¥370 / どうぶつ : ¥370,2016-06-29,5278,https://itunes.apple.com/JP/app/id1125367683
+JP,GROSS,IOS,2019,5,M,62,-15,,Education,おたよりBOX - 写真で子供のプリント整理,NIFTY Corporation,0.0,【終了】プレミアム会員（1ヶ月） : ¥370 / 有償ライセンス : ¥500,2015-04-01,5056,https://itunes.apple.com/JP/app/id972578446
+JP,GROSS,IOS,2019,5,M,63,+7,,Education,N予備校,"DWANGO Co., Ltd.",0.0,,2016-04-06,5023,https://itunes.apple.com/JP/app/id1082669389
+JP,GROSS,IOS,2019,5,M,64,-11,,Education,森のえほん館◆絵本の読み聞かせアプリ,I-FREEK INC.,0.0,"森のえほん館・絵本読み放題パック : ¥240 / 森のえほん館・絵本読み放題パック : ¥1,400 / 森のえほん館・絵本読み放題パック : ¥2,000",2013-03-27,4901,https://itunes.apple.com/JP/app/id605346659
+JP,GROSS,IOS,2019,5,M,65,+29,,Education,究極の英単語 【All-in-One版】 (アルク),PLAYSQUARE INC.,"¥2,400","総合テスト(6種のテスト形式) : ¥1,220 / 追加例文(音声つき) : ¥1,220 / 単語レベル診断(全レベル対応) : ¥610",2017-06-28,4895,https://itunes.apple.com/JP/app/id1251820760
+JP,GROSS,IOS,2019,5,M,66,+8,,Education,mikan でる順パス単2級,"mikan Co.,Ltd.",¥840,,2017-05-17,4847,https://itunes.apple.com/JP/app/id1226898148
+JP,GROSS,IOS,2019,5,M,67,-23,,Education,資格の大原 社労士トレ問2019,株式会社ビズバレー,0.0,,2018-09-23,4767,https://itunes.apple.com/JP/app/id1435277281
+JP,GROSS,IOS,2019,5,M,68,+20,,Education,Mondly: 33の言語を学習する,ATi Studios,0.0,,2015-06-03,4478,https://itunes.apple.com/JP/app/id987873536
+JP,GROSS,IOS,2019,5,M,69,-7,,Education,Lingokids　子供向け英語,Monkimun Inc,0.0,,2015-09-10,4470,https://itunes.apple.com/JP/app/id1002043426
+JP,GROSS,IOS,2019,5,M,70,+11,,Education,SnapCalc - 数学の問題解決用アプリ,Apalon Apps,0.0,,2017-12-04,4245,https://itunes.apple.com/JP/app/id1267331464
+JP,GROSS,IOS,2019,5,M,71,+9,,Education,「１級建築士」受験対策,TK office,¥960,,2013-04-04,4152,https://itunes.apple.com/JP/app/id628381163
+JP,GROSS,IOS,2019,5,M,72,+17,,Education,はらぺこクッキング,WAO CORPORATION,0.0,ホールケーキ : ¥370 / ハンバーグ : ¥370 / クレープ : ¥370,2018-01-09,4082,https://itunes.apple.com/JP/app/id1295540363
+JP,GROSS,IOS,2019,5,M,73,+18,,Education,"Yousician Guitar, Piano & Bass",Yousician Ltd,0.0,,2015-02-26,4052,https://itunes.apple.com/JP/app/id959883039
+JP,GROSS,IOS,2019,5,M,74,-17,,Education,Lumosity: 毎日の脳トレゲーム,"Lumos Labs, Inc.",0.0,,2013-06-12,3975,https://itunes.apple.com/JP/app/id577232024
+JP,GROSS,IOS,2019,5,M,75,-11,,Education,Eテレおやこでリズムあそび,"SMARTEDUCATION, Ltd.",0.0,"「リズムあそび」遊び放題コース : ¥600 / 「リズムあそび」遊び放題コース : ¥1,400 / 「リズムあそび」遊び放題コース : ¥3,600",2013-10-17,3880,https://itunes.apple.com/JP/app/id698529229
+JP,GROSS,IOS,2019,5,M,76,+8,,Education,ターゲットの友1400　英単語アプリ,"Obunsha Co.,Ltd.",0.0,必勝パック(マイリスニング+苦手特訓） : ¥730 / マイリスニングのみ : ¥490 / 苦手特訓のみ : ¥490,2016-05-31,3862,https://itunes.apple.com/JP/app/id1112454696
+JP,GROSS,IOS,2019,5,M,77,+8,,Education,講座受け放題の資格学習アプリ｜オンスク.JP,ONLINE SCHOOL,0.0,"全講座パック : ¥1,400 / FP3級 : ¥840 / 宅建 : ¥960",2017-03-13,3764,https://itunes.apple.com/JP/app/id1099028699
+JP,GROSS,IOS,2019,5,M,78,+17,,Education,FP2級過去問題集SmartAI - '18-'19年度版,GUENOCROSS INC.,0.0,,2018-07-26,3740,https://itunes.apple.com/JP/app/id1402881399
+JP,GROSS,IOS,2019,5,M,79,-18,,Education,Toca Life: World,Toca Boca AB,0.0,,2018-11-21,3707,https://itunes.apple.com/JP/app/id1208138685
+JP,GROSS,IOS,2019,5,M,80,-14,,Education,Drops:  言語学習,PLANB LABS OU,0.0,,2014-11-14,3653,https://itunes.apple.com/JP/app/id939540371
+JP,GROSS,IOS,2019,5,M,81,+39,,Education,パブロフ簿記３級,yudai yoseda,¥600,,2011-09-20,3640,https://itunes.apple.com/JP/app/id465136874
+JP,GROSS,IOS,2019,5,M,82,+10,,Education,パブロフ簿記２級商業簿記,yudai yoseda,¥600,,2011-10-03,3603,https://itunes.apple.com/JP/app/id468640323
+JP,GROSS,IOS,2019,5,M,83,-10,,Education,金のフレーズ 2,物書堂,¥600,,2017-05-07,3471,https://itunes.apple.com/JP/app/id1216020754
+JP,GROSS,IOS,2019,5,M,84,+2,,Education,mikan 鉄壁,"mikan Co.,Ltd.","¥2,000",,2017-10-31,3463,https://itunes.apple.com/JP/app/id1287396055
+JP,GROSS,IOS,2019,5,M,85,+5,,Education,もっと！あそベビぷらす,WAO CORPORATION,0.0,「どうぶつ　ぱっく」パック（７種） : ¥370 / 「こうさく　ぱっく」パック（７種） : ¥370 / 「すぽーつ　ぱっく」パック（7種） : ¥370,2014-11-13,3460,https://itunes.apple.com/JP/app/id877512992
+JP,GROSS,IOS,2019,5,M,86,+33,,Education,全問解説付 第2種電気工事士 筆記 一問一答問題集,Tokyo Interactive,0.0,,2015-03-03,3437,https://itunes.apple.com/JP/app/id958939486
+JP,GROSS,IOS,2019,5,M,87,+12,,Education,Toca Kitchen 2,Toca Boca AB,¥480,,2014-12-17,3410,https://itunes.apple.com/JP/app/id943869618
+JP,GROSS,IOS,2019,5,M,88,-10,,Education,ターゲットの友1000　英熟語アプリ,"Obunsha Co.,Ltd.",0.0,マイリスニングのみ : ¥490 / 必勝パック(マイリスニング+苦手特訓） : ¥730 / 苦手特訓のみ : ¥490,2018-03-11,3371,https://itunes.apple.com/JP/app/id1327220159
+JP,GROSS,IOS,2019,5,M,89,+80,,Education,ひとりでがんばりマスター！,株式会社パラボ,0.0,ひとりでがんばりマスター第1巻 : ¥980 / 2巻 : ¥980 / 3巻 : ¥980,2017-01-29,3215,https://itunes.apple.com/JP/app/id1151851293
+JP,GROSS,IOS,2019,5,M,90,+76,,Education,LinkedInラーニング,LinkedIn Corporation,0.0,,2016-09-22,3063,https://itunes.apple.com/JP/app/id1084807225
+JP,GROSS,IOS,2019,5,M,91,-12,,Education,manabo - 24時間質問できる勉強アプリ,manabo Inc.,0.0,"manabo指導時間　1時間プラン : ¥3,420",2015-01-14,3059,https://itunes.apple.com/JP/app/id923892692
+JP,GROSS,IOS,2019,5,M,92,+80,,Education,NOVAリスニングサプリ,NOVA Holdings Co. Ltd.,0.0,,2016-09-25,3005,https://itunes.apple.com/JP/app/id1050484296
+JP,GROSS,IOS,2019,5,M,93,-17,,Education,小学館じゃじゃじゃじゃん,"FORii, lnc.",0.0,,2013-07-24,3001,https://itunes.apple.com/JP/app/id638751954
+JP,GROSS,IOS,2019,5,M,94,-29,,Education,動画英文法2700,United Intelligence,"¥1,200",,2013-06-20,2965,https://itunes.apple.com/JP/app/id660617252
+JP,GROSS,IOS,2019,5,M,95,+48,,Education,ALL IN ONE Basic 英語全分野を制覇!,Yosuke Oki,¥360,"全機能割引セット : ¥1,840 / 聞き流し : ¥610 / 全単語暗記 : ¥250",2017-06-01,2939,https://itunes.apple.com/JP/app/id1224625873
+JP,GROSS,IOS,2019,5,M,96,+150,,Education,全問解説付 FP3級 学科 一問一答問題集,Tokyo Interactive,0.0,"Upgrade to full version : ￦7,500",2011-03-07,2925,https://itunes.apple.com/JP/app/id423051343
+JP,GROSS,IOS,2019,5,M,97,+56,,Education,資格の大原 行政書士トレ問2019,株式会社ビズバレー,0.0,,2018-11-21,2923,https://itunes.apple.com/JP/app/id1440438056
+JP,GROSS,IOS,2019,5,M,98,+56,,Education,Busuu - フランス語を学習,Busuu Limited,0.0,,2010-09-17,2872,https://itunes.apple.com/JP/app/id379972007
+JP,GROSS,IOS,2019,5,M,99,+14,,Education,ALL IN ONE 英語全分野を制覇!,Yosuke Oki,¥360,"聞き流し : ¥610 / 全単語暗記 : ¥250 / 文法解説 : ¥1,220",2016-04-18,2868,https://itunes.apple.com/JP/app/id1102033130
+JP,GROSS,IOS,2019,5,M,100,+51,,Education,お受験くるくる アプリで知育幼児教室,ANONEE Inc.,0.0,,2015-08-20,2863,https://itunes.apple.com/JP/app/id1023132672
+JP,GROSS,IOS,2019,5,M,101,-8,,Education,新ユメタン1 ～ 大学合格必須レベル,"ALC PRESS, INC.",¥720,,2017-03-26,2844,https://itunes.apple.com/JP/app/id1198439798
+JP,GROSS,IOS,2019,5,M,102,+60,,Education,Star Walk 2 Ads+: 星座表 AR,Vito Technology Inc.,0.0,,2016-07-07,2822,https://itunes.apple.com/JP/app/id1112481571
+JP,GROSS,IOS,2019,5,M,103,+3,,Education,単語帳アプリ 単語帳メーカー,ar.inc,0.0,,2016-07-05,2799,https://itunes.apple.com/JP/app/id1124195119
+JP,GROSS,IOS,2019,5,M,104,+3,,Education,東進ブックスStore,株式会社ナガセ,0.0,英文法レベル別問題集 ①超基礎編 : 0 / 英文法レベル別問題集 ②基礎編 : ¥490 / 英文法レベル別問題集 ③標準編 : ¥490,2014-05-22,2767,https://itunes.apple.com/JP/app/id813566890
+JP,GROSS,IOS,2019,5,M,105,+12,,Education,mikan 古典,"mikan Co.,Ltd.",¥720,,2017-01-29,2733,https://itunes.apple.com/JP/app/id1195737635
+JP,GROSS,IOS,2019,5,M,106,+21,,Education,パブロフ簿記２級工業簿記,Atsuko Yoseda,¥600,,2012-03-02,2704,https://itunes.apple.com/JP/app/id504102949
+JP,GROSS,IOS,2019,5,M,107,-24,,Education,ディズニー　マジカルえほんワールド,"SMARTEDUCATION, Ltd.",0.0,よみほうだいコース : ¥500,2018-06-04,2666,https://itunes.apple.com/JP/app/id1359026585
+JP,GROSS,IOS,2019,5,M,108,-8,,Education,ハローキティズラボ｜キティちゃんのごっこ遊び,KidsStar Inc.,0.0,,2016-06-01,2658,https://itunes.apple.com/JP/app/id1092400156
+JP,GROSS,IOS,2019,5,M,109,+20,,Education,英検公式｜スタディギア for EIKEN,Eiken Foundation of Japan,0.0,,2015-07-27,2618,https://itunes.apple.com/JP/app/id1012343352
+JP,GROSS,IOS,2019,5,M,110,+405,,Education,漢字検定１級「30日合格プログラム」 漢検１級,ReCorrect Inc.,"¥4,800",,,2565,https://itunes.apple.com/JP/app/id1160716934
+JP,GROSS,IOS,2019,5,M,111,-36,,Education,英語発音をAIが改善、リアルな英会話に-ELSA Speak,Elsa Corp,0.0,,2016-03-07,2546,https://itunes.apple.com/JP/app/id1083804886
+JP,GROSS,IOS,2019,5,M,112,-8,,Education,キクタン  【Basic】  4000 ～聞いて覚える英単語～(アルク),"ALC PRESS, INC.",¥720,,2012-09-18,2489,https://itunes.apple.com/JP/app/id546276382
+JP,GROSS,IOS,2019,5,M,113,+10,,Education,中国語検定HSK公認単語トレーニング,"SPRIX CO.,LTD.",0.0,,2013-11-02,2487,https://itunes.apple.com/JP/app/id723261614
+JP,GROSS,IOS,2019,5,M,114,+67,,Education,サゴミニワールド,Sago Mini,0.0,,2014-08-07,2482,https://itunes.apple.com/JP/app/id874425722
+JP,GROSS,IOS,2019,5,M,115,+59,,Education,全問解説付 FP2級 学科 一問一答問題集,Tokyo Interactive,0.0,"Upgrade to full version : ￦8,900",2011-05-24,2468,https://itunes.apple.com/JP/app/id438388097
+JP,GROSS,IOS,2019,5,M,116,+117,,Education,FP3級過去問題集SmartAI - '18-'19年度版,GUENOCROSS INC.,0.0,,2018-07-26,2409,https://itunes.apple.com/JP/app/id1402881729
+JP,GROSS,IOS,2019,5,M,117,-7,,Education,TEDICT,CoCO SWING,¥360,,2012-08-14,2403,https://itunes.apple.com/JP/app/id537961396
+JP,GROSS,IOS,2019,5,M,118,+16,,Education,English Grammar in Use – Full,Cambridge University Press,"¥2,000",,2015-02-20,2378,https://itunes.apple.com/JP/app/id966164153
+JP,GROSS,IOS,2019,5,M,119,-5,,Education,ドラえもん おやこでリズムパッド,"SMARTEDUCATION, Ltd.",0.0,"リズムパッド取り放題コース : ¥600 / リズムパッド取り放題コース : ¥1,400 / リズムパッド取り放題コース : ¥3,600",2014-08-28,2324,https://itunes.apple.com/JP/app/id878923171
+JP,GROSS,IOS,2019,5,M,120,-5,,Education,スラスラ話すための瞬間英作文シャッフルトレーニング,Beret Publishing Co. INC,"¥1,200",おかわり！スラスラ話すための瞬間英作文トレーニング : ¥860,2013-03-15,2306,https://itunes.apple.com/JP/app/id601669848
+JP,GROSS,IOS,2019,5,M,121,+7,,Education,トドさんすう,"Enuma, Inc.",0.0,,2013-08-15,2297,https://itunes.apple.com/JP/app/id666465255
+JP,GROSS,IOS,2019,5,M,122,+45,,Education,「宅建士」過去問題《受験用》,TK office,¥480,,2010-07-01,2252,https://itunes.apple.com/JP/app/id379256460
+JP,GROSS,IOS,2019,5,M,123,-15,,Education,毎日英語 音声で英語を学習して単語を管理できるアプリ,OKPanda KK,0.0,"毎月プラン : ¥1,450 / １年プラン : ¥7,200 / 永続プラン : ¥29,400",2014-07-14,2244,https://itunes.apple.com/JP/app/id873131098
+JP,GROSS,IOS,2019,5,M,124,+6,,Education,おやすみ前のおとえほん,Decibel LLC,0.0,「おとえほん」月額会員 : ¥360,2014-11-26,2201,https://itunes.apple.com/JP/app/id904156750
+JP,GROSS,IOS,2019,5,M,125,+40,,Education,LEC 公務員 １問１答クイックマスター,"Fasteps Co., Ltd.",0.0,,,2200,https://itunes.apple.com/JP/app/id878913851
+JP,GROSS,IOS,2019,5,M,126,+31,,Education,キクタン【All-in-One版】(アルク),PLAYSQUARE INC.,"¥1,800","例文音声 : ¥1,220 / 総合テスト(8種のテスト形式) : ¥1,220 / 単語レベル診断(全レベル対応) : ¥610",2017-04-28,2197,https://itunes.apple.com/JP/app/id1230837448
+JP,GROSS,IOS,2019,5,M,127,+75,,Education,Innovative 101 Learn Languages,Innovative Language Learning USA LLC,0.0,,2013-12-06,2188,https://itunes.apple.com/JP/app/id668386019
+JP,GROSS,IOS,2019,5,M,128,+20,,Education,きかんしゃトーマスとパズルであそぼう！子供向け無料知育パズルのアプリ,KidsStar Inc.,0.0,ロック解除 : ¥370,2014-12-16,2172,https://itunes.apple.com/JP/app/id912662622
+JP,GROSS,IOS,2019,5,M,129,+17,,Education,mikan でる順パス単準2級,"mikan Co.,Ltd.",¥720,,2017-05-18,2160,https://itunes.apple.com/JP/app/id1226898886
+JP,GROSS,IOS,2019,5,M,130,+54,,Education,はたらくくるまゴーゴー,WAO CORPORATION,0.0,,2014-04-29,2159,https://itunes.apple.com/JP/app/id838601940
+JP,GROSS,IOS,2019,5,M,131,+45,,Education,Star Walk 2 - スカイマップ: 星座観察 3D,Vito Technology Inc.,¥360,,2014-08-20,2144,https://itunes.apple.com/JP/app/id892279069
+JP,GROSS,IOS,2019,5,M,132,+160,,Education,２歳以上の子供向け数字のお勉強ゲーム・幼児向け動物知育パズル,Bimi Boo Kids Learning Games for Toddlers FZ LLC,0.0,,2016-03-02,2140,https://itunes.apple.com/JP/app/id1084997102
+JP,GROSS,IOS,2019,5,M,133,+37,,Education,ゲームで学べる手話辞典,SoftBank Corp.,0.0,,2014-02-06,2122,https://itunes.apple.com/JP/app/id779515889
+JP,GROSS,IOS,2019,5,M,134,-47,,Education,スペイン語を学ぶ - Mondly,ATi Studios,0.0,,2014-05-29,2117,https://itunes.apple.com/JP/app/id875940017
+JP,GROSS,IOS,2019,5,M,135,new,,Education,薄荷阅读 - 1年读完10本英文书,"Chaoyouai Tech. Co., Ltd.",0.0,,2017-11-02,2109,https://itunes.apple.com/JP/app/id1303452045
+JP,GROSS,IOS,2019,5,M,136,+51,,Education,わたしのはらぺこあおむし,"SMARTEDUCATION, Ltd.",0.0,ぜんぶパック : ¥980 / おはなばたけ : ¥370 / メロディーつみき : ¥370,2015-04-08,2103,https://itunes.apple.com/JP/app/id972363269
+JP,GROSS,IOS,2019,5,M,137,-5,,Education,Pocket Listening（ポケットリスニング）,"SHINKOSHUPPANSHA KEIRINKAN Co.,Ltd",0.0,[ Revised ELEMENT English Communication Ⅰ ] : ¥610 / [ Revised ELEMENT English Communication Ⅰ ] アプリ限定版 : ¥980 / [ Revised ELEMENT English Communication Ⅰ ] エクストラコンテンツ : ¥370,2017-01-18,2092,https://itunes.apple.com/JP/app/id1146678273
+JP,GROSS,IOS,2019,5,M,138,-56,,Education,英単語ターゲット1900（5訂版）,物書堂,¥600,ターゲット実戦問題集 : ¥490,2011-11-23,2069,https://itunes.apple.com/JP/app/id481033328
+JP,GROSS,IOS,2019,5,M,139,+100,,Education,10MTVオピニオン／1話10分で学ぶ教養動画アプリ,"Imagineer Co.,Ltd.",0.0,"10MTV プレミアム会員 : ¥1,380",2017-01-10,2068,https://itunes.apple.com/JP/app/id1173705817
+JP,GROSS,IOS,2019,5,M,140,+10,,Education,【中央法規】社会福祉士合格アプリ2019一問一答＋模擬＋過去,中央法規出版株式会社,0.0,"2019年【過去問】共通科目 : ¥1,840 / 2019年【過去問】専門科目 : ¥1,600 / 2019年【模擬問題】専門科目 : ¥1,220",2016-06-23,2053,https://itunes.apple.com/JP/app/id1120005193
+JP,GROSS,IOS,2019,5,M,141,-10,,Education,㊫普通免許1200問 - 運転免許の学科試験問題集アプリ,HANAUTA INC.,0.0,"広告削除 : ￦1,200 / チェック機能 : ￦1,200 / 90問モード : ￦1,200",2012-04-03,2049,https://itunes.apple.com/JP/app/id514520671
+JP,GROSS,IOS,2019,5,M,142,+155,,Education,PlantSnap Pro: Identify Plants,"PlantSnap, Inc.","¥2,400",,2017-06-07,2040,https://itunes.apple.com/JP/app/id1234702272
+JP,GROSS,IOS,2019,5,M,143,+1,,Education,英会話「ネイティブ1000人と作った英会話～日常英会話編～」,Yasunori Numakoshi,"¥1,600",,2016-12-15,2012,https://itunes.apple.com/JP/app/id1172449400
+JP,GROSS,IOS,2019,5,M,144,-9,,Education,mikan でる順パス単1級,"mikan Co.,Ltd.",¥840,,2017-05-18,1978,https://itunes.apple.com/JP/app/id1226898153
+JP,GROSS,IOS,2019,5,M,145,-8,,Education,センター赤本 - 英語リスニング過去問,© Kyogakusha,0.0,,2013-11-18,1936,https://itunes.apple.com/JP/app/id734275300
+JP,GROSS,IOS,2019,5,M,146,+15,,Education,おしゃにまるライフ,WAO CORPORATION,0.0,,2016-12-13,1917,https://itunes.apple.com/JP/app/id1171310957
+JP,GROSS,IOS,2019,5,M,147,-11,,Education,Skoove - ピアノを習う,Learnfield GmbH,0.0,,2017-03-02,1903,https://itunes.apple.com/JP/app/id1160668178
+JP,GROSS,IOS,2019,5,M,148,+229,,Education,国内旅行地理検定2017-2018,"Fasteps Co., Ltd.",0.0,,,1871,https://itunes.apple.com/JP/app/id1267200748
+JP,GROSS,IOS,2019,5,M,149,-10,,Education,ロングマン現代英英辞典【５訂版】,"Enfour, Inc.","¥3,500",,2009-05-24,1863,https://itunes.apple.com/JP/app/id316133247
+JP,GROSS,IOS,2019,5,M,150,+237,,Education,英検®1級 でた単,Namiko Takahashi,¥840,,2018-02-15,1828,https://itunes.apple.com/JP/app/id1349212601
+JP,GROSS,IOS,2019,5,M,151,-30,,Education,「スマほん」動く絵本が読み放題！赤ちゃん・幼児・子供向けの読み聞かせえほん（教育・知育アプリ）,"SMARTEDUCATION, Ltd.",0.0,,2012-08-30,1823,https://itunes.apple.com/JP/app/id503408584
+JP,GROSS,IOS,2019,5,M,152,+98,,Education,漢検スタート,"Imagineer Co.,Ltd.",0.0,漢検スタート1級（ドリルと模擬検定） : ¥610 / 漢検スタート準1級（ドリルと模擬検定） : ¥610 / 漢検スタート2級（ドリルと模擬検定） : ¥860,2014-11-17,1818,https://itunes.apple.com/JP/app/id904582758
+JP,GROSS,IOS,2019,5,M,153,-37,,Education,おやこでリズムタッププラス,"SMARTEDUCATION, Ltd.",0.0,"リズムタッププラス取り放題コース : ¥480 / リズムタッププラス取り放題コース : ¥1,300 / リズムタッププラス取り放題コース : ¥1,700",2013-09-27,1789,https://itunes.apple.com/JP/app/id674921428
+JP,GROSS,IOS,2019,5,M,154,+177,,Education,最重要英単語【発音版】for the TOEIC®TEST,HuMinghua,"¥1,600",,2011-11-18,1782,https://itunes.apple.com/JP/app/id480441971
+JP,GROSS,IOS,2019,5,M,155,+49,,Education,中小企業診断士2018年度版 スピード問題集SmartAI,GUENOCROSS INC.,0.0,"2018年スピード問題集1〜4セット : ¥6,100 / 企業経営理論 : ¥2,080 / 財務会計 : ¥2,080",2018-01-11,1770,https://itunes.apple.com/JP/app/id1329393390
+JP,GROSS,IOS,2019,5,M,156,+4,,Education,Handy Art Reference Tool,Belief Engine,¥240,,2011-11-10,1759,https://itunes.apple.com/JP/app/id478643661
+JP,GROSS,IOS,2019,5,M,157,-56,,Education,SPI非言語 【Study Pro】,Study Pro,¥360,,2011-12-21,1754,https://itunes.apple.com/JP/app/id490470296
+JP,GROSS,IOS,2019,5,M,158,-6,,Education,第2種電気工事士 筆記 一問一答問題集,Tokyo Interactive,¥720,,2015-03-03,1753,https://itunes.apple.com/JP/app/id958436025
+JP,GROSS,IOS,2019,5,M,159,-123,,Education,2020 辰已の肢別 [司試・予備・LS],辰已法律研究所,0.0,,2019-02-13,1719,https://itunes.apple.com/JP/app/id1451572532
+JP,GROSS,IOS,2019,5,M,160,-51,,Education,Hello Piano - ピアノ楽譜とピアノ鍵盤アプリ,Gismart Edutainment,0.0,,2018-10-18,1696,https://itunes.apple.com/JP/app/id1429986841
+JP,GROSS,IOS,2019,5,M,161,+147,,Education,子供 知育 お絵かき ゲーム! 色塗り アプリ 幼児 3 歳,Bini Bambini Academy,0.0,,2015-03-30,1694,https://itunes.apple.com/JP/app/id908698556
+JP,GROSS,IOS,2019,5,M,162,-51,,Education,英语流利说-让你忍不住开口说英语,Shanghai Liulishuo Information Technology Ltd.,0.0,,2013-02-14,1639,https://itunes.apple.com/JP/app/id597364850
+JP,GROSS,IOS,2019,5,M,163,+1,,Education,プレスタパーク！勉強苦手な子どもが夢中になれる,Fantamstick,0.0,完全版 : ¥600,2017-09-06,1633,https://itunes.apple.com/JP/app/id1221161478
+JP,GROSS,IOS,2019,5,M,164,+87,,Education,英検® でる順パス単,PLAYSQUARE INC.,¥840,『でる順パス単』準1級 : ¥860 / 『でる順パス単』1級 : ¥860 / 『でる順パス単』2級 : ¥860,2018-07-04,1632,https://itunes.apple.com/JP/app/id1392246409
+JP,GROSS,IOS,2019,5,M,165,+55,,Education,mikan 日本史,"mikan Co.,Ltd.",¥600,,2018-04-08,1628,https://itunes.apple.com/JP/app/id1335850814
+JP,GROSS,IOS,2019,5,M,166,+312,,Education,Aceable – Driving School App,Aceable Inc.,0.0,,2020-06-23,1605,https://itunes.apple.com/JP/app/id766014676
+JP,GROSS,IOS,2019,5,M,167,+22,,Education,「一級土木施工管理技士」受験対策,TK office,¥960,,2016-05-27,1582,https://itunes.apple.com/JP/app/id1117744357
+JP,GROSS,IOS,2019,5,M,168,+110,,Education,「おやこでリズムえほんDX」　赤ちゃん・幼児・子ども向けの音楽アプリ 　教育・知育,"SMARTEDUCATION, Ltd.",0.0,"リズムえほんDXのお得な全曲取り放題コース : ¥600 / リズムえほんDXのお得な全曲取り放題コース : ¥1,400 / リズムえほんDXのお得な全曲取り放題コース : ¥3,600",2013-12-06,1574,https://itunes.apple.com/JP/app/id755455884
+JP,GROSS,IOS,2019,5,M,169,-6,,Education,【解き放題　過去問解説】晶文社のケアマネ'20（アプリ版）,"HORIUCHI PRINTING CO., LTD.",0.0,"用語辞典（第２版） : ¥2,580 / コンプリート全巻セット'18 : ¥8,000 / テキスト予習復習'18 : ¥370",2018-02-01,1535,https://itunes.apple.com/JP/app/id1252895931
+JP,GROSS,IOS,2019,5,M,170,+5,,Education,新ユメタン0 ～ 中学修了～高校基礎レベル,"ALC PRESS, INC.",¥720,,2017-03-26,1533,https://itunes.apple.com/JP/app/id1198439776
+JP,GROSS,IOS,2019,5,M,171,+286,,Education,１建君-１級建築施工管理技士試験問題,Prowing Academy,0.0,,2018-05-10,1475,https://itunes.apple.com/JP/app/id973451941
+JP,GROSS,IOS,2019,5,M,172,+280,,Education,Catch It English,"CatchItPlay, Inc.",0.0,,2014-06-21,1440,https://itunes.apple.com/JP/app/id881322806
+JP,GROSS,IOS,2019,5,M,173,+185,,Education,２級土木施工管理技術検定 (土木)「30日合格プログラム」,ReCorrect Inc.,"¥1,800",,2018-09-22,1438,https://itunes.apple.com/JP/app/id1436485174
+JP,GROSS,IOS,2019,5,M,174,+38,,Education,dキッズ,株式会社NTTドコモ,0.0,dキッズ（30日コース） : ¥610,2018-02-07,1411,https://itunes.apple.com/JP/app/id1266148606
+JP,GROSS,IOS,2019,5,M,175,-30,,Education,齋藤篤先生の苦手克服講座,"PHARMAFIELD, K.K.",0.0,,2017-03-31,1366,https://itunes.apple.com/JP/app/id1046342217
+JP,GROSS,IOS,2019,5,M,176,+224,,Education,Learn Japanese! - Kanji,Luli Languages LLC,0.0,,2020-05-18,1344,https://itunes.apple.com/JP/app/id1078107994
+JP,GROSS,IOS,2019,5,M,177,+256,,Education,２歳、３歳、４歳のキッズゲーム,Bimi Boo Kids Learning Games for Toddlers FZ LLC,0.0,,2015-09-23,1333,https://itunes.apple.com/JP/app/id1037749621
+JP,GROSS,IOS,2019,5,M,178,new,,Education,やっぱり暗記カード,"Hagi Information System Center, Inc.",0.0,,2018-12-01,1330,https://itunes.apple.com/JP/app/id1440478896
+JP,GROSS,IOS,2019,5,M,179,+101,,Education,全問解説付 衛生管理者 第1種・第2種 一問一答問題集,Tokyo Interactive,0.0,,2013-06-30,1327,https://itunes.apple.com/JP/app/id664960488
+JP,GROSS,IOS,2019,5,M,180,-22,,Education,キクタンTOEIC(R) Test Score 600 ～聞いて覚える英単語～(アルク),"ALC PRESS, INC.",¥720,,2012-11-30,1276,https://itunes.apple.com/JP/app/id573385592
+JP,GROSS,IOS,2019,5,M,181,+320,,Education,平成30年度版建設機械施工技術検定問題集,一般財団法人建設物価調査会,¥840,,2018-02-19,1256,https://itunes.apple.com/JP/app/id1339419848
+JP,GROSS,IOS,2019,5,M,182,-84,,Education,Eggbun - チャットで韓国語学習,"Eggbun Education Co., Ltd",0.0,,2016-03-31,1247,https://itunes.apple.com/JP/app/id1082966024
+JP,GROSS,IOS,2019,5,M,183,new,,Education,EBS 한글이 야호: 가나다 따라쓰기,SmartStudy,0.0,,2020-06-02,1235,https://itunes.apple.com/JP/app/id979780368
+JP,GROSS,IOS,2019,5,M,184,+84,,Education,Trans4motor - エンジンシミュレータ／学ぶ、遊ぶ,"Kitt Peak, Inc.",¥360,,2014-07-28,1234,https://itunes.apple.com/JP/app/id899277186
+JP,GROSS,IOS,2019,5,M,185,+49,,Education,TOEFL®テスト英単語3800（4訂版）,物書堂,"¥2,200",,2016-06-20,1229,https://itunes.apple.com/JP/app/id1112873127
+JP,GROSS,IOS,2019,5,M,186,+330,,Education,ノルウェー語を学ぶ - Mondly,ATi Studios,0.0,,2018-11-13,1211,https://itunes.apple.com/JP/app/id898736556
+JP,GROSS,IOS,2019,5,M,187,+219,,Education,発音図鑑,Fuminori Homma,¥960,,2014-05-07,1187,https://itunes.apple.com/JP/app/id841485989
+JP,GROSS,IOS,2019,5,M,188,+21,,Education,TOEIC®TEST実力判定『アプトレ』,appArray Inc.,¥360,,2016-01-10,1169,https://itunes.apple.com/JP/app/id1048914472
+JP,GROSS,IOS,2019,5,M,189,+21,,Education,本気の人の英語学習 えいご漬けMOKA,PLATO CORP.,0.0,,2013-04-17,1166,https://itunes.apple.com/JP/app/id606656665
+JP,GROSS,IOS,2019,5,M,190,new,,Education,Todo Math: School Edition,"Enuma, Inc.","¥13,800",,2019-08-29,1164,https://itunes.apple.com/JP/app/id918641156
+JP,GROSS,IOS,2019,5,M,191,new,,Education,漢字検定準１級 「30日合格プログラム」 漢検準１級,ReCorrect Inc.,"¥1,200",,2017-01-17,1159,https://itunes.apple.com/JP/app/id1195423762
+JP,GROSS,IOS,2019,5,M,192,+197,,Education,mikan スピマス,"mikan Co.,Ltd.","¥1,080",,2018-12-30,1155,https://itunes.apple.com/JP/app/id1331917344
+JP,GROSS,IOS,2019,5,M,193,+95,,Education,i-暗記シート -写真で作る問題集-,DAISUKE KAWAMURA,0.0,,2014-02-19,1153,https://itunes.apple.com/JP/app/id803026043
+JP,GROSS,IOS,2019,5,M,194,+319,,Education,パブロフ簿記１級理論,Atsuko Yoseda,¥840,,2012-09-25,1106,https://itunes.apple.com/JP/app/id562626259
+JP,GROSS,IOS,2019,5,M,195,+234,,Education,13時間で覚えきる！百式英単語TE上級編【Total Eclipse】,YOSHIHIRO OTA,¥840,,2016-09-01,1102,https://itunes.apple.com/JP/app/id1133785408
+JP,GROSS,IOS,2019,5,M,196,+327,,Education,国内旅行地理検定2015-2016,"Fasteps Co., Ltd.",0.0,,,1064,https://itunes.apple.com/JP/app/id1144829883
+JP,GROSS,IOS,2019,5,M,197,+325,,Education,山川一問一答日本史,"Imagineer Co.,Ltd.",¥600,,2015-12-13,1026,https://itunes.apple.com/JP/app/id1063200587
+JP,GROSS,IOS,2019,5,M,198,+56,,Education,キクタン 【Advanced】 6000 ～聞いて覚える英単語～(アルク),"ALC PRESS, INC.",¥720,,2012-09-27,1007,https://itunes.apple.com/JP/app/id546278681
+JP,GROSS,IOS,2019,5,M,199,-77,,Education,合格するための暗記！2019年版『耳勉/宅建士』,株式会社耳勉,0.0,,2018-12-31,1007,https://itunes.apple.com/JP/app/id1447473488
+JP,GROSS,IOS,2019,5,M,200,-129,,Education,Rosetta Stone,"Rosetta Stone, Ltd.",0.0,,2011-07-06,999,https://itunes.apple.com/JP/app/id435588892

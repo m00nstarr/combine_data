@@ -1,0 +1,201 @@
+Country,Type,OS,year,month,date type,Rank,Change,Industry,subcategory,App,Publisher,Price,Inapp,Date,CRScore,URL(Address)
+US,PAID,IOS,2020,6,M,1,-,,Education,SkyView®,Terminal Eleven LLC,$1.99,,2010-12-10,310000,https://itunes.apple.com/US/app/id404990064
+US,PAID,IOS,2020,6,M,2,+2,,Education,Toca Kitchen 2,Toca Boca AB,$3.99,,2014-12-18,128010,https://itunes.apple.com/US/app/id943869618
+US,PAID,IOS,2020,6,M,3,-,,Education,Toca Hair Salon 3,Toca Boca AB,$3.99,,2016-12-07,95020,https://itunes.apple.com/US/app/id1119482395
+US,PAID,IOS,2020,6,M,4,+1,,Education,Star Walk 2 - Night Sky Map,Vito Technology Inc.,$2.99,Satellite Finder in Sky Above : $0.99 / Constellations 3D on Sky Map : $0.99 / Star Tracker AR: Full Version : $2.99,2014-08-20,88479,https://itunes.apple.com/US/app/id892279069
+US,PAID,IOS,2020,6,M,5,+1,,Education,AnkiMobile Flashcards,Ankitects Pty Ltd,$24.99,,2010-05-26,77623,https://itunes.apple.com/US/app/id373493387
+US,PAID,IOS,2020,6,M,6,-4,,Education,CE5 Contact,Sirius Technology Advanced Research,$9.99,,2020-04-05,49941,https://itunes.apple.com/US/app/id1499236474
+US,PAID,IOS,2020,6,M,7,+3,,Education,Toca Life: Hospital,Toca Boca AB,$3.99,,2017-04-12,40164,https://itunes.apple.com/US/app/id1156114278
+US,PAID,IOS,2020,6,M,8,+1,,Education,Toca Life: Neighborhood,Toca Boca AB,$3.99,,2018-10-24,37948,https://itunes.apple.com/US/app/id1436855888
+US,PAID,IOS,2020,6,M,9,-2,,Education,Graphing Calculator Plus,Incpt.Mobis,$4.99,,2017-10-01,33303,https://itunes.apple.com/US/app/id1279565050
+US,PAID,IOS,2020,6,M,10,+6,,Education,Toca Life: Vacation,Toca Boca AB,$3.99,,2016-06-15,26667,https://itunes.apple.com/US/app/id1114886979
+US,PAID,IOS,2020,6,M,11,-,,Education,PROmote - Army Study Guide,ForceReadiness.com,$5.99,,2011-05-07,26335,https://itunes.apple.com/US/app/id435352951
+US,PAID,IOS,2020,6,M,12,-4,,Education,PDG PROmote 2019-2021,ForceReadiness.com,$29.99,,2011-11-22,22839,https://itunes.apple.com/US/app/id482303584
+US,PAID,IOS,2020,6,M,13,+2,,Education,Toca Life: Town,Toca Boca AB,$3.99,,2014-05-29,22194,https://itunes.apple.com/US/app/id871694174
+US,PAID,IOS,2020,6,M,14,+4,,Education,Toca Life: Office,Toca Boca AB,$3.99,,2017-09-20,21017,https://itunes.apple.com/US/app/id1271722569
+US,PAID,IOS,2020,6,M,15,+4,,Education,The Mood Meter,"Emotionally Intelligent Schools, LLC",$0.99,,2014-03-21,18489,https://itunes.apple.com/US/app/id825930113
+US,PAID,IOS,2020,6,M,16,+45,,Education,California Firearms Test,AlphaSquare Technologies Inc.,$1.99,,2015-11-04,18111,https://itunes.apple.com/US/app/id1048775759
+US,PAID,IOS,2020,6,M,17,-4,,Education,Teach Your Monster to Read,Teach Monster Games Ltd.,$2.99,,2014-07-23,15901,https://itunes.apple.com/US/app/id828392046
+US,PAID,IOS,2020,6,M,18,+3,,Education,Toca Boo,Toca Boca AB,$3.99,,2014-10-23,15116,https://itunes.apple.com/US/app/id919097064
+US,PAID,IOS,2020,6,M,19,+5,,Education,Toca Life: School,Toca Boca AB,$3.99,,2015-10-28,14921,https://itunes.apple.com/US/app/id1043579926
+US,PAID,IOS,2020,6,M,20,new,,Education,My City : Jail House,My Town Games LTD,$2.99,,2020-06-24,14208,https://itunes.apple.com/US/app/id1513523639
+US,PAID,IOS,2020,6,M,21,+8,,Education,Toca Life: Pets,Toca Boca AB,$3.99,,2017-12-06,14175,https://itunes.apple.com/US/app/id1290182026
+US,PAID,IOS,2020,6,M,22,+3,,Education,Toca Pet Doctor,Toca Boca AB,$3.99,,2014-02-27,14093,https://itunes.apple.com/US/app/id808108897
+US,PAID,IOS,2020,6,M,23,-9,,Education,My City : Grandparents Home,My Town Games LTD,$2.99,,2020-05-14,12953,https://itunes.apple.com/US/app/id1498742831
+US,PAID,IOS,2020,6,M,24,+10,,Education,Toca Life: Farm,Toca Boca AB,$3.99,,2016-10-26,12883,https://itunes.apple.com/US/app/id1156121311
+US,PAID,IOS,2020,6,M,25,new,,Education,SnakeSnap!,SnakeSnap Inc.,$1.99,,2019-06-13,12721,https://itunes.apple.com/US/app/id1466825376
+US,PAID,IOS,2020,6,M,26,+5,,Education,Toca Life: Stable,Toca Boca AB,$3.99,,2016-11-23,12284,https://itunes.apple.com/US/app/id1156110079
+US,PAID,IOS,2020,6,M,27,-1,,Education,Vocabulary.com,Vocabulary.com,$2.99,,2014-03-18,10282,https://itunes.apple.com/US/app/id815218412
+US,PAID,IOS,2020,6,M,28,+26,,Education,Prepware Aviation Maintenance,ASA,$9.99,,2009-11-24,10243,https://itunes.apple.com/US/app/id338893931
+US,PAID,IOS,2020,6,M,29,+1,,Education,BirdGenie,Princeton University Press,$3.99,,2018-02-22,10156,https://itunes.apple.com/US/app/id1124767473
+US,PAID,IOS,2020,6,M,30,-8,,Education,Elmo Calls,Sesame Street,$1.99,"""All Calls"" Pack : $6.99 / ""Happy Habits"" Pack : $0.99 / ""Laugh With Elmo!"" Pack : $0.99",2011-12-09,9933,https://itunes.apple.com/US/app/id467703220
+US,PAID,IOS,2020,6,M,31,+12,,Education,Stellarium PLUS - Star Map,Noctua Software Ltd,$9.99,,2019-04-07,9685,https://itunes.apple.com/US/app/id1458716890
+US,PAID,IOS,2020,6,M,32,-,,Education,Toca Life: After School,Toca Boca AB,$3.99,,2018-03-22,9628,https://itunes.apple.com/US/app/id1337598066
+US,PAID,IOS,2020,6,M,33,+14,,Education,Toca Mystery House,Toca Boca AB,$3.99,,2018-06-14,8786,https://itunes.apple.com/US/app/id1380057710
+US,PAID,IOS,2020,6,M,34,+7,,Education,ExamFX Life & Health Exam Prep,ExamFX,$4.99,,2014-03-17,8422,https://itunes.apple.com/US/app/id835081636
+US,PAID,IOS,2020,6,M,35,+21,,Education,Toca Life: City,Toca Boca AB,$3.99,,2015-06-24,7769,https://itunes.apple.com/US/app/id988318940
+US,PAID,IOS,2020,6,M,36,+107,,Education,Foundations Memory Work C3,Classical Conversations,$15.99,,2012-02-15,7629,https://itunes.apple.com/US/app/id501527692
+US,PAID,IOS,2020,6,M,37,+23,,Education,Toca Blocks,Toca Boca AB,$3.99,,2015-12-16,7461,https://itunes.apple.com/US/app/id1057925633
+US,PAID,IOS,2020,6,M,38,-3,,Education,Elmo Loves ABCs,Sesame Street,$4.99,Seasonal Fun Pack : $0.99,2011-04-04,7342,https://itunes.apple.com/US/app/id426747278
+US,PAID,IOS,2020,6,M,39,-16,,Education,Camera Lucida,Peter Moeykens,$9.99,,2010-03-20,7327,https://itunes.apple.com/US/app/id362499096
+US,PAID,IOS,2020,6,M,40,+39,,Education,TX Real Estate Exam Flashcards,Champions School of Real Estate,$2.99,,2012-07-14,7235,https://itunes.apple.com/US/app/id539418490
+US,PAID,IOS,2020,6,M,41,-4,,Education,Starlight - Explore the Stars,"ION6, LLC",$0.99,,2013-11-27,7074,https://itunes.apple.com/US/app/id762002305
+US,PAID,IOS,2020,6,M,42,+8,,Education,Peekaboo Barn,"Night & Day Studios, Inc.",$1.99,,2008-12-22,6987,https://itunes.apple.com/US/app/id300590611
+US,PAID,IOS,2020,6,M,43,+8,,Education,Ranger School Professional,"UPPER TIER DEVELOPMENT, LLC",$5.99,,2015-10-16,6717,https://itunes.apple.com/US/app/id1047078586
+US,PAID,IOS,2020,6,M,44,-2,,Education,ASL Dictionary Sign Language,Software Studios LLC,$6.99,,2013-12-17,6703,https://itunes.apple.com/US/app/id682472857
+US,PAID,IOS,2020,6,M,45,+53,,Education,Toca Nature,Toca Boca AB,$3.99,,2014-11-13,6458,https://itunes.apple.com/US/app/id893927401
+US,PAID,IOS,2020,6,M,46,+6,,Education,Daniel Tiger’s Play at Home,PBS KIDS,$2.99,,2012-08-30,6452,https://itunes.apple.com/US/app/id553211336
+US,PAID,IOS,2020,6,M,47,+1,,Education,Monkey Preschool Lunchbox,THUP Games,$1.99,,2009-08-31,6430,https://itunes.apple.com/US/app/id328205875
+US,PAID,IOS,2020,6,M,48,-21,,Education,My City : My Friend's House,My Town Games LTD,$2.99,,2020-03-19,6168,https://itunes.apple.com/US/app/id1498732155
+US,PAID,IOS,2020,6,M,49,+17,,Education,My Town : Airport,My Town Games LTD,$2.99,,2018-02-22,6116,https://itunes.apple.com/US/app/id1226352898
+US,PAID,IOS,2020,6,M,50,-22,,Education,Voice Dream Reader,Voice Dream LLC,$14.99,James (NeoSpeech US English Voice) : $4.99 / Paul (NeoSpeech US English Voice) : $4.99 / Salli (Ivona US English Voice) : $4.99,2012-02-08,5909,https://itunes.apple.com/US/app/id496177674
+US,PAID,IOS,2020,6,M,51,+23,,Education,Toca Kitchen Sushi,Toca Boca AB,$3.99,,2018-12-06,5576,https://itunes.apple.com/US/app/id1440031359
+US,PAID,IOS,2020,6,M,52,-6,,Education,Stack the Countries®,"Freecloud Design, Inc.",$2.99,,2011-02-15,5434,https://itunes.apple.com/US/app/id407838198
+US,PAID,IOS,2020,6,M,53,-9,,Education,Daniel Tiger's Stop & Go Potty,PBS KIDS,$2.99,,2016-02-10,5318,https://itunes.apple.com/US/app/id1050988480
+US,PAID,IOS,2020,6,M,54,+9,,Education,TI 84 Graphing Calculator Man.,Graphing Calculator Apps UG (haftungsbeschrankt),$4.99,,2015-02-25,5200,https://itunes.apple.com/US/app/id920176686
+US,PAID,IOS,2020,6,M,55,-10,,Education,Toca Hair Salon 2,Toca Boca AB,$3.99,,2012-12-13,5094,https://itunes.apple.com/US/app/id569632660
+US,PAID,IOS,2020,6,M,56,+35,,Education,EPA 608 Practice,Matthew Taylor,$9.99,,2018-08-13,4996,https://itunes.apple.com/US/app/id1422450628
+US,PAID,IOS,2020,6,M,57,+16,,Education,HamStudy.org,Signal Stuff,$3.99,,2018-05-10,4942,https://itunes.apple.com/US/app/id1371288324
+US,PAID,IOS,2020,6,M,58,-25,,Education,My City : Animal Shelter,My Town Games LTD,$2.99,,2020-04-16,4796,https://itunes.apple.com/US/app/id1498742753
+US,PAID,IOS,2020,6,M,59,+19,,Education,My City : Newborn Baby,My Town Games LTD,$2.99,,2019-03-21,4784,https://itunes.apple.com/US/app/id1449945913
+US,PAID,IOS,2020,6,M,60,+2,,Education,Stack the States® 2,"Freecloud Design, Inc.",$2.99,,2016-03-09,4770,https://itunes.apple.com/US/app/id1080767538
+US,PAID,IOS,2020,6,M,61,+38,,Education,Handy Art Reference Tool,Belief Engine,$1.99,Feet Models : $1.99 / Animal Skull Pack : $1.99,2011-11-10,4741,https://itunes.apple.com/US/app/id478643661
+US,PAID,IOS,2020,6,M,62,+94,,Education,Coloring Fun with Fox & Sheep,Fox and Sheep GmbH,$2.99,,2020-05-27,4553,https://itunes.apple.com/US/app/id1479012191
+US,PAID,IOS,2020,6,M,63,+61,,Education,Star Rover - Stargazing Guide,EEFan Inc.,$1.99,,2010-08-19,4519,https://itunes.apple.com/US/app/id386628906
+US,PAID,IOS,2020,6,M,64,-15,,Education,Blaze & the Monster Machines,Nickelodeon,$3.99,Dragon Island : $1.99 / Top of the World : $1.99 / Velocityville : $1.99,2015-01-14,4463,https://itunes.apple.com/US/app/id907210971
+US,PAID,IOS,2020,6,M,65,-1,,Education,Daniel Tiger’s Day & Night,PBS KIDS,$2.99,,2013-08-29,4365,https://itunes.apple.com/US/app/id690106176
+US,PAID,IOS,2020,6,M,66,+9,,Education,ABA Wizard,"Test Prep Technologies, LLC",$9.99,,2017-12-19,4362,https://itunes.apple.com/US/app/id1326943979
+US,PAID,IOS,2020,6,M,67,-29,,Education,My Town : School,My Town Games LTD,$2.99,,2016-03-08,4294,https://itunes.apple.com/US/app/id1084144010
+US,PAID,IOS,2020,6,M,68,-1,,Education,My Town : Hotel,My Town Games LTD,$2.99,,2016-09-03,4266,https://itunes.apple.com/US/app/id1105408313
+US,PAID,IOS,2020,6,M,69,+7,,Education,Toca Builders,Toca Boca AB,$3.99,,2013-06-19,4264,https://itunes.apple.com/US/app/id652077009
+US,PAID,IOS,2020,6,M,70,-34,,Education,XtraMath,XtraMath,$4.99,,2014-06-08,4220,https://itunes.apple.com/US/app/id882931712
+US,PAID,IOS,2020,6,M,71,-18,,Education,Endless Alphabet,Originator Inc.,$8.99,,2013-01-24,4184,https://itunes.apple.com/US/app/id591626572
+US,PAID,IOS,2020,6,M,72,+39,,Education,Toca Lab: Plants,Toca Boca AB,$3.99,,2017-06-14,4122,https://itunes.apple.com/US/app/id1225994089
+US,PAID,IOS,2020,6,M,73,-33,,Education,Stellarium Mobile Sky Map,Noctua Software Ltd,$2.99,,2013-05-08,4113,https://itunes.apple.com/US/app/id643165438
+US,PAID,IOS,2020,6,M,74,+151,,Education,Teen Driving Log,"NerdsGeeksGurus, LLC",$1.99,,2010-08-20,4092,https://itunes.apple.com/US/app/id385816093
+US,PAID,IOS,2020,6,M,75,-20,,Education,My City : Mansion,My Town Games LTD,$2.99,,2019-09-26,4047,https://itunes.apple.com/US/app/id1476228375
+US,PAID,IOS,2020,6,M,76,-18,,Education,"FlowerChecker, plant identify",FlowerChecker s.r.o.,$0.99,1 point : $0.99 / 5 points : $3.99 / 20 points : $14.99,2015-04-05,4027,https://itunes.apple.com/US/app/id916709270
+US,PAID,IOS,2020,6,M,77,+45,,Education,Solar Walk 2 – Spacecraft 3D,Vito Technology Inc.,$2.99,Space Exploration Encyclopedia : $8.99 / Access for Solar Walk users : $4.99 / Premium Access: Special Offer : $2.99,2015-09-24,3919,https://itunes.apple.com/US/app/id1031155880
+US,PAID,IOS,2020,6,M,78,-39,,Education,Green Screen by Do Ink,"DK Pictures, Inc.",$4.99,,2013-10-29,3918,https://itunes.apple.com/US/app/id730091131
+US,PAID,IOS,2020,6,M,79,+1,,Education,ASA's Sailing Challenge,American Sailing Association,$3.99,Beach Catamaran : $0.99 / Cruising Monohull : $0.99 / Pod of Dolphins : $0.99,2016-07-30,3912,https://itunes.apple.com/US/app/id1109489005
+US,PAID,IOS,2020,6,M,80,-3,,Education,Wild Kratts Rescue Run,PBS KIDS,$2.99,,2017-12-22,3869,https://itunes.apple.com/US/app/id1315748103
+US,PAID,IOS,2020,6,M,81,+57,,Education,American Mensa Brain Test,Barnstorm Games,$1.99,,2010-09-16,3790,https://itunes.apple.com/US/app/id387692731
+US,PAID,IOS,2020,6,M,82,+1,,Education,Seterra Geography (full),Seterra AB,$1.99,,2016-03-30,3760,https://itunes.apple.com/US/app/id1093460065
+US,PAID,IOS,2020,6,M,83,+44,,Education,Calculator ∞,Incpt.Mobis,$2.99,,2011-09-15,3693,https://itunes.apple.com/US/app/id458535809
+US,PAID,IOS,2020,6,M,84,+49,,Education,Private Pilot Test Prep,Sporty's Pilot Shop,$14.99,,2011-01-14,3527,https://itunes.apple.com/US/app/id414141811
+US,PAID,IOS,2020,6,M,85,+1,,Education,Dr. Panda Restaurant 2,Dr. Panda Ltd,$3.99,,2014-02-13,3483,https://itunes.apple.com/US/app/id796333129
+US,PAID,IOS,2020,6,M,86,-21,,Education,Peppa Pig™: Holiday,Entertainment One,$2.99,,2015-12-04,3480,https://itunes.apple.com/US/app/id1060085514
+US,PAID,IOS,2020,6,M,87,+15,,Education,AndyRDH Board Review for NBDHE,"Dental Hygiene Academy, Inc.",$14.99,BonusMockboard : $4.99 / BonusMockBoards : $4.99,2011-04-19,3474,https://itunes.apple.com/US/app/id432288363
+US,PAID,IOS,2020,6,M,88,-17,,Education,PlantSnap Pro: Identify Plants,"PlantSnap, Inc.",$19.99,,2017-06-07,3395,https://itunes.apple.com/US/app/id1234702272
+US,PAID,IOS,2020,6,M,89,-5,,Education,Prepware Private Pilot,ASA,$9.99,,2009-10-13,3377,https://itunes.apple.com/US/app/id334278376
+US,PAID,IOS,2020,6,M,90,+28,,Education,ExamFX Property & Casualty Exam Prep,ExamFX,$4.99,,2014-07-12,3281,https://itunes.apple.com/US/app/id887565911
+US,PAID,IOS,2020,6,M,91,-23,,Education,Urban City Stories (Full),PlayToddlers,$4.99,,2020-04-24,3256,https://itunes.apple.com/US/app/id1493950540
+US,PAID,IOS,2020,6,M,92,+29,,Education,Peppa Pig™: Sports Day,Entertainment One,$2.99,,2016-07-20,3235,https://itunes.apple.com/US/app/id1126403961
+US,PAID,IOS,2020,6,M,93,+1,,Education,Official ITIL 4 Foundation App,TSO (The Stationery Office),$7.99,,2019-02-18,3227,https://itunes.apple.com/US/app/id1446263720
+US,PAID,IOS,2020,6,M,94,-4,,Education,Army study guide ArmyADP.com,William McNabb,$4.99,,2014-03-22,3210,https://itunes.apple.com/US/app/id842020874
+US,PAID,IOS,2020,6,M,95,+11,,Education,Jumpmaster PRO Study Guide,ForceReadiness.com,$3.99,JM PRO+ Pack : $1.99,2011-11-01,3124,https://itunes.apple.com/US/app/id476837843
+US,PAID,IOS,2020,6,M,96,-24,,Education,PAW Patrol Rescue Run,Nickelodeon,$3.99,Everest In Snowy Downtown : $1.99 / Tracker In The Jungle : $1.99,2014-07-10,3013,https://itunes.apple.com/US/app/id891453663
+US,PAID,IOS,2020,6,M,97,-10,,Education,Toca Mini,Toca Boca AB,$3.99,,2013-10-23,2994,https://itunes.apple.com/US/app/id718082838
+US,PAID,IOS,2020,6,M,98,+64,,Education,Numberblocks: Hide and Seek,Blue-Zoo,$2.99,,2018-12-21,2979,https://itunes.apple.com/US/app/id1328950963
+US,PAID,IOS,2020,6,M,99,-7,,Education,The Encyclopedia of Counseling Exam Prep App,"Taylor & Francis Group, LLC",$3.99,,2014-11-17,2935,https://itunes.apple.com/US/app/id691163220
+US,PAID,IOS,2020,6,M,100,-43,,Education,My City : Wedding Party,My Town Games LTD,$2.99,,2020-02-20,2887,https://itunes.apple.com/US/app/id1482088567
+US,PAID,IOS,2020,6,M,101,+43,,Education,Prepware Remote Pilot,ASA,$4.99,,2016-07-20,2871,https://itunes.apple.com/US/app/id1135991142
+US,PAID,IOS,2020,6,M,102,+35,,Education,Label Pics,Andrew Kasper,$0.99,,2017-09-04,2836,https://itunes.apple.com/US/app/id1272541874
+US,PAID,IOS,2020,6,M,103,-44,,Education,My City : Boat Adventures,My Town Games LTD,$2.99,,2020-01-30,2827,https://itunes.apple.com/US/app/id1482088595
+US,PAID,IOS,2020,6,M,104,-16,,Education,My City : High school,My Town Games LTD,$2.99,,2019-07-25,2817,https://itunes.apple.com/US/app/id1471628940
+US,PAID,IOS,2020,6,M,105,-16,,Education,Essentials of Fire Fighting 6th Edition Exam Prep Plus,IFSTA,$14.99,,2014-03-01,2721,https://itunes.apple.com/US/app/id823882351
+US,PAID,IOS,2020,6,M,106,+11,,Education,My City : Home,My Town Games LTD,$2.99,,2018-09-06,2701,https://itunes.apple.com/US/app/id1423546743
+US,PAID,IOS,2020,6,M,107,-,,Education,My City : Dentist Visit,My Town Games LTD,$2.99,,2018-11-15,2672,https://itunes.apple.com/US/app/id1440481224
+US,PAID,IOS,2020,6,M,108,+41,,Education,Paw Patrol: Alphabet Learning,Nickelodeon,$1.99,,2020-03-27,2671,https://itunes.apple.com/US/app/id1451761210
+US,PAID,IOS,2020,6,M,109,-14,,Education,StarMap 3D+ Plus,Sanville Software,$2.99,More Stars : $1.99,2010-01-25,2623,https://itunes.apple.com/US/app/id351986992
+US,PAID,IOS,2020,6,M,110,-2,,Education,ExamFX Life Exam Prep,ExamFX,$2.99,,2014-03-04,2620,https://itunes.apple.com/US/app/id813811520
+US,PAID,IOS,2020,6,M,111,+54,,Education,Toca Doctor,Toca Boca AB,$3.99,,2011-04-28,2558,https://itunes.apple.com/US/app/id424209938
+US,PAID,IOS,2020,6,M,112,+23,,Education,Hoopa City 2,Dr. Panda Ltd,$3.99,,2016-11-16,2535,https://itunes.apple.com/US/app/id1116026071
+US,PAID,IOS,2020,6,M,113,-4,,Education,My City : Orphan House,My Town Games LTD,$2.99,,2019-06-20,2494,https://itunes.apple.com/US/app/id1451578058
+US,PAID,IOS,2020,6,M,114,+41,,Education,Pumping and Aerial Apparatus Driver Operator 3rd Edition Exam Prep Plus,IFSTA,$9.99,,2015-06-02,2466,https://itunes.apple.com/US/app/id997396358
+US,PAID,IOS,2020,6,M,115,-3,,Education,Sesame Street Alphabet Kitchen,Sesame Street,$2.99,,2015-11-25,2457,https://itunes.apple.com/US/app/id1039971485
+US,PAID,IOS,2020,6,M,116,-34,,Education,Wild Kratts World Adventure,PBS KIDS,$3.99,,2014-04-03,2453,https://itunes.apple.com/US/app/id844517266
+US,PAID,IOS,2020,6,M,117,-36,,Education,Sight Words Ninja - Slicing Game to Learn to Read,Innovative Investments Limited,$1.99,,2014-02-20,2409,https://itunes.apple.com/US/app/id821374885
+US,PAID,IOS,2020,6,M,118,-49,,Education,My City : Love Story,My Town Games LTD,$2.99,,2019-11-14,2363,https://itunes.apple.com/US/app/id1482088446
+US,PAID,IOS,2020,6,M,119,+41,,Education,BRIO World - Railway,Filimundus AB,$2.99,,2016-02-10,2264,https://itunes.apple.com/US/app/id1064517589
+US,PAID,IOS,2020,6,M,120,+55,,Education,Toca Kitchen,Toca Boca AB,$3.99,,2011-12-15,2231,https://itunes.apple.com/US/app/id476553281
+US,PAID,IOS,2020,6,M,121,+7,,Education,Toca Band,Toca Boca AB,$3.99,,2012-09-19,2199,https://itunes.apple.com/US/app/id521640648
+US,PAID,IOS,2020,6,M,122,+17,,Education,Flash Cards Pro Flashcards,"Infinite Wave Media, LLC",$4.99,,2013-07-22,2186,https://itunes.apple.com/US/app/id672747572
+US,PAID,IOS,2020,6,M,123,new,,Education,Random Image Select,Joe Scrivens,$0.99,,2018-07-30,2176,https://itunes.apple.com/US/app/id1410696532
+US,PAID,IOS,2020,6,M,124,+24,,Education,Toca Dance,Toca Boca AB,$3.99,,2016-03-01,2173,https://itunes.apple.com/US/app/id1069803052
+US,PAID,IOS,2020,6,M,125,+39,,Education,CCM Glossary App,Commission for Case Manager Certification,$2.99,,2018-12-06,2162,https://itunes.apple.com/US/app/id1445456374
+US,PAID,IOS,2020,6,M,126,-12,,Education,iRedstone,Frogg GmbH,$1.99,,2012-06-10,2147,https://itunes.apple.com/US/app/id533247882
+US,PAID,IOS,2020,6,M,127,+2,,Education,My City : Babysitter,My Town Games LTD,$2.99,,2019-04-18,2144,https://itunes.apple.com/US/app/id1449946090
+US,PAID,IOS,2020,6,M,128,+41,,Education,Pepi House,Pepi Play,$2.99,,2016-06-15,2112,https://itunes.apple.com/US/app/id1102814563
+US,PAID,IOS,2020,6,M,129,+21,,Education,Toca Robot Lab,Toca Boca AB,$3.99,,2011-07-14,2086,https://itunes.apple.com/US/app/id434826169
+US,PAID,IOS,2020,6,M,130,+11,,Education,Octonauts,"Night & Day Studios, Inc.",$3.99,,2016-11-16,2070,https://itunes.apple.com/US/app/id1120838254
+US,PAID,IOS,2020,6,M,131,+16,,Education,The Board Master,Mentor Enterprises Inc,$5.99,,2012-05-21,2066,https://itunes.apple.com/US/app/id527318118
+US,PAID,IOS,2020,6,M,132,-2,,Education,Pepi Hospital,Pepi Play,$2.99,,2018-02-13,1977,https://itunes.apple.com/US/app/id1327304528
+US,PAID,IOS,2020,6,M,133,-40,,Education,My City : Popstar,My Town Games LTD,$2.99,,2019-12-19,1962,https://itunes.apple.com/US/app/id1482088506
+US,PAID,IOS,2020,6,M,134,-30,,Education,Memorize: Learn Korean Words,LIKECRAZY Inc.,$3.99,,2020-06-19,1952,https://itunes.apple.com/US/app/id1505764782
+US,PAID,IOS,2020,6,M,135,+72,,Education,Shell Museum: Identify Shells,"Shell Museum and Educational Foundation, Inc.",$1.99,,2019-03-01,1929,https://itunes.apple.com/US/app/id1451016485
+US,PAID,IOS,2020,6,M,136,+4,,Education,HAM Test Prep:  Technician,Patrick J Maloney LLC,$4.99,,2008-11-25,1928,https://itunes.apple.com/US/app/id297951496
+US,PAID,IOS,2020,6,M,137,-52,,Education,Potty Toilet Training,Francois Duchemin,$0.99,,2016-04-09,1900,https://itunes.apple.com/US/app/id1099995211
+US,PAID,IOS,2020,6,M,138,+21,,Education,Thinkrolls Space,AVOKIDDO,$3.99,,2019-06-12,1893,https://itunes.apple.com/US/app/id1458751834
+US,PAID,IOS,2020,6,M,139,+90,,Education,Phonograms by Spalding Education International,Spalding Education International,$3.99,,2014-12-02,1883,https://itunes.apple.com/US/app/id934525008
+US,PAID,IOS,2020,6,M,140,-8,,Education,Peppa Pig™: Party Time,Entertainment One,$2.99,,2016-12-14,1873,https://itunes.apple.com/US/app/id1179475725
+US,PAID,IOS,2020,6,M,141,+83,,Education,Daniel Tiger's Storybooks,PBS KIDS,$2.99,,2017-08-30,1864,https://itunes.apple.com/US/app/id1261025589
+US,PAID,IOS,2020,6,M,142,-37,,Education,GENKI Vocab Cards,"The Japan Times Publishing, Ltd.",$5.99,,2014-01-03,1849,https://itunes.apple.com/US/app/id785207187
+US,PAID,IOS,2020,6,M,143,+20,,Education,Preschool All In One Basic Skills Space Learning Adventure A to Z by Abby Monkey® Kids Clubhouse Games,"22learn, LLC",$4.99,,2015-06-05,1834,https://itunes.apple.com/US/app/id1000136689
+US,PAID,IOS,2020,6,M,144,+9,,Education,Potty Time with Elmo,Sesame Street,$2.99,,2012-05-16,1780,https://itunes.apple.com/US/app/id525507410
+US,PAID,IOS,2020,6,M,145,+29,,Education,Sago Mini Puppy Preschool,Sago Mini,$3.99,,2016-12-14,1767,https://itunes.apple.com/US/app/id1168645184
+US,PAID,IOS,2020,6,M,146,-12,,Education,(How to) Pronounce PRO,Dawid Pietrala,$1.99,Business Words (English) : $1.99 / All topics : $4.99 / Words commonly mispronounced (English) : $0.99,2015-01-18,1763,https://itunes.apple.com/US/app/id953959208
+US,PAID,IOS,2020,6,M,147,-37,,Education,Peppa Pig™: Theme Park,Entertainment One,$2.99,,2015-12-04,1760,https://itunes.apple.com/US/app/id1060102144
+US,PAID,IOS,2020,6,M,148,+19,,Education,Sago Mini Babies,Sago Mini,$3.99,,2015-10-08,1750,https://itunes.apple.com/US/app/id994673739
+US,PAID,IOS,2020,6,M,149,+44,,Education,Real Estate Flashcards,Champions School of Real Estate,$2.99,,2012-07-14,1680,https://itunes.apple.com/US/app/id539412812
+US,PAID,IOS,2020,6,M,150,+54,,Education,OilyApp,Covenant Digital Solutions,$5.99,,2017-02-27,1663,https://itunes.apple.com/US/app/id1209369350
+US,PAID,IOS,2020,6,M,151,+59,,Education,Flashcards Deluxe,OrangeOrApple.com,$3.99,,2009-03-26,1655,https://itunes.apple.com/US/app/id307840670
+US,PAID,IOS,2020,6,M,152,-33,,Education,My City : After School,My Town Games LTD,$2.99,,2018-10-25,1654,https://itunes.apple.com/US/app/id1438215446
+US,PAID,IOS,2020,6,M,153,+20,,Education,US Cop,App Holdings,$5.99,,2010-10-11,1654,https://itunes.apple.com/US/app/id394647902
+US,PAID,IOS,2020,6,M,154,-12,,Education,StarMap 3D,Sanville Software,$0.99,Constellation Artwork : $0.99 / More Stars : $0.99,2009-07-27,1642,https://itunes.apple.com/US/app/id324038407
+US,PAID,IOS,2020,6,M,155,+30,,Education,ASL Translator,Software Studios LLC,$4.99,,2011-06-15,1632,https://itunes.apple.com/US/app/id421784745
+US,PAID,IOS,2020,6,M,156,-55,,Education,Peppa Pig™: Golden Boots,Entertainment One,$2.99,,2016-03-03,1625,https://itunes.apple.com/US/app/id1009336960
+US,PAID,IOS,2020,6,M,157,-61,,Education,Larkwire Learn Bird Songs 1,Larkwire,$14.99,,2018-11-24,1618,https://itunes.apple.com/US/app/id544499991
+US,PAID,IOS,2020,6,M,158,-43,,Education,My Town : Beach Picnic,My Town Games LTD,$2.99,,2015-11-11,1608,https://itunes.apple.com/US/app/id1052355709
+US,PAID,IOS,2020,6,M,159,+40,,Education,CompTIA Security+ SY0-501 Prep,learnZapp,$14.99,,2011-12-02,1596,https://itunes.apple.com/US/app/id482991132
+US,PAID,IOS,2020,6,M,160,-6,,Education,Toca Birthday Party,Toca Boca AB,$3.99,,2011-10-13,1592,https://itunes.apple.com/US/app/id469933147
+US,PAID,IOS,2020,6,M,161,+81,,Education,Mastering Esthetics - Practice Exams,Elenchus,$4.99,,2017-01-25,1586,https://itunes.apple.com/US/app/id464680223
+US,PAID,IOS,2020,6,M,162,-42,,Education,BabySitMe,Rochelle Sadd,$3.99,,2019-08-21,1551,https://itunes.apple.com/US/app/id1475406264
+US,PAID,IOS,2020,6,M,163,-11,,Education,My Town : Street Fun,My Town Games LTD,$2.99,,2018-07-31,1542,https://itunes.apple.com/US/app/id1359676698
+US,PAID,IOS,2020,6,M,164,-39,,Education,Explore Daniel's Neighborhood,PBS KIDS,$2.99,,2015-08-27,1536,https://itunes.apple.com/US/app/id1027419374
+US,PAID,IOS,2020,6,M,165,+51,,Education,Dr. Panda Airport,Dr. Panda Ltd,$2.99,,2013-08-22,1530,https://itunes.apple.com/US/app/id678861146
+US,PAID,IOS,2020,6,M,166,-53,,Education,My City : Bank,My Town Games LTD,$2.99,,2019-08-22,1501,https://itunes.apple.com/US/app/id1476033528
+US,PAID,IOS,2020,6,M,167,+84,,Education,Math Fact Master,"TicTapTech, LLC",$0.99,,2011-02-17,1496,https://itunes.apple.com/US/app/id419411014
+US,PAID,IOS,2020,6,M,168,-52,,Education,My City : Office,My Town Games LTD,$2.99,,2018-12-13,1493,https://itunes.apple.com/US/app/id1441957641
+US,PAID,IOS,2020,6,M,169,+26,,Education,Book Leveler for Teachers,Rodrigo Corbelli,$5.99,,2017-07-31,1484,https://itunes.apple.com/US/app/id1253942681
+US,PAID,IOS,2020,6,M,170,-19,,Education,The Official GRE® Guide,"gWhiz, LLC",$4.99,Expansion Pack : $19.99,2013-03-13,1437,https://itunes.apple.com/US/app/id562761455
+US,PAID,IOS,2020,6,M,171,-1,,Education,My Town : ICEME Amusement Park,My Town Games LTD,$2.99,,2018-04-26,1395,https://itunes.apple.com/US/app/id1351178306
+US,PAID,IOS,2020,6,M,172,+10,,Education,Daily Nanny,David Coffin,$4.99,,2017-02-09,1372,https://itunes.apple.com/US/app/id1180728044
+US,PAID,IOS,2020,6,M,173,+59,,Education,Flashnote Derby,Luke Bartolomeo,$4.99,,2011-08-03,1362,https://itunes.apple.com/US/app/id453126527
+US,PAID,IOS,2020,6,M,174,-77,,Education,Elmo Loves 123s,Sesame Street,$4.99,,2012-12-10,1360,https://itunes.apple.com/US/app/id581585669
+US,PAID,IOS,2020,6,M,175,+62,,Education,My Very Hungry Caterpillar.,StoryToys Entertainment Limited,$5.99,,2014-10-16,1333,https://itunes.apple.com/US/app/id894991908
+US,PAID,IOS,2020,6,M,176,+22,,Education,Dr. Panda Daycare,Dr. Panda Ltd,$3.99,,2012-11-15,1322,https://itunes.apple.com/US/app/id575812869
+US,PAID,IOS,2020,6,M,177,-51,,Education,My Town : Wedding Day,My Town Games LTD,$2.99,,2016-04-13,1313,https://itunes.apple.com/US/app/id1098187391
+US,PAID,IOS,2020,6,M,178,-47,,Education,My City : Ski Resort,My Town Games LTD,$2.99,,2019-10-24,1312,https://itunes.apple.com/US/app/id1476228432
+US,PAID,IOS,2020,6,M,179,+2,,Education,Toca Train,Toca Boca AB,$3.99,,2012-06-14,1255,https://itunes.apple.com/US/app/id521640355
+US,PAID,IOS,2020,6,M,180,+17,,Education,Toca Store,Toca Boca AB,$3.99,,2011-10-06,1235,https://itunes.apple.com/US/app/id442705759
+US,PAID,IOS,2020,6,M,181,new,,Education,Jangu Adlam,Alseny Diallo,$1.99,,2020-06-09,1194,https://itunes.apple.com/US/app/id1492655306
+US,PAID,IOS,2020,6,M,182,+21,,Education,ABA Wizard: BT Exam,"Test Prep Technologies, LLC",$6.99,,2018-11-22,1188,https://itunes.apple.com/US/app/id1444157458
+US,PAID,IOS,2020,6,M,183,-80,,Education,StaffWars,"TMI Media, LLC",$0.99,,2014-02-08,1187,https://itunes.apple.com/US/app/id810405576
+US,PAID,IOS,2020,6,M,184,-12,,Education,The Scale of the Universe 2,Michael Huang,$0.99,,2015-12-04,1172,https://itunes.apple.com/US/app/id1062423259
+US,PAID,IOS,2020,6,M,185,-2,,Education,Stars 2 Apples,Ian Clawson,$9.99,,2019-03-01,1106,https://itunes.apple.com/US/app/id1452027163
+US,PAID,IOS,2020,6,M,186,+76,,Education,Da Vinci Eye: Anyone Can Draw,Cube MG LLC,$4.99,,2020-06-16,1101,https://itunes.apple.com/US/app/id1120304868
+US,PAID,IOS,2020,6,M,187,-19,,Education,States of Matter by Tinybop,Tinybop Inc.,$2.99,,2019-04-04,1098,https://itunes.apple.com/US/app/id1451999149
+US,PAID,IOS,2020,6,M,188,+51,,Education,Sago Mini Pet Cafe,Sago Mini,$3.99,,2013-08-14,1095,https://itunes.apple.com/US/app/id659448144
+US,PAID,IOS,2020,6,M,189,-23,,Education,Peppa Pig™: Happy Mrs Chicken,Entertainment One,$2.99,,2017-04-05,1094,https://itunes.apple.com/US/app/id1218394369
+US,PAID,IOS,2020,6,M,190,+40,,Education,ASL Dictionary,Software Studios LLC,$4.99,,2010-02-08,1043,https://itunes.apple.com/US/app/id353574642
+US,PAID,IOS,2020,6,M,191,-7,,Education,Bubble Puppy:  Play and Learn,Nickelodeon,$3.99,,2013-12-11,1037,https://itunes.apple.com/US/app/id751936022
+US,PAID,IOS,2020,6,M,192,+8,,Education,Guitar Fretboard Note Trainer,Justin Guitar,$1.99,,2013-02-19,1033,https://itunes.apple.com/US/app/id559758702
+US,PAID,IOS,2020,6,M,193,+120,,Education,Algebra Touch,Regular Berry Software LLC,$3.99,,2010-08-02,1012,https://itunes.apple.com/US/app/id384354262
+US,PAID,IOS,2020,6,M,194,+32,,Education,Random Name Picker,FIZZBRAIN LLC,$1.99,,2013-03-01,1012,https://itunes.apple.com/US/app/id604757788
+US,PAID,IOS,2020,6,M,195,+40,,Education,Toca House,Toca Boca AB,$3.99,,2012-02-23,979,https://itunes.apple.com/US/app/id495680460
+US,PAID,IOS,2020,6,M,196,+23,,Education,Thinkrolls,AVOKIDDO,$3.99,,2014-10-16,972,https://itunes.apple.com/US/app/id917176209
+US,PAID,IOS,2020,6,M,197,+15,,Education,PlantDetect - Plant Finder,Giap Nguyen Ba,$1.99,,2020-04-16,961,https://itunes.apple.com/US/app/id1508006629
+US,PAID,IOS,2020,6,M,198,-40,,Education,The Human Body by Tinybop,Tinybop Inc.,$3.99,The Urogenital System : $0.99 / The Immune System : $0.99,2013-08-15,958,https://itunes.apple.com/US/app/id682046579
+US,PAID,IOS,2020,6,M,199,+3,,Education,Baby Lock Screen For Youtube - Child Locker,Sagofun Group,$2.99,,2017-07-30,954,https://itunes.apple.com/US/app/id1246052322
+US,PAID,IOS,2020,6,M,200,new,,Education,Expedition White Shark,Marine Conservation Science Institute MCSI,$3.99,,2012-01-10,951,https://itunes.apple.com/US/app/id488682903

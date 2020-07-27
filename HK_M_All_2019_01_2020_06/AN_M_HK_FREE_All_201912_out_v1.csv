@@ -1,0 +1,107 @@
+Country,Type,OS,year,month,date type,Rank,Change,Industry,subcategory,App,Publisher,Price,Inapp,Date,CRScore,URL(Address)
+HK,FREE,AND,2019,12,M,1,-,,Music & Audio,YouTube Music - ä¸²æµæ­æ²åé³æ¨å½±ç,Google LLC,0.0,,2020-07-16,246889,https://play.google.com/store/apps/details?id=com.google.android.apps.youtube.music
+HK,FREE,AND,2019,12,M,2,+22,,Maps & Navigations,PinnAR,"TelecomSquare,Inc.",0.0,,2020-03-24,143241,https://play.google.com/store/apps/details?id=jp.co.telecomsquare.app.pinnar
+HK,FREE,AND,2019,12,M,3,+4,,Food & Drink,åä½ Eat,IT Monastery Limited,0.0,æ¯ä»¶HK$8.00,2020-03-22,76966,https://play.google.com/store/apps/details?id=com.woleieat
+HK,FREE,AND,2019,12,M,4,+1,,Communication,WhatsApp Messenger,WhatsApp Inc.,0.0,,2020-07-20,73080,https://play.google.com/store/apps/details?id=com.whatsapp
+HK,FREE,AND,2019,12,M,5,new,,Shopping,Wolipay - åä½ PAY,Awesapp Limited,0.0,,2020-07-02,62218,https://play.google.com/store/apps/details?id=com.awesapp.wolipay
+HK,FREE,AND,2019,12,M,6,+6,,Communication,å¾®ä¿¡,WeChat,0.0,æ¯ä»¶HK$7.00-HK$118.00,2020-07-13,57309,https://play.google.com/store/apps/details?id=com.tencent.mm
+HK,FREE,AND,2019,12,M,7,new,,Travel & Local,é¦æ¸¯ååº,CHI HO,0.0,,2020-04-24,49738,https://play.google.com/store/apps/details?id=com.ffhk.shoplisthk
+HK,FREE,AND,2019,12,M,8,+2,,Finance,AlipayHK (æ¯ä»å¯¶é¦æ¸¯),Alipay (Hangzhou) Technology Co. Ltd,0.0,,2020-07-17,47356,https://play.google.com/store/apps/details?id=hk.alipay.wallet
+HK,FREE,AND,2019,12,M,9,-1,,News & Magazines,é¦æ¸¯01 - æ°èè³è¨åçæ´»æå,HK01 Company Limited,0.0,,2020-07-21,38510,https://play.google.com/store/apps/details?id=com.hk01.news_app
+HK,FREE,AND,2019,12,M,10,-1,,Travel & Local,APP 1933 - KMBï¼LWB,The Kowloon Motor Bus Company (1933) Limited,0.0,,2020-06-24,35043,https://play.google.com/store/apps/details?id=com.kmb.app1933
+HK,FREE,AND,2019,12,M,11,new,,Medical,HA Go,Hospital Authority,0.0,,2020-07-14,30177,https://play.google.com/store/apps/details?id=hk.org.ha.hago
+HK,FREE,AND,2019,12,M,12,+6,,Video Players & Editors,TikTok,TikTok Pte. Ltd.,0.0,æ¯ä»¶HK$8.00-HK$808.00,2020-06-28,28447,https://play.google.com/store/apps/details?id=com.ss.android.ugc.trill
+HK,FREE,AND,2019,12,M,13,+3,,Communication,Messenger â æ¶åæ¶æ¯åè§é¢éè¯å¨é¨åè´¹,Facebook,0.0,"æ¯ä»¶HK$8.00-HK$3,099.00",2020-07-20,21930,https://play.google.com/store/apps/details?id=com.facebook.orca
+HK,FREE,AND,2019,12,M,14,+7,,Tools,Google ç¿»è¯,Google LLC,0.0,,2020-07-10,21875,https://play.google.com/store/apps/details?id=com.google.android.apps.translate
+HK,FREE,AND,2019,12,M,15,+13,,Social,Facebook,Facebook,0.0,"æ¯ä»¶HK$8.00-HK$3,099.00",2020-07-24,21215,https://play.google.com/store/apps/details?id=com.facebook.katana
+HK,FREE,AND,2019,12,M,16,new,,Shopping,DONKI,Pan Pacific Retail Management Asia,0.0,,2020-07-09,20943,https://play.google.com/store/apps/details?id=com.dondon.donki
+HK,FREE,AND,2019,12,M,17,+14,,Travel & Local,Trip.comï¼æ©ç¥¨ãéåºãç«è»ç¥¨ãæ¥éãç¶å°ç©æ¨,Trip.com,0.0,,2020-07-16,20400,https://play.google.com/store/apps/details?id=ctrip.english
+HK,FREE,AND,2019,12,M,18,+12,,Social,Instagram,Instagram,0.0,æ¯ä»¶HK$8.00-HK$38.00,2020-07-20,19146,https://play.google.com/store/apps/details?id=com.instagram.android
+HK,FREE,AND,2019,12,M,19,+1,,Food & Drink,foodpanda - ç¾é£å¤ååçé²æè´§å¤éæå¡,Foodpanda GmbH a subsidiary of Delivery Hero SE,0.0,,2020-07-22,18970,https://play.google.com/store/apps/details?id=com.global.foodpanda.android
+HK,FREE,AND,2019,12,M,20,+21,,Tools,å«éé,Octopus Cards Limited,0.0,,2020-07-23,17288,https://play.google.com/store/apps/details?id=com.octopuscards.nfc_reader
+HK,FREE,AND,2019,12,M,21,+5,,Shopping,ææºæ·å®,Taobao,0.0,,2020-07-02,16569,https://play.google.com/store/apps/details?id=com.taobao.taobao
+HK,FREE,AND,2019,12,M,22,+23,,Lifestyle,MyLink - é£æ¥ Â· çæ´»,China Mobile Hong Kong Co. Ltd.,0.0,,2020-06-04,15208,https://play.google.com/store/apps/details?id=com.ChinaMobile
+HK,FREE,AND,2019,12,M,23,+54,,Social,Omi - ä½ çæå¾ä¸æ¬¾äº¤åè»é«,MatchUp UK Limited,0.0,æ¯ä»¶HK$15.00-HK$939.00,2020-07-22,14563,https://play.google.com/store/apps/details?id=sg.omi
+HK,FREE,AND,2019,12,M,24,-20,,News & Magazines,æçº¿æ°é»,i-CABLE.com Limited,0.0,æ¯ä»¶HK$68.00-HK$688.00,2020-07-08,14520,https://play.google.com/store/apps/details?id=hk.hkott.app
+HK,FREE,AND,2019,12,M,25,-12,,Communication,Telegram,Telegram FZ-LLC,0.0,,2020-06-06,12883,https://play.google.com/store/apps/details?id=org.telegram.messenger
+HK,FREE,AND,2019,12,M,26,-12,,Tools,æ°å­å¥åº·,Google LLC,0.0,,2020-05-11,12713,https://play.google.com/store/apps/details?id=com.google.android.apps.wellbeing
+HK,FREE,AND,2019,12,M,27,-12,,Travel & Local,æ°å·´åå·´,Citybus & New World First Bus,0.0,,2020-06-17,12498,https://play.google.com/store/apps/details?id=com.nwfb
+HK,FREE,AND,2019,12,M,28,new,,Lifestyle,å¥è¯Fans,Kee Wah Bakery Limited,0.0,,2020-07-24,12013,https://play.google.com/store/apps/details?id=com.keewah.start
+HK,FREE,AND,2019,12,M,29,new,,Weather,æçå¤©æå° (MyObservatory),Hong Kong Observatory,0.0,,2020-06-30,11701,https://play.google.com/store/apps/details?id=hko.MyObservatory_v1_0
+HK,FREE,AND,2019,12,M,30,+29,,Finance,PayMe from HSBC,The Hongkong and Shanghai Banking Corporation Ltd,0.0,,2020-07-14,9873,https://play.google.com/store/apps/details?id=hk.com.hsbc.paymefromhsbc
+HK,FREE,AND,2019,12,M,31,+16,,Entertainment,Google Play æ¸¸æ,Google LLC,0.0,,2020-07-08,9330,https://play.google.com/store/apps/details?id=com.google.android.play.games
+HK,FREE,AND,2019,12,M,32,+14,,Video Players & Editors,bilibili - é«æ¸æ°çªååè§é¢ç¤¾åº,åå©åå©,0.0,"æ¯ä»¶HK$7.00-HK$1,248.00",2020-07-09,9281,https://play.google.com/store/apps/details?id=com.bilibili.app.in
+HK,FREE,AND,2019,12,M,33,-16,,Tools,Clean Booster - Phone Cleaner & Speed Booster,SM Health Team,0.0,,2019-12-11,8784,https://play.google.com/store/apps/details?id=clean.booster.phone
+HK,FREE,AND,2019,12,M,34,new,,Lifestyle,UNIQLO Hong Kong & Macau,"UNIQLO CO., LTD.",0.0,,2020-06-22,8540,https://play.google.com/store/apps/details?id=com.uniqlo.hk.catalogue
+HK,FREE,AND,2019,12,M,35,+8,,Entertainment,Netflix,"Netflix, Inc.",0.0,æ¯ä»¶HK$61.96-HK$95.90,2020-07-23,8396,https://play.google.com/store/apps/details?id=com.netflix.mediaclient
+HK,FREE,AND,2019,12,M,36,+21,,Communication,LINE,LINE Corporation,0.0,"æ¯ä»¶HK$7.57-HK$1,168.00",2020-07-16,8263,https://play.google.com/store/apps/details?id=jp.naver.line.android
+HK,FREE,AND,2019,12,M,37,+75,,Travel & Local,å®¢è·¯æè¡,Klook Travel Technology Ltd.,0.0,,2020-07-20,8001,https://play.google.com/store/apps/details?id=com.klook
+HK,FREE,AND,2019,12,M,38,-4,,News & Magazines,Twitter,"Twitter, Inc.",0.0,,2020-07-23,7952,https://play.google.com/store/apps/details?id=com.twitter.android
+HK,FREE,AND,2019,12,M,39,+23,,Entertainment,myTV SUPER,tvb.com,0.0,,2020-07-22,7827,https://play.google.com/store/apps/details?id=com.tvb.mytvsuper
+HK,FREE,AND,2019,12,M,40,+15,,Tools,èçVPN(æ°¸ä¹åè´¹ä½ç³»VPN)â¤ï¸- æå¥½çåè´¹VPN ç§è¿ é«é ç¨³å® æ¢¯å­ æ°¸ä¹æ´æ° ç§å­¦ä¸ç½,èç,0.0,æ¯ä»¶HK$8.00-HK$538.00,2020-06-06,7684,https://play.google.com/store/apps/details?id=com.findtheway
+HK,FREE,AND,2019,12,M,41,-14,,Tools,App Vault,Xiaomi Inc.,0.0,,2020-05-14,7508,https://play.google.com/store/apps/details?id=com.mi.android.globalminusscreen
+HK,FREE,AND,2019,12,M,42,-23,,Education,å¼è¨è±è¯­ - å°éè±è¯­æµå©è¯´,Openlanguage Inc.,0.0,"æ¯ä»¶HK$78.00-HK$1,399.00",2020-07-23,7320,https://play.google.com/store/apps/details?id=com.openlanguage.kaiyan
+HK,FREE,AND,2019,12,M,43,+49,,Finance,HSBC HK Mobile Banking é¦æ¸¯æ±ä¸°æµå¨çè´¢,The Hongkong and Shanghai Banking Corporation Ltd,0.0,,2020-07-08,7201,https://play.google.com/store/apps/details?id=hk.com.hsbc.hsbchkmobilebanking
+HK,FREE,AND,2019,12,M,44,+31,,Music & Audio,Spotify - é³æ¨å Podcast,Spotify Ltd.,0.0,,2020-07-23,7002,https://play.google.com/store/apps/details?id=com.spotify.music
+HK,FREE,AND,2019,12,M,45,-34,,News & Magazines,Now æ°è - 24å°æç´æ­,PCCW Media Limited,0.0,,2020-07-22,6999,https://play.google.com/store/apps/details?id=com.now.newsapp
+HK,FREE,AND,2019,12,M,46,+25,,Finance,ä¸­é¶é¦æ¸¯,Bank of China (Hong Kong) Limited,0.0,,2020-07-19,6443,https://play.google.com/store/apps/details?id=com.bochk.com
+HK,FREE,AND,2019,12,M,47,+48,,Tools,WhatSticker åè²»è²¼åååº,LouisLam.net,0.0,,2020-07-17,6298,https://play.google.com/store/apps/details?id=online.whatsticker
+HK,FREE,AND,2019,12,M,48,-12,,Lifestyle,OK é½é½å°,Circle K Hong Kong,0.0,,2020-06-24,6168,https://play.google.com/store/apps/details?id=com.circlek.loyalty
+HK,FREE,AND,2019,12,M,49,+9,,Lifestyle,bossini Plus,Bossini Enterprises Limited,0.0,,2020-06-09,5910,https://play.google.com/store/apps/details?id=com.bossini.crm.app.android
+HK,FREE,AND,2019,12,M,50,+1,,Entertainment,Movie & Drama Theater-Hot & new Chinese TV series,lishijie,0.0,,2020-02-27,5776,https://play.google.com/store/apps/details?id=com.movies.ysjc
+HK,FREE,AND,2019,12,M,51,-49,,Productivity,Samsung Notes,"Samsung Electronics Co.,  Ltd.",0.0,,2019-12-24,5738,https://play.google.com/store/apps/details?id=com.samsung.android.app.notes
+HK,FREE,AND,2019,12,M,52,+4,,Finance,æ¯ä»å®,Alipay (Hangzhou) Technology Co. Ltd,0.0,,2020-07-03,5460,https://play.google.com/store/apps/details?id=com.eg.android.AlipayGphone
+HK,FREE,AND,2019,12,M,53,+61,,Tools,S æ¢æºå©æ (Smart Switch Mobile),"Samsung Electronics Co.,  Ltd.",0.0,,2020-06-05,5403,https://play.google.com/store/apps/details?id=com.sec.android.easyMover
+HK,FREE,AND,2019,12,M,54,new,,Lifestyle,U Lifestyleï¼æHitåªæ åçæ´»è³è¨å¹³å°,Hong Kong Economic Times Limited,0.0,,2020-07-20,4904,https://play.google.com/store/apps/details?id=com.hket.android.up
+HK,FREE,AND,2019,12,M,55,new,,Food & Drink,Deliveroo æ¶æ¶éï¼ç¾é£éé¤æå,Deliveroo,0.0,,2020-07-13,4884,https://play.google.com/store/apps/details?id=com.deliveroo.orderapp
+HK,FREE,AND,2019,12,M,56,+54,,Music & Audio,JOOX Music: åè²»å±Kãè½æ­ãæ­æ²ä¸è¼ãé³æ¨é»å°,Tencent Mobility Limited,0.0,"æ¯ä»¶HK$7.00-HK$1,288.00",2020-07-25,4834,https://play.google.com/store/apps/details?id=com.tencent.ibg.joox
+HK,FREE,AND,2019,12,M,57,-13,,Photography,"Mixart Photo Editor - Cartoon Effect,Collage Maker",Ideal Pic Lab,0.0,$4.99 - $95.99 per item,2020-01-19,4825,https://play.google.com/store/apps/details?id=com.idealpiclab.photoeditorpro
+HK,FREE,AND,2019,12,M,58,-33,,Photography,"iArt Camera-Magic Effect, Face Aging Booth",Voyage Photo Lab,0.0,$9.99 - $95.99 per item,2019-12-20,4702,https://play.google.com/store/apps/details?id=com.iart.camera.photo
+HK,FREE,AND,2019,12,M,59,+52,,Travel & Local,é«å¾·å°å¾,é«å¾·è½¯ä»¶,0.0,,2020-05-20,4396,https://play.google.com/store/apps/details?id=com.autonavi.minimap
+HK,FREE,AND,2019,12,M,60,new,,Video Players & Editors,å°å°å½±è§ - è¥¿çå½±è§çµå½±&ç¾å§æ¥å§å¤§å¨,Vivian Cameron,0.0,,2019-11-06,4322,https://play.google.com/store/apps/details?id=cn.super.xiaoxiaoys
+HK,FREE,AND,2019,12,M,61,+29,,Lifestyle,HKTVmall â ç¶²ä¸è³¼ç©,Hong Kong Television Network Limited,0.0,,2020-07-20,3939,https://play.google.com/store/apps/details?id=com.hktv.android.hktvmall
+HK,FREE,AND,2019,12,M,62,new,,Music & Audio,åè²»_ç»å¸èæ­_æ·èèæ­,Music love For,0.0,,2019-11-19,3887,https://play.google.com/store/apps/details?id=com.ringringmusic.best7
+HK,FREE,AND,2019,12,M,63,+36,,Finance,BoC Pay,Bank of China (Hong Kong) Limited,0.0,,2020-06-09,3851,https://play.google.com/store/apps/details?id=com.bochk.bocpay
+HK,FREE,AND,2019,12,M,64,-26,,Productivity,"Fancy Cleaner - Antivirus, Booster & Phone Cleaner",Fancy Mobile Apps,0.0,$0.99 - $5.99 per item,2019-12-23,3365,https://play.google.com/store/apps/details?id=com.fancyclean.boost
+HK,FREE,AND,2019,12,M,65,new,,Comics,ì§±ìê¸´ë§í30,POPGAME,0.0,,2019-10-14,3067,https://play.google.com/store/apps/details?id=com.zzangcartoon30
+HK,FREE,AND,2019,12,M,66,new,,Shopping,Carouseï»¿ll æè½¬æå - ä½ ææä¹°,Carousell,0.0,"æ¯ä»¶HK$8.00-HK$1,428.00",2020-07-23,2920,https://play.google.com/store/apps/details?id=com.thecarousell.Carousell
+HK,FREE,AND,2019,12,M,67,+34,,Shopping,"Amazon Shopping - Search, Find, Ship, and Save",Amazon Mobile LLC,0.0,,2020-07-13,2867,https://play.google.com/store/apps/details?id=com.amazon.mShop.android.shopping
+HK,FREE,AND,2019,12,M,68,-65,,Travel & Local,MTR Mobile,MTR Corporation Limited,0.0,,2020-07-21,2844,https://play.google.com/store/apps/details?id=com.mtr.mtrmobile
+HK,FREE,AND,2019,12,M,69,new,,Tools,æå®å¨çåè´¹ QRCode éè¯»å¨,TWMobile,0.0,,2020-06-15,2503,https://play.google.com/store/apps/details?id=tw.mobileapp.qrcode.banner
+HK,FREE,AND,2019,12,M,70,new,,Finance,å·¥é¶äºæ´²,ICBC,0.0,,2020-06-21,2492,https://play.google.com/store/apps/details?id=com.icbc.icbcasia
+HK,FREE,AND,2019,12,M,71,new,,Lifestyle,Whoot! - Rewards with Every Meal,whoot!,0.0,,2020-01-20,2427,https://play.google.com/store/apps/details?id=com.app.whoot
+HK,FREE,AND,2019,12,M,72,new,,Entertainment,Face X Play - Aging & Cartoon Selfie,Face X Studio,0.0,$25.99 - $83.99 per item,2020-01-17,2119,https://play.google.com/store/apps/details?id=com.faceditor.facex
+HK,FREE,AND,2019,12,M,73,new,,Finance,å¤å¯ç·ä¸æè³TOP1-å¤å¯ï¼æè²¨ï¼é»éï¼è¡ç¥¨ææ¸æè³,Top1 Invest,0.0,,2019-12-04,2002,https://play.google.com/store/apps/details?id=com.invest.forex.gold.currency.finance.stock.bitcoin
+HK,FREE,AND,2019,12,M,74,+31,,Finance,uSMARTåä¿¡æºæ - æ¸¯è¡ç¾è¡å¯¦æå ±å¹äº¤æå¹³å°,uSmart Securities Limited,0.0,"æ¯ä»¶HK$188.00-HK$3,088.00",2020-07-15,1852,https://play.google.com/store/apps/details?id=com.usmart.stock
+HK,FREE,AND,2019,12,M,75,new,,Food & Drink,"å¤§ä¼ç¹è¯-å¢è´­,ç¾é£,çµå½±,KTV,éåº,é¨ç¥¨,ç¾ç²",å¤§ä¼ç¹è¯ç½,0.0,,2020-05-29,1812,https://play.google.com/store/apps/details?id=com.dianping.v1
+HK,FREE,AND,2019,12,M,76,new,,Productivity,QR code ææå¨è³å°ç,FancyApp,0.0,,2020-06-15,1713,https://play.google.com/store/apps/details?id=com.fancyapp.qrcode.barcode.scanner.reader
+HK,FREE,AND,2019,12,M,77,new,,Shopping,æ°é´»åºå°ç¢åå ´,Sun Hung Kai Real Estate Agency Ltd,0.0,,2020-07-16,1664,https://play.google.com/store/apps/details?id=com.shkp.shkmalls
+HK,FREE,AND,2019,12,M,78,new,,Education,è±å­è±è¯­24/7,Signum International AG,0.0,,2020-04-09,1647,https://play.google.com/store/apps/details?id=com.ef.english24_7
+HK,FREE,AND,2019,12,M,79,-50,,News & Magazines,æ±ç¶² - æ±æ¹æ¥å ±,ON.CC LIMITED,0.0,,2020-07-23,1526,https://play.google.com/store/apps/details?id=com.news.on
+HK,FREE,AND,2019,12,M,80,new,,Tools,Sticker maker - è´´å¾å¶ä½å¨,Viko & Co.,0.0,,2020-07-10,1465,https://play.google.com/store/apps/details?id=com.marsvard.stickermakerforwhatsapp
+HK,FREE,AND,2019,12,M,81,new,,Food & Drink,æ±æµ·å  arome,Arome Bakery (HK) Co Ltd,0.0,,2020-02-04,1449,https://play.google.com/store/apps/details?id=com.aromebakery.app
+HK,FREE,AND,2019,12,M,82,new,,Tools,Nkapa Security - å®å¨ä¿è­·æ¨çææ©å®å¨,Nkapa Apps,0.0,,2020-02-11,1144,https://play.google.com/store/apps/details?id=com.nkapa.antivirus.safephone.security
+HK,FREE,AND,2019,12,M,83,new,,Social,Merry Christmas Greeting and Happy New Year 2020,Angle App,0.0,,2019-09-30,1103,https://play.google.com/store/apps/details?id=com.AngleApp.MerryChristmasGreeting
+HK,FREE,AND,2019,12,M,84,new,,Tools,My HKBN (My Account),Hong Kong Broadband Network Limited.,0.0,,2020-06-22,1089,https://play.google.com/store/apps/details?id=com.hkbn.myaccount
+HK,FREE,AND,2019,12,M,85,-62,,Communication,WSTicK - èªå¶Whatsappè´´å¾ - WAStickerApps,SmartBen,0.0,æ¯ä»¶HK$8.00,2020-07-03,1017,https://play.google.com/store/apps/details?id=com.wstick.hk
+HK,FREE,AND,2019,12,M,86,new,,Finance,Google Pay,Google LLC,0.0,,2020-07-23,1013,https://play.google.com/store/apps/details?id=com.google.android.apps.walletnfcrel
+HK,FREE,AND,2019,12,M,87,new,,Lifestyle,æè³é¢,"A. S. Watson & Company, Limited",0.0,,2020-07-23,995,https://play.google.com/store/apps/details?id=com.asw.moneyback
+HK,FREE,AND,2019,12,M,88,+19,,Travel & Local,KKdayï¼å¨çæéé«é©è¡ç¨é è¨,KKday,0.0,,2020-07-24,917,https://play.google.com/store/apps/details?id=com.kkday.member
+HK,FREE,AND,2019,12,M,89,-52,,Entertainment,WhatsGap - ç¼å¤¢å¤¾å¬ä»å°å,sf.apps.production,0.0,$0.99 per item,2019-11-20,880,https://play.google.com/store/apps/details?id=com.gotcha.hk.map
+HK,FREE,AND,2019,12,M,90,-3,,News & Magazines,Yahoo æ°è - é¦æ¸¯å³æç¦é»,Yahoo,0.0,,2020-07-23,870,https://play.google.com/store/apps/details?id=com.yahoo.infohub
+HK,FREE,AND,2019,12,M,91,-2,,Travel & Local,å°å¾,Google LLC,0.0,,2020-07-16,870,https://play.google.com/store/apps/details?id=com.google.android.apps.maps
+HK,FREE,AND,2019,12,M,92,new,,Social,Christmas Sticker Packs - WAStickerApps,OnePic,0.0,,2019-09-03,829,https://play.google.com/store/apps/details?id=com.onepic.christmasstickerapp
+HK,FREE,AND,2019,12,M,93,-14,,Tools,ViroClean Security - Antivirus Scan & Cleaner App,BIT Change Teams,0.0,,2019-11-25,816,https://play.google.com/store/apps/details?id=security.scan.antivirus.protection
+HK,FREE,AND,2019,12,M,94,-25,,Tools,Google Text-to-Speech,Google LLC,0.0,,2019-12-10,740,https://play.google.com/store/apps/details?id=com.google.android.tts
+HK,FREE,AND,2019,12,M,95,new,,Entertainment,é¦æ¸¯éé»è¦ Hong Kong Open TV,Fantastic Television Limited,0.0,,2018-11-22,740,https://play.google.com/store/apps/details?id=hk.fantv.fantvX2X1
+HK,FREE,AND,2019,12,M,96,new,,Art & Design,å¬è³è´ºå¡,MobileReliant,0.0,,2019-12-03,652,https://play.google.com/store/apps/details?id=com.mobilereliant.dongzhigreetingcardscn
+HK,FREE,AND,2019,12,M,97,-64,,Music & Audio,Vivid Music,Jung Lab,0.0,,2020-05-19,632,https://play.google.com/store/apps/details?id=vividmusic.freemusic.gptubeplayer
+HK,FREE,AND,2019,12,M,98,new,,Weather,å¤©æ°,smart-pro android apps,0.0,,2019-08-12,606,https://play.google.com/store/apps/details?id=com.graph.weather.forecast.channel
+HK,FREE,AND,2019,12,M,99,-27,,Video Players & Editors,YouTube,Google LLC,0.0,,2020-07-24,488,https://play.google.com/store/apps/details?id=com.google.android.youtube
+HK,FREE,AND,2019,12,M,100,-52,,Communication,Google Chromeï¼å¿«éãå®å¨,Google LLC,0.0,,2020-07-20,476,https://play.google.com/store/apps/details?id=com.android.chrome
+HK,FREE,AND,2019,12,M,101,+12,,Shopping,"big big shop - çå¾å°, è²·å¾å°",Big Big Channel Limited,0.0,,2020-06-15,466,https://play.google.com/store/apps/details?id=hk.com.tvb.bigbigshop
+HK,FREE,AND,2019,12,M,102,-22,,Video Players & Editors,Google Play çµå½±,Google LLC,0.0,,2020-05-26,454,https://play.google.com/store/apps/details?id=com.google.android.videos
+HK,FREE,AND,2019,12,M,103,-17,,Music & Audio,Google Play Music,Google LLC,0.0,,2020-05-26,426,https://play.google.com/store/apps/details?id=com.google.android.music
+HK,FREE,AND,2019,12,M,104,-30,,Tools,Android ç³»ç» WebView,Google LLC,0.0,,2020-06-17,416,https://play.google.com/store/apps/details?id=com.google.android.webview
+HK,FREE,AND,2019,12,M,105,-9,,Food & Drink,éº¥ç¶åÂ® App,MHK Restaurants Limited,0.0,,2020-07-10,416,https://play.google.com/store/apps/details?id=com.mcdonalds.gma.hongkong
+HK,FREE,AND,2019,12,M,106,-30,,Entertainment,Viu,PCCW OTT (HK) Limited,0.0,æ¯ä»¶HK$7.00-HK$838.00,2020-07-21,400,https://play.google.com/store/apps/details?id=com.viu.phone

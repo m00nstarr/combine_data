@@ -1,0 +1,19 @@
+Country,Type,OS,year,month,date type,Rank,Change,Industry,subcategory,App,Publisher,Price,Inapp,Date,CRScore,URL(Address)
+US,FREE,IOS,2019,8,M,1,-,,Travel,Uber - Request a ride,"Uber Technologies, Inc.",0,,2010-05-20,320000,https://itunes.apple.com/US/app/id368677368
+US,FREE,IOS,2019,8,M,2,-,,Navigation,Waze Navigation & Live Traffic,Waze Inc.,0,,2009-08-01,147824,https://itunes.apple.com/US/app/id323229106
+US,FREE,IOS,2019,8,M,3,-,,Travel,Lyft,"Lyft, Inc.",0,,2012-05-30,111159,https://itunes.apple.com/US/app/id529379082
+US,FREE,IOS,2019,8,M,4,-,,Food & Drink,"Yelp Food, Delivery & Services",Yelp,0,,2019-02-11,76015,https://itunes.apple.com/US/app/id284910350
+US,FREE,IOS,2019,8,M,5,-,,Productivity,Norton Secure VPN & Proxy VPN,"NortonLifeLock, Inc.",0,Subscription with free trial for one device : $29.99 / Yearly Plan : $29.99 / 7 Day Trial Yearly Plan : $39.99,2016-06-13,56762,https://itunes.apple.com/US/app/id1095519285
+US,FREE,IOS,2019,8,M,6,-,,Food & Drink,Grubhub: Local Food Delivery,GrubHub.com,0,,2009-02-03,55176,https://itunes.apple.com/US/app/id302920553
+US,FREE,IOS,2019,8,M,7,+3,,Reference,Google Translate,Google LLC,0,,2011-02-08,43754,https://itunes.apple.com/US/app/id414706506
+US,FREE,IOS,2019,8,M,8,-1,,Travel,Airbnb,"Airbnb, Inc.",0,,2010-11-10,40430,https://itunes.apple.com/US/app/id401626263
+US,FREE,IOS,2019,8,M,9,-1,,Travel,Google Earth,Google LLC,0,,2008-10-27,32459,https://itunes.apple.com/US/app/id293622097
+US,FREE,IOS,2019,8,M,10,+1,,Travel,Lime - Your Ride Anytime,Neutron Holdings. Inc.,0,,2017-05-09,29020,https://itunes.apple.com/US/app/id1199780189
+US,FREE,IOS,2019,8,M,11,+1,,Travel,American Airlines,American Airlines,0,,2010-07-26,18278,https://itunes.apple.com/US/app/id382698565
+US,FREE,IOS,2019,8,M,12,-3,,Travel,"Bird - Be Free, Enjoy the Ride","Bird Rides, Inc.",0,,2017-09-11,15570,https://itunes.apple.com/US/app/id1260842311
+US,FREE,IOS,2019,8,M,13,+1,,Travel,Southwest Airlines,Southwest Airlines Co.,0,,2009-12-17,14620,https://itunes.apple.com/US/app/id344542975
+US,FREE,IOS,2019,8,M,14,-1,,Travel,United Airlines,United Airlines,0,,2011-07-19,10330,https://itunes.apple.com/US/app/id449945214
+US,FREE,IOS,2019,8,M,15,+3,,Weather,NOAA Weather Radar Live,"Weather or Not Apps, LLC",0,Full Access to Pro Features : $2.99 / Pro Features (Weekly) : $2.99 / Pro Features (Monthly) : $4.99,2013-11-25,8651,https://itunes.apple.com/US/app/id749133753
+US,FREE,IOS,2019,8,M,16,-1,,Travel,"Expedia: Hotels, Flights & Car","Expedia, Inc.",0,,2011-04-06,3806,https://itunes.apple.com/US/app/id427916203
+US,FREE,IOS,2019,8,M,17,new,,Travel,GasBuddy: Find Cheap Gas,GasBuddy Organization Inc,0,,2010-12-17,2000,https://itunes.apple.com/US/app/id406719683
+US,FREE,IOS,2019,8,M,18,+1,,Travel,Fly Delta,"Delta Air Lines, Inc.",0,,2010-08-31,1334,https://itunes.apple.com/US/app/id388491656

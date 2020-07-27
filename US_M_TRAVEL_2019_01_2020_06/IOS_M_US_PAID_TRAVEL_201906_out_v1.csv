@@ -1,0 +1,201 @@
+Country,Type,OS,year,month,date type,Rank,Change,Industry,subcategory,App,Publisher,Price,Inapp,Date,CRScore,URL(Address)
+US,PAID,IOS,2019,6,M,1,-,,Travel,Vegan Food Near You - HappyCow,HappyCow,$3.99,,2011-05-12,388809,https://itunes.apple.com/US/app/id435871950
+US,PAID,IOS,2019,6,M,2,-,,Travel,MarineTraffic - Ship Tracking,MarineTraffic.com,$4.99,Augmented Reality : $2.99 / Access Plus 24 : $0.99 / Nautical Charts Monthly : $2.99,2012-10-08,140830,https://itunes.apple.com/US/app/id563910324
+US,PAID,IOS,2019,6,M,3,+1,,Travel,Camp & RV - Tents to RV Parks,Allstays LLC,$9.99,,2010-05-13,139137,https://itunes.apple.com/US/app/id370820516
+US,PAID,IOS,2019,6,M,4,new,,Photo & Video,Pro Camera by Moment,Moment Inc.,$4.99,Pro Bundle : $3.99 / Slow Shutter : $2.99 / Time-lapse : $2.99,2014-11-18,118323,https://itunes.apple.com/US/app/id927098908
+US,PAID,IOS,2019,6,M,5,-2,,Travel,OBD Fusion,"OCTech, LLC",$9.99,Ford 2006 Enhanced Diagnostics : $9.99 / Ford 2004 Enhanced Diagnostics : $9.99 / Ford 2005 Enhanced Diagnostics : $9.99,2013-06-01,93481,https://itunes.apple.com/US/app/id650684932
+US,PAID,IOS,2019,6,M,6,-1,,Travel,PeakFinder AR,Fabio Soldati,$4.99,,2010-03-12,84729,https://itunes.apple.com/US/app/id357421934
+US,PAID,IOS,2019,6,M,7,-1,,Travel,Road to Hana Maui GyPSy Guide,GPS Tour Guide,$6.99,,2012-11-19,77159,https://itunes.apple.com/US/app/id578451869
+US,PAID,IOS,2019,6,M,8,-1,,Travel,LiveATC Air Radio,LiveATC.net,$3.99,,2009-06-09,76399,https://itunes.apple.com/US/app/id317809458
+US,PAID,IOS,2019,6,M,9,new,,Weather,My Earthquake Alerts Pro,JRustonApps B.V.,$2.99,,2015-04-04,58600,https://itunes.apple.com/US/app/id975770717
+US,PAID,IOS,2019,6,M,10,new,,Lifestyle,Cloud Baby Monitor,VIGI Limited,$4.99,,2011-06-27,47623,https://itunes.apple.com/US/app/id432791399
+US,PAID,IOS,2019,6,M,11,-2,,Travel,Yellowstone Grand Teton GyPSy,GPS Tour Guide,$9.99,,2016-09-07,38367,https://itunes.apple.com/US/app/id1143635056
+US,PAID,IOS,2019,6,M,12,new,,Photo & Video,ProCamera.,Cocologics,$8.99,San Fran : $0.99 / vivid HDR in Pro Camera : $3.99 / Night Camera & Long Exposure : $3.99,2013-09-18,23847,https://itunes.apple.com/US/app/id694647259
+US,PAID,IOS,2019,6,M,13,-5,,Travel,Roadside America,This Exit LLC,$2.99,US Access (v1.0-1.3) : $5.99 / All Access : $6.99 / US - Southeast : $1.99,2009-12-30,23845,https://itunes.apple.com/US/app/id347393479
+US,PAID,IOS,2019,6,M,14,new,,Travel,Blink Rides,"Blink Rides, LLC",0,,2019-09-19,20248,https://itunes.apple.com/US/app/id1470605205
+US,PAID,IOS,2019,6,M,15,-2,,Travel,Maui GyPSy Guide Driving Tour,GPS Tour Guide,$9.99,,2012-11-19,13168,https://itunes.apple.com/US/app/id578453078
+US,PAID,IOS,2019,6,M,16,-5,,Travel,Walmart Overnight Parking,Allstays LLC,$2.99,,2010-01-29,10638,https://itunes.apple.com/US/app/id352818407
+US,PAID,IOS,2019,6,M,17,-7,,Travel,PeakVisor,Routes Software SRL,$5.99,PeakVisor PRO – Monthly : $3.49 / PeakVisor PRO – Annually : $23.99,2016-12-21,9741,https://itunes.apple.com/US/app/id1187259191
+US,PAID,IOS,2019,6,M,18,-3,,Travel,MilSpaceA,Take-a-Hop,$6.99,Enable Skype Calling : $1.99,2012-01-26,8732,https://itunes.apple.com/US/app/id496694432
+US,PAID,IOS,2019,6,M,19,+3,,Travel,Maplets – The Offline Maps App,Zaia Design,$2.99,,2009-12-10,8522,https://itunes.apple.com/US/app/id337841739
+US,PAID,IOS,2019,6,M,20,-6,,Travel,Spanish Translator Pro,Shoreline Animation,$0.99,,2011-05-10,8415,https://itunes.apple.com/US/app/id435741813
+US,PAID,IOS,2019,6,M,21,-4,,Travel,USFS & BLM Campgrounds,William Modesitt,$0.99,,2013-06-03,7432,https://itunes.apple.com/US/app/id654806302
+US,PAID,IOS,2019,6,M,22,-10,,Travel,Plane Finder 3D,pinkfroot limited,$4.99,,2017-10-02,7205,https://itunes.apple.com/US/app/id1286867331
+US,PAID,IOS,2019,6,M,23,-4,,Travel,Plane Finder - Flight Tracker,pinkfroot limited,$4.99,,2009-11-03,7046,https://itunes.apple.com/US/app/id336477530
+US,PAID,IOS,2019,6,M,24,+2,,Travel,Gettysburg Driving Tour,Tour Buddy,$9.99,,2016-09-05,6513,https://itunes.apple.com/US/app/id1141956682
+US,PAID,IOS,2019,6,M,25,-7,,Travel,Road Trip Planner™,William Modesitt,$5.99,,2016-03-31,5610,https://itunes.apple.com/US/app/id1095856653
+US,PAID,IOS,2019,6,M,26,-6,,Travel,Yellowstone GyPSy Guide Tour,GPS Tour Guide,$5.99,,2015-04-13,5400,https://itunes.apple.com/US/app/id984151475
+US,PAID,IOS,2019,6,M,27,-11,,Travel,Truck Stops & Travel Plazas,Allstays LLC,$9.99,,2010-10-21,4787,https://itunes.apple.com/US/app/id398391903
+US,PAID,IOS,2019,6,M,28,+2,,Travel,Bronx Zoo App,Tarek Ahmed,$0.99,,2019-04-09,4493,https://itunes.apple.com/US/app/id1458377762
+US,PAID,IOS,2019,6,M,29,+5,,Travel,RV Dump Stations,William Modesitt,$0.99,,2017-07-10,4142,https://itunes.apple.com/US/app/id1257573007
+US,PAID,IOS,2019,6,M,30,-6,,Travel,Texas Historical Marker Guide,Gregory Moore,$2.99,,2015-01-25,4132,https://itunes.apple.com/US/app/id882607297
+US,PAID,IOS,2019,6,M,31,+5,,Travel,"WiFi Map Pro: WiFi, VPN Access",WiFi Map LLC,$4.99,PRO Version with VPN : $17.99,2012-07-26,4096,https://itunes.apple.com/US/app/id543032054
+US,PAID,IOS,2019,6,M,32,+1,,Travel,Flightview Plus,FlightView Inc.,$0.99,FlightView Elite Upgrade : $2.99,2010-06-03,4033,https://itunes.apple.com/US/app/id374341341
+US,PAID,IOS,2019,6,M,33,-10,,Travel,FAAwait,Bryan Figler,$0.99,,2019-02-01,3945,https://itunes.apple.com/US/app/id287217531
+US,PAID,IOS,2019,6,M,34,+25,,Travel,The Flight Tracker Pro,International Airport Flight Track Technologies,$5.99,,2012-04-22,3770,https://itunes.apple.com/US/app/id499826209
+US,PAID,IOS,2019,6,M,35,+25,,Travel,Ultimate US Public Campgrounds,William Modesitt,$3.99,,2013-09-16,3725,https://itunes.apple.com/US/app/id698323700
+US,PAID,IOS,2019,6,M,36,+7,,Travel,WDW Vacation Countdown,Ricky Mills,$0.99,,2011-04-19,3659,https://itunes.apple.com/US/app/id431850995
+US,PAID,IOS,2019,6,M,37,+8,,Travel,Truck & RV Fuel Stations,William Modesitt,$0.99,,2013-04-22,3581,https://itunes.apple.com/US/app/id636102179
+US,PAID,IOS,2019,6,M,38,new,,Reference,CCW – Concealed Carry 50 State,Workman Consulting LLC,$1.99,Update All Laws 1 Yr Renewable : $0.99 / Update All Laws 1 Year : $0.99,2011-06-16,3432,https://itunes.apple.com/US/app/id443321291
+US,PAID,IOS,2019,6,M,39,-,,Travel,Big Island Hawaii Gypsy Guide,GPS Tour Guide,$9.99,,2015-04-13,3249,https://itunes.apple.com/US/app/id982839825
+US,PAID,IOS,2019,6,M,40,+16,,Travel,Haleakala Maui GyPSy Guide,GPS Tour Guide,$3.99,,2012-11-19,3215,https://itunes.apple.com/US/app/id578424535
+US,PAID,IOS,2019,6,M,41,-20,,Travel,Packing Pro,Quinn Genzel,$2.99,Extra Themes Upgrade : $0.99 / Extra Lists Upgrade : $0.99 / Generous Tip : $1.99,2009-04-16,3198,https://itunes.apple.com/US/app/id312266675
+US,PAID,IOS,2019,6,M,42,-10,,Travel,Oahu GyPSy Guide Driving Tour,GPS Tour Guide,$6.99,,2012-12-12,3153,https://itunes.apple.com/US/app/id586015472
+US,PAID,IOS,2019,6,M,43,-14,,Travel,Bubbl Rides,"Bubbl Investments, LLC.",$1.99,,2018-01-31,3086,https://itunes.apple.com/US/app/id1231527487
+US,PAID,IOS,2019,6,M,44,-16,,Travel,Crime and Place: The Crime App,"AMGCI, LLC",$3.99,Data Subscription : $4.99,2016-01-14,2998,https://itunes.apple.com/US/app/id1045488584
+US,PAID,IOS,2019,6,M,45,+32,,Travel,HOODUBER,HOODUBER L.L.C.,$0.99,,2018-09-21,2964,https://itunes.apple.com/US/app/id1418546886
+US,PAID,IOS,2019,6,M,46,-19,,Travel,RV Dump Station Finder,Justin Trautman,$0.99,,2019-02-24,2963,https://itunes.apple.com/US/app/id1453722688
+US,PAID,IOS,2019,6,M,47,-7,,Travel,TV Towers USA,Generally Helpful Software,$1.99,Watch App : $0.99,2010-10-20,2849,https://itunes.apple.com/US/app/id396342822
+US,PAID,IOS,2019,6,M,48,+3,,Travel,Maui GPS Guide,"Henderson Hawai'i, Inc.",$7.99,,2019-05-01,2830,https://itunes.apple.com/US/app/id1416941139
+US,PAID,IOS,2019,6,M,49,+30,,Travel,California State Roads,Coderun Technologies Ltd,$1.99,,2016-09-20,2824,https://itunes.apple.com/US/app/id1153967813
+US,PAID,IOS,2019,6,M,50,+46,,Travel,Metro Paris Subway,Presselite,$0.99,Paris Bus : $0.99 / Fast Food POI Pack : $0.99 / Restaurants POI Pack : $0.99,2017-10-14,2725,https://itunes.apple.com/US/app/id297404959
+US,PAID,IOS,2019,6,M,51,+6,,Travel,Kauai GyPSy Guide,GPS Tour Guide,$6.99,,2017-05-10,2586,https://itunes.apple.com/US/app/id1232067790
+US,PAID,IOS,2019,6,M,52,+3,,Travel,Rand McNally Road Atlas,Rand McNally,$9.99,,2013-04-14,2580,https://itunes.apple.com/US/app/id624882974
+US,PAID,IOS,2019,6,M,53,+52,,Travel,Arches Canyonlands GyPSy Guide,GPS Tour Guide,$7.99,,2015-05-18,2571,https://itunes.apple.com/US/app/id990452649
+US,PAID,IOS,2019,6,M,54,+52,,Travel,Fog of World,Ollix,$12.99,,2012-09-18,2535,https://itunes.apple.com/US/app/id505367096
+US,PAID,IOS,2019,6,M,55,+11,,Travel,AmIGoingDown? - Fear of Flying,Vanilla Pixel,$2.99,,2015-01-01,2528,https://itunes.apple.com/US/app/id950258805
+US,PAID,IOS,2019,6,M,56,+6,,Travel,Hidden Mickeys: Disney World,Campbell/Gambill Designs LLC,$7.99,7th Edition Upgrade : $3.99,2009-10-22,2345,https://itunes.apple.com/US/app/id323374595
+US,PAID,IOS,2019,6,M,57,-4,,Travel,Bonaventure Cemetery Tour,Tour Buddy,$4.99,,2019-05-25,2332,https://itunes.apple.com/US/app/id1154175914
+US,PAID,IOS,2019,6,M,58,+56,,Travel,WikiCamps Australia,WikiCamps pty ltd,$4.99,,2012-03-01,2310,https://itunes.apple.com/US/app/id505365608
+US,PAID,IOS,2019,6,M,59,-24,,Travel,RV Dumps,Allstays LLC,$2.99,,2010-06-11,2309,https://itunes.apple.com/US/app/id375670004
+US,PAID,IOS,2019,6,M,60,-29,,Travel,Grand Canyon South GyPSy Guide,GPS Tour Guide,$5.99,,2018-06-05,2271,https://itunes.apple.com/US/app/id1358914509
+US,PAID,IOS,2019,6,M,61,-14,,Travel,Yosemite GyPSy Guide Tour,GPS Tour Guide,$5.99,,2017-01-22,2200,https://itunes.apple.com/US/app/id1140293813
+US,PAID,IOS,2019,6,M,62,-18,,Travel,US Public Lands,Two Steps Beyond,$2.99,,2014-04-11,2192,https://itunes.apple.com/US/app/id723185418
+US,PAID,IOS,2019,6,M,63,+8,,Travel,SpeakEasy Italian,Pocketglow LLC,$3.99,SpeakEasy Italian Common Topics Pack : $0.99 / SpeakEasy Italian House and Home Pack : $0.99 / SpeakEasy Italian Bundle Pack : $1.99,2012-03-18,2165,https://itunes.apple.com/US/app/id497462835
+US,PAID,IOS,2019,6,M,64,+22,,Travel,Miami Key West GyPSy Guide,GPS Tour Guide,$4.99,,2014-06-23,2133,https://itunes.apple.com/US/app/id890237776
+US,PAID,IOS,2019,6,M,65,-40,,Travel,Turbcast,"Simplus Technologies Group, LLC",$1.99,,2011-05-18,2119,https://itunes.apple.com/US/app/id432042668
+US,PAID,IOS,2019,6,M,66,+1,,Travel,Historic Boston,"Rothrock Group, LLC",$1.99,,2016-11-22,2010,https://itunes.apple.com/US/app/id1177563968
+US,PAID,IOS,2019,6,M,67,new,,Navigation,Ship Finder,pinkfroot limited,$4.99,,2010-04-01,2000,https://itunes.apple.com/US/app/id363360636
+US,PAID,IOS,2019,6,M,68,new,,Sports,Wheres The Cup,"JURYINAHURRY, LLC",$0.99,,2016-02-18,2000,https://itunes.apple.com/US/app/id418760671
+US,PAID,IOS,2019,6,M,69,+7,,Travel,Days to go WDW countdown to your Disney Vacation,Joe Fratianni,$0.99,,2010-12-14,1984,https://itunes.apple.com/US/app/id407695879
+US,PAID,IOS,2019,6,M,70,-5,,Travel,Rest Stops Plus,Allstays LLC,$1.99,,2010-06-17,1976,https://itunes.apple.com/US/app/id377295652
+US,PAID,IOS,2019,6,M,71,+16,,Travel,GPS TRACKER Real-time tracking,"Cellphone Solutions, LLC",$3.99,Follow 10 People : $0.99,2011-08-10,1962,https://itunes.apple.com/US/app/id453737545
+US,PAID,IOS,2019,6,M,72,-18,,Travel,Camp and Tent,Allstays LLC,$5.99,,2011-05-17,1960,https://itunes.apple.com/US/app/id437148054
+US,PAID,IOS,2019,6,M,73,+57,,Travel,Rome iMetro,LASZLO FACZAN,$0.99,,2018-05-21,1916,https://itunes.apple.com/US/app/id572387922
+US,PAID,IOS,2019,6,M,74,+61,,Travel,TripView - Sydney & Melbourne,TripView Pty Ltd,$2.99,,2009-03-26,1884,https://itunes.apple.com/US/app/id294730339
+US,PAID,IOS,2019,6,M,75,+16,,Travel,MouseWait Disneyland PLATINUM,audio rush LLC,$3.99,Buy 100 Credits : $4.99 / Buy 1500 Credits : $34.99 / Buy 250 Credits : $9.99,2013-04-23,1833,https://itunes.apple.com/US/app/id633130545
+US,PAID,IOS,2019,6,M,76,-26,,Travel,WinBid Pairings 2,SafiSoft,$29.99,,2019-10-07,1830,https://itunes.apple.com/US/app/id598325421
+US,PAID,IOS,2019,6,M,77,-29,,Travel,Italian Translator,Yehia ElBehery,$0.99,,2011-10-14,1773,https://itunes.apple.com/US/app/id469407032
+US,PAID,IOS,2019,6,M,78,-3,,Travel,Wisely + the Camino Francés,Wise Pilgrim,$4.99,,2012-06-20,1758,https://itunes.apple.com/US/app/id535960556
+US,PAID,IOS,2019,6,M,79,-41,,Travel,H-D Dealer Locations,William Modesitt,$0.99,,2013-10-15,1714,https://itunes.apple.com/US/app/id722551307
+US,PAID,IOS,2019,6,M,80,+13,,Travel,GPS Status & Toolbox,MobiWIA Kft.,$2.99,,2017-02-17,1710,https://itunes.apple.com/US/app/id1198499960
+US,PAID,IOS,2019,6,M,81,-,,Travel,Flightview Elite,FlightView Inc.,$3.99,,2010-11-29,1695,https://itunes.apple.com/US/app/id404643224
+US,PAID,IOS,2019,6,M,82,+20,,Travel,Book It!,jakechasan.com,$0.99,,2017-11-09,1621,https://itunes.apple.com/US/app/id482472211
+US,PAID,IOS,2019,6,M,83,+21,,Travel,AllSubway,carmat,$0.99,,2008-12-05,1598,https://itunes.apple.com/US/app/id299081353
+US,PAID,IOS,2019,6,M,84,-4,,Travel,Convert Any Unit,Cider Software LLC,$2.99,,2011-09-30,1565,https://itunes.apple.com/US/app/id465180749
+US,PAID,IOS,2019,6,M,85,+77,,Travel,航旅纵横PRO-官方航班动态、手机值机、机票,China Travelsky Technology Limited,$0.99,,2013-12-18,1562,https://itunes.apple.com/US/app/id768160271
+US,PAID,IOS,2019,6,M,86,+82,,Travel,Pompeii Map - Travel Guide,Bluram,$3.99,,2019-11-09,1516,https://itunes.apple.com/US/app/id1094304044
+US,PAID,IOS,2019,6,M,87,-5,,Travel,Boarding Pass - Flight Checkin,Till Henrik Jonathan Hillebrand,$4.99,,2011-04-08,1472,https://itunes.apple.com/US/app/id430243601
+US,PAID,IOS,2019,6,M,88,-25,,Travel,PackPoint Premium Packing List,Wawwo,$2.99,,2015-01-06,1467,https://itunes.apple.com/US/app/id953333522
+US,PAID,IOS,2019,6,M,89,-15,,Travel,OpenADSB,Steve Kuo,$6.99,,2018-01-19,1455,https://itunes.apple.com/US/app/id1178703539
+US,PAID,IOS,2019,6,M,90,+87,,Travel,Canyonlands Moab GyPSy Guide,GPS Tour Guide,$4.99,,2015-05-13,1443,https://itunes.apple.com/US/app/id990427320
+US,PAID,IOS,2019,6,M,91,+90,,Travel,CityMaps2Go Pro  Offline Maps,Ulmon GmbH,$11.99,Premium Features : $11.99,2009-09-03,1419,https://itunes.apple.com/US/app/id327783342
+US,PAID,IOS,2019,6,M,92,-23,,Travel,C&O Companion,James Menzies,$2.99,,2011-08-19,1417,https://itunes.apple.com/US/app/id457469128
+US,PAID,IOS,2019,6,M,93,-56,,Travel,Offbeat Attractions,William Modesitt,$0.99,,2013-04-22,1409,https://itunes.apple.com/US/app/id637834813
+US,PAID,IOS,2019,6,M,94,+15,,Travel,Trip Countdown for Disneyland,Ricky Mills,$0.99,,2012-05-02,1401,https://itunes.apple.com/US/app/id522503264
+US,PAID,IOS,2019,6,M,95,+92,,Travel,Ultimate RV Checklist,Joel Smith,$1.99,,2019-02-02,1375,https://itunes.apple.com/US/app/id1435241168
+US,PAID,IOS,2019,6,M,96,-28,,Travel,Plane Finder AR,pinkfroot limited,$2.99,,2010-09-16,1371,https://itunes.apple.com/US/app/id390039844
+US,PAID,IOS,2019,6,M,97,+94,,Travel,Arches National Park GyPSy,GPS Tour Guide,$4.99,,2014-06-14,1369,https://itunes.apple.com/US/app/id882339632
+US,PAID,IOS,2019,6,M,98,+10,,Travel,Oregon's Swimming Holes,Jacob Schirm,$5.99,,2017-05-10,1366,https://itunes.apple.com/US/app/id667795353
+US,PAID,IOS,2019,6,M,99,+93,,Travel,Tramplife,Brian Craig,$4.99,,2014-03-07,1360,https://itunes.apple.com/US/app/id829382580
+US,PAID,IOS,2019,6,M,100,+12,,Travel,RV Checklist,Dan Senatro,$0.99,,2009-07-31,1357,https://itunes.apple.com/US/app/id324900531
+US,PAID,IOS,2019,6,M,101,+14,,Travel,Wisely + the Camino Portugués,Wise Pilgrim,$4.99,,2016-03-24,1305,https://itunes.apple.com/US/app/id983056779
+US,PAID,IOS,2019,6,M,102,-29,,Travel,RV Parks & Campgrounds Pro,ParkAdvisor LLC,$7.99,,2015-11-13,1298,https://itunes.apple.com/US/app/id1056983867
+US,PAID,IOS,2019,6,M,103,+98,,Travel,USS Alabama Battleship Memorial Park,Middle Bay Multimedia LLC,$0.99,,2013-08-22,1251,https://itunes.apple.com/US/app/id689594826
+US,PAID,IOS,2019,6,M,104,-32,,Travel,Camp Finder,"Camping Road Trip, LLC",$3.99,,2011-06-07,1233,https://itunes.apple.com/US/app/id441171392
+US,PAID,IOS,2019,6,M,105,+98,,Travel,Translate Voice - Language Translator & Dictionary,myLanguage,$9.99,,2009-08-26,1216,https://itunes.apple.com/US/app/id323470584
+US,PAID,IOS,2019,6,M,106,-18,,Travel,Days to go WDW II,Joe Fratianni,$0.99,,2017-05-10,1209,https://itunes.apple.com/US/app/id504161343
+US,PAID,IOS,2019,6,M,107,-37,,Travel,Texas State Roads,Coderun Technologies Ltd,$1.99,,2018-02-06,1200,https://itunes.apple.com/US/app/id1215055215
+US,PAID,IOS,2019,6,M,108,+98,,Travel,NEXT EXIT,The Global App Company,$1.99,,2015-01-08,1159,https://itunes.apple.com/US/app/id939674590
+US,PAID,IOS,2019,6,M,109,+7,,Travel,Discover Rome - travel guide,Anton Eregin,$3.99,,2017-06-27,1146,https://itunes.apple.com/US/app/id1250602792
+US,PAID,IOS,2019,6,M,110,+16,,Travel,Block id for minecraft pe,Nguyen Nam,$0.99,,2017-01-06,1146,https://itunes.apple.com/US/app/id1189574193
+US,PAID,IOS,2019,6,M,111,+9,,Travel,AllStays Hotels By Chain,Allstays LLC,$0.99,,2010-11-11,1135,https://itunes.apple.com/US/app/id402446808
+US,PAID,IOS,2019,6,M,112,+12,,Travel,Las Vegas GyPSy Driving Tours,GPS Tour Guide,$9.99,,2019-09-13,1135,https://itunes.apple.com/US/app/id573471180
+US,PAID,IOS,2019,6,M,113,-23,,Travel,WDW Prep Packing List,Shannon Albert,$0.99,,2015-12-15,1130,https://itunes.apple.com/US/app/id1033006124
+US,PAID,IOS,2019,6,M,114,+14,,Travel,Maryland Roads Traffic,Coderun Technologies Ltd,$1.99,,2018-01-19,1063,https://itunes.apple.com/US/app/id1336660864
+US,PAID,IOS,2019,6,M,115,+100,,Travel,EVHotels,peter hopper,$1.99,,2018-02-14,1037,https://itunes.apple.com/US/app/id1343918730
+US,PAID,IOS,2019,6,M,116,+102,,Travel,Paris By Metro,Mallow Technologies Private Limited,$0.99,,2011-08-30,997,https://itunes.apple.com/US/app/id459403677
+US,PAID,IOS,2019,6,M,117,+102,,Travel,Palm Springs Modernism Tour,"Desert Publications, Inc.",$4.99,,2012-11-16,971,https://itunes.apple.com/US/app/id576934996
+US,PAID,IOS,2019,6,M,118,-76,,Travel,Monarch Trips - Trip Planner,Monarch Trips LLC,$2.99,,2019-09-20,969,https://itunes.apple.com/US/app/id1454473627
+US,PAID,IOS,2019,6,M,119,-41,,Travel,SpeakEasy Ukrainian,Pocketglow LLC,$3.99,,2008-11-20,961,https://itunes.apple.com/US/app/id297253360
+US,PAID,IOS,2019,6,M,120,+100,,Travel,WikiCamps USA,WikiCamps pty ltd,$1.99,,2014-04-16,959,https://itunes.apple.com/US/app/id859863050
+US,PAID,IOS,2019,6,M,121,+100,,Travel,Florida Roads Traffic,Coderun Technologies Ltd,$1.99,,2017-03-29,956,https://itunes.apple.com/US/app/id1219672589
+US,PAID,IOS,2019,6,M,122,+100,,Travel,Road to Hana Mile by Mile,Doddla Nageswara Rao,$0.99,,2017-07-31,946,https://itunes.apple.com/US/app/id1265796323
+US,PAID,IOS,2019,6,M,123,+100,,Travel,Modern Atlas,Half Mile Labs LLC,$1.99,,2016-06-08,907,https://itunes.apple.com/US/app/id1068556466
+US,PAID,IOS,2019,6,M,124,+100,,Travel,Pompeii - A day in the past,Kreisa srl,$4.99,,2019-08-29,890,https://itunes.apple.com/US/app/id654755755
+US,PAID,IOS,2019,6,M,125,+100,,Travel,Mark it Find it,Fitting & Zidd LLC,$0.99,,,877,https://itunes.apple.com/US/app/id1435507940
+US,PAID,IOS,2019,6,M,126,+6,,Travel,SpeakEasy Spanish,Pocketglow LLC,$3.99,SpeakEasy Spanish Common Topics Pack : $0.99 / SpeakEasy Spanish Health Pack : $0.99 / SpeakEasy Spanish Bundle Pack : $1.99,2012-10-02,876,https://itunes.apple.com/US/app/id506650515
+US,PAID,IOS,2019,6,M,127,+99,,Travel,D-Day Explorer,Ian Gumm,$5.99,,,851,https://itunes.apple.com/US/app/id1219659957
+US,PAID,IOS,2019,6,M,128,-39,,Travel,XE Currency Converter Pro,XE.com Inc.,$1.99,,2020-05-16,843,https://itunes.apple.com/US/app/id598967192
+US,PAID,IOS,2019,6,M,129,+98,,Travel,飞常准Pro-全球航班查询机票酒店预订,FEEYO.COM E-COMMERCE CORP.,$0.99,,2011-10-05,838,https://itunes.apple.com/US/app/id469338840
+US,PAID,IOS,2019,6,M,130,-23,,Travel,Vienna Metro and Subway,LASZLO FACZAN,$0.99,Fast Food POI Pack : $0.99,2018-11-15,837,https://itunes.apple.com/US/app/id560779261
+US,PAID,IOS,2019,6,M,131,-34,,Travel,Flight Update Pro,"Silverware Software, LLC",$5.99,Track Flights and Alerts - 20 : $1.99 / Track Flights and Alerts - 50 : $4.99 / Track Flights and Alerts - 100 : $9.99,2009-05-30,827,https://itunes.apple.com/US/app/id317703490
+US,PAID,IOS,2019,6,M,132,+96,,Travel,Cultural Roadmapp,Tour Buddy,$1.99,,2018-03-03,810,https://itunes.apple.com/US/app/id1238860765
+US,PAID,IOS,2019,6,M,133,+96,,Travel,Singletracks Topo,Blue Spruce Ventures,$3.99,,2019-05-23,806,https://itunes.apple.com/US/app/id485383849
+US,PAID,IOS,2019,6,M,134,-34,,Travel,NW Ferry,Durbinware,$1.99,,2011-04-18,803,https://itunes.apple.com/US/app/id427430871
+US,PAID,IOS,2019,6,M,135,+95,,Travel,State Lines,Two Steps Beyond,$4.99,,2010-05-17,799,https://itunes.apple.com/US/app/id371852080
+US,PAID,IOS,2019,6,M,136,+7,,Travel,GogoParis,Gogo,$3.99,,2018-06-01,798,https://itunes.apple.com/US/app/id428497937
+US,PAID,IOS,2019,6,M,137,+9,,Travel,Six Flags Vallejo Map,© vm-apps,$1.99,,2012-06-06,796,https://itunes.apple.com/US/app/id531794277
+US,PAID,IOS,2019,6,M,138,+93,,Travel,Louvre Museum Full Edition,Vusiem Tour Guides Ltd,$2.99,,2020-05-23,781,https://itunes.apple.com/US/app/id1076661698
+US,PAID,IOS,2019,6,M,139,+11,,Travel,Tide Table Chart,AppMosaic.com,$3.99,,2015-05-29,780,https://itunes.apple.com/US/app/id995895082
+US,PAID,IOS,2019,6,M,140,+92,,Travel,WDW Countdown,"PLR Concepts, LLC",$0.99,,2018-02-08,779,https://itunes.apple.com/US/app/id390077768
+US,PAID,IOS,2019,6,M,141,+92,,Travel,eCurrency - Currency Converter,Hendrik Holtmann,$0.99,Tip : $1.99,2009-04-08,776,https://itunes.apple.com/US/app/id310516332
+US,PAID,IOS,2019,6,M,142,+92,,Travel,Palacio Real de Madrid,GVAM,$1.99,,2016-05-26,770,https://itunes.apple.com/US/app/id1106853838
+US,PAID,IOS,2019,6,M,143,+92,,Travel,Leap Card,Alexandr Zavalii,$0.99,,2019-04-15,769,https://itunes.apple.com/US/app/id1439825931
+US,PAID,IOS,2019,6,M,144,+92,,Travel,Italian Dictionary + ©,Ascendo Inc.,$9.99,,2009-07-29,762,https://itunes.apple.com/US/app/id323121197
+US,PAID,IOS,2019,6,M,145,-47,,Travel,Icefields Parkway GyPSy Guide,GPS Tour Guide,$4.99,,2019-09-13,760,https://itunes.apple.com/US/app/id548847045
+US,PAID,IOS,2019,6,M,146,+91,,Travel,WalkMe | Walking in Madeira,Marco Batista,$4.99,Become an explorer! : $4.99,2020-01-14,758,https://itunes.apple.com/US/app/id577067362
+US,PAID,IOS,2019,6,M,147,+91,,Travel,US Public Land - Offline Map,CHUNYING WU,$0.99,,2017-05-16,757,https://itunes.apple.com/US/app/id1207637589
+US,PAID,IOS,2019,6,M,148,+91,,Travel,SpeakEasy Japanese,Pocketglow LLC,$3.99,SpeakEasy Japanese Bundle Pack : $1.99,2017-12-19,756,https://itunes.apple.com/US/app/id865416632
+US,PAID,IOS,2019,6,M,149,+91,,Travel,SpeakEasy French,Pocketglow LLC,$3.99,SpeakEasy French Common Topics Pack : $0.99 / SpeakEasy French House and Home Pack : $0.99 / SpeakEasy French Bundle Pack : $1.99,2011-02-23,750,https://itunes.apple.com/US/app/id412991664
+US,PAID,IOS,2019,6,M,150,+91,,Travel,Airport Pro - Flight Tracker,Renji Mathew,$0.99,Sacramento Airport : $0.99 / Honolulu Airport : $0.99 / Orange County Airport : $0.99,2012-12-13,736,https://itunes.apple.com/US/app/id584620730
+US,PAID,IOS,2019,6,M,151,+91,,Travel,Mallorca 360° Virtual Reality Experience,Torsten Hemke,$1.99,,,732,https://itunes.apple.com/US/app/id1260211060
+US,PAID,IOS,2019,6,M,152,+91,,Travel,St. John Off the Beaten Track,Gerald Singer,$1.99,,2013-06-13,715,https://itunes.apple.com/US/app/id658162704
+US,PAID,IOS,2019,6,M,153,+91,,Travel,Flight Board Pro,Impala Studios,$3.99,,2017-05-09,713,https://itunes.apple.com/US/app/id1222902155
+US,PAID,IOS,2019,6,M,154,+2,,Travel,USD and EUR converter,Intemodino Group s.r.o.,$0.99,,2019-03-26,703,https://itunes.apple.com/US/app/id1129185563
+US,PAID,IOS,2019,6,M,155,+90,,Travel,Leap Card,Maxim Antonov,$0.99,,2020-05-05,699,https://itunes.apple.com/US/app/id1415550737
+US,PAID,IOS,2019,6,M,156,+90,,Travel,Going to the Sun Road GyPSy,GPS Tour Guide,$4.99,,2016-09-04,697,https://itunes.apple.com/US/app/id1133332059
+US,PAID,IOS,2019,6,M,157,+90,,Travel,TrekRight: Camino Francés,Eugene Mallay,$9.99,Offline Map: Finisterre : 0 / Offline Map: SJPP - León : 0 / Offline Map: León - Santiago : 0,2020-02-08,687,https://itunes.apple.com/US/app/id772358843
+US,PAID,IOS,2019,6,M,158,+90,,Travel,Suffolk County Transit,PD House Inc,$0.99,,2016-02-17,684,https://itunes.apple.com/US/app/id1083959439
+US,PAID,IOS,2019,6,M,159,-56,,Travel,Azul - Video Player for iPhone,Kathleen Gallagher Mody,$1.99,,2010-12-10,678,https://itunes.apple.com/US/app/id406845187
+US,PAID,IOS,2019,6,M,160,+6,,Travel,USD and GBP converter,Intemodino Group s.r.o.,$0.99,,2019-03-18,675,https://itunes.apple.com/US/app/id1140480657
+US,PAID,IOS,2019,6,M,161,-120,,Travel,CubApp,Lorenzo Paciello,$4.99,,2015-05-05,655,https://itunes.apple.com/US/app/id980384757
+US,PAID,IOS,2019,6,M,162,+87,,Travel,Kansas City Mob Tour,GARY JENKINS,$2.99,,2018-01-05,654,https://itunes.apple.com/US/app/id958652599
+US,PAID,IOS,2019,6,M,163,-53,,Travel,Roadside Presidents,This Exit LLC,$2.99,,2012-02-12,647,https://itunes.apple.com/US/app/id485457840
+US,PAID,IOS,2019,6,M,164,-80,,Travel,Hot Springs in the US,William Modesitt,$0.99,,2012-12-10,641,https://itunes.apple.com/US/app/id583654750
+US,PAID,IOS,2019,6,M,165,-82,,Travel,Banff Lake Louise Yoho GyPSy,GPS Tour Guide,$4.99,,2019-09-13,636,https://itunes.apple.com/US/app/id546630797
+US,PAID,IOS,2019,6,M,166,-67,,Travel,NYArtBeat,Art Beat inc,$1.99,,2010-02-12,631,https://itunes.apple.com/US/app/id354569809
+US,PAID,IOS,2019,6,M,167,+83,,Travel,Offline Translator Spanish Pro,SkyCode Ltd.,$3.99,,2012-03-01,630,https://itunes.apple.com/US/app/id504292416
+US,PAID,IOS,2019,6,M,168,+83,,Travel,Wisconsin State Parks & National Parks,PEDDI JYOTHI,$0.99,,2016-03-03,630,https://itunes.apple.com/US/app/id1089121839
+US,PAID,IOS,2019,6,M,169,+83,,Travel,Hammock Hang Calculator,Codeality LLC,$1.99,,2012-05-02,624,https://itunes.apple.com/US/app/id522551840
+US,PAID,IOS,2019,6,M,170,-48,,Travel,BLM Campgrounds,PUTIKAM MADHAN KUMAR,$0.99,,2017-10-04,624,https://itunes.apple.com/US/app/id1292507219
+US,PAID,IOS,2019,6,M,171,+82,,Travel,Translate Offline: French Pro,SkyCode Ltd.,$3.99,,2012-03-01,622,https://itunes.apple.com/US/app/id504292083
+US,PAID,IOS,2019,6,M,172,+82,,Travel,Pocket Maps Pro,Huirong Li,$1.99,Unlimited Download : $12.99 / 20 Maps Download : $0.99 / 90 Maps Download : $2.99,2014-09-09,614,https://itunes.apple.com/US/app/id910570079
+US,PAID,IOS,2019,6,M,173,+82,,Travel,OLP WDW Transportation Wizard,"Laughing Place Communications, LLC",$1.99,,2009-07-30,602,https://itunes.apple.com/US/app/id322395516
+US,PAID,IOS,2019,6,M,174,+82,,Travel,NZ Passport Photo,Leandro Palmieri,$0.99,,2017-03-29,601,https://itunes.apple.com/US/app/id1219105238
+US,PAID,IOS,2019,6,M,175,+82,,Travel,HawaiianMoji - Hawaii Food & Drink Emoji Stickers,"Woozy Apps, LLC",$1.99,,2017-05-17,600,https://itunes.apple.com/US/app/id1234039672
+US,PAID,IOS,2019,6,M,176,+82,,Travel,USA Embassies & Consulates,WWW.UNICOSE.COM,$0.99,,2010-07-12,598,https://itunes.apple.com/US/app/id380880240
+US,PAID,IOS,2019,6,M,177,+82,,Travel,Cayman Snorkel,Wasatch Technology Incorporated,$2.99,,2020-03-30,596,https://itunes.apple.com/US/app/id1065988004
+US,PAID,IOS,2019,6,M,178,+82,,Travel,Paris No.1 Offline Map,© offlinemap.nl,$1.99,,2012-10-23,594,https://itunes.apple.com/US/app/id570449970
+US,PAID,IOS,2019,6,M,179,+82,,Travel,English Italian Translator,Odyssey Translator,$4.99,,2017-09-25,589,https://itunes.apple.com/US/app/id317038790
+US,PAID,IOS,2019,6,M,180,-69,,Travel,Speed Limit App,Piet Jonas,$0.99,,2015-10-25,584,https://itunes.apple.com/US/app/id337989325
+US,PAID,IOS,2019,6,M,181,+81,,Travel,Great Smoky Mountains National Park Tourism,SHAIK MOLA BI,$2.99,,2016-02-29,584,https://itunes.apple.com/US/app/id1087240696
+US,PAID,IOS,2019,6,M,182,-87,,Travel,Rocky Mountain NP GyPSy Guide,GPS Tour Guide,$5.99,,2018-02-21,583,https://itunes.apple.com/US/app/id1286826105
+US,PAID,IOS,2019,6,M,183,+80,,Travel,Best App for USA Gas Stations,Chavvakula Sudharani,$0.99,,2017-08-18,578,https://itunes.apple.com/US/app/id1193114270
+US,PAID,IOS,2019,6,M,184,-132,,Travel,Virginia State Roads,Coderun Technologies Ltd,$1.99,,,575,https://itunes.apple.com/US/app/id1381119677
+US,PAID,IOS,2019,6,M,185,-139,,Travel,Freedom Trail® Official App,The Freedom Trail Foundation,$3.99,,2017-04-07,562,https://itunes.apple.com/US/app/id476092602
+US,PAID,IOS,2019,6,M,186,+78,,Travel,Brussels Metro,LASZLO FACZAN,$0.99,,2016-09-15,561,https://itunes.apple.com/US/app/id625998051
+US,PAID,IOS,2019,6,M,187,-138,,Travel,NKP 765,"Fort Wayne Railroad Historical Society, Inc.",$0.99,,2018-09-13,556,https://itunes.apple.com/US/app/id643052976
+US,PAID,IOS,2019,6,M,188,-103,,Travel,Countdown for Disney World,Ethan Brimhall,$0.99,,2019-05-11,551,https://itunes.apple.com/US/app/id1462967074
+US,PAID,IOS,2019,6,M,189,+76,,Travel,Hidden Mickeys: Disneyland,Campbell/Gambill Designs LLC,$7.99,5th Edition Upgrade : $3.99,2011-05-12,550,https://itunes.apple.com/US/app/id431643250
+US,PAID,IOS,2019,6,M,190,+76,,Travel,AR Planes - flight tracker,Cal Stephens,$1.99,,2018-02-01,549,https://itunes.apple.com/US/app/id1292681350
+US,PAID,IOS,2019,6,M,191,+76,,Travel,Vacation Planning List,"Jimbl Software Labs, LLC",$0.99,,2014-11-26,546,https://itunes.apple.com/US/app/id504849231
+US,PAID,IOS,2019,6,M,192,-32,,Travel,Flight Simulator,"Soft Applications, LLC",$1.99,,2019-06-26,540,https://itunes.apple.com/US/app/id1146329517
+US,PAID,IOS,2019,6,M,193,-99,,Travel,Translate Offline: Italian Pro,SkyCode Ltd.,$3.99,,2012-02-28,537,https://itunes.apple.com/US/app/id502927848
+US,PAID,IOS,2019,6,M,194,+74,,Travel,Offline Pages,Codium Labs LLC,$4.99,Offline Pages Pro : 0 / Offline Pages Pro : $1.99,2010-04-01,533,https://itunes.apple.com/US/app/id364859644
+US,PAID,IOS,2019,6,M,195,-31,,Travel,SpeakEasy Russian,Pocketglow LLC,$3.99,SpeakEasy Russian Health Pack : $0.99 / SpeakEasy Russian Bundle Pack : $1.99 / SpeakEasy Russian Common Topics Pack : $1.99,2008-10-30,529,https://itunes.apple.com/US/app/id294892942
+US,PAID,IOS,2019,6,M,196,+73,,Travel,TrackMyStop Never Miss a Stop,Exultancy,$0.99,,2018-03-19,527,https://itunes.apple.com/US/app/id558683874
+US,PAID,IOS,2019,6,M,197,+73,,Travel,Vermont RT100 GyPSy Guide,GPS Tour Guide,$5.99,,2015-09-10,527,https://itunes.apple.com/US/app/id1035442686
+US,PAID,IOS,2019,6,M,198,-37,,Travel,Planes Live: Flight Tracker,"Weather or Not Apps, LLC",$6.99,,2019-08-16,525,https://itunes.apple.com/US/app/id1064962398
+US,PAID,IOS,2019,6,M,199,+72,,Travel,North Carolina Roads Traffic,Coderun Technologies Ltd,$1.99,,2018-01-08,522,https://itunes.apple.com/US/app/id1332610740
+US,PAID,IOS,2019,6,M,200,+72,,Travel,Orsay Museum Full Edition,Vusiem Tour Guides Ltd,$3.99,,2020-05-23,520,https://itunes.apple.com/US/app/id1076664979
