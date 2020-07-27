@@ -1,0 +1,201 @@
+Country,Type,OS,year,month,date type,Rank,Change,Industry,subcategory,App,Publisher,Price,Inapp,Date,CRScore,URL(Address)
+HK,FREE,IOS,2020,3,M,1,-,,Business,ZOOM Cloud Meetings,Zoom,0.0,,2012-08-14,262692,https://itunes.apple.com/HK/app/id546505307
+HK,FREE,IOS,2020,3,M,2,+4,,Food & Drink,foodpanda - 線上美食訂購及生鮮雜貨外送,Foodpanda,0.0,,2013-11-25,84984,https://itunes.apple.com/HK/app/id758103884
+HK,FREE,IOS,2020,3,M,3,+225,,Utilities,My HKBN (My Account),Hong Kong Broadband Network Limited,0.0,,2013-01-07,56988,https://itunes.apple.com/HK/app/id586153084
+HK,FREE,IOS,2020,3,M,4,+260,,Healthcare & Fitness,Pulse by Prudential (HK),Prudential Hong Kong Limited,0.0,,2019-12-19,45390,https://itunes.apple.com/HK/app/id1486134122
+HK,FREE,IOS,2020,3,M,5,+231,,Lifestyle,Yahoo,Yahoo,0.0,,2019-04-02,41002,https://itunes.apple.com/HK/app/id1455821641
+HK,FREE,IOS,2020,3,M,6,+11,,Lifestyle,JHC 日本城 JFUN,Japan Home Centre (HK) Ltd.,0.0,,2011-05-25,36955,https://itunes.apple.com/HK/app/id439164971
+HK,FREE,IOS,2020,3,M,7,+9,,Entertainment,Netflix,"Netflix, Inc.",0.0,,2016-01-06,36403,https://itunes.apple.com/HK/app/id363590051
+HK,FREE,IOS,2020,3,M,8,+6,,Food & Drink,戶戶送：外賣美食,Deliveroo,0.0,,2015-11-26,33515,https://itunes.apple.com/HK/app/id1001501844
+HK,FREE,IOS,2020,3,M,9,-1,,Business,Microsoft Teams,Microsoft Corporation,0.0,,2016-11-02,28995,https://itunes.apple.com/HK/app/id1113153706
+HK,FREE,IOS,2020,3,M,10,+19,,Finance,HSBC HK 香港滙豐流動理財,HSBC Global Services (UK) Limited,0.0,,2016-10-26,27192,https://itunes.apple.com/HK/app/id1164066737
+HK,FREE,IOS,2020,3,M,11,+13,,Finance,PayMe from HSBC,The Hongkong and Shanghai Banking Corporation Ltd.,0.0,,2017-02-07,26373,https://itunes.apple.com/HK/app/id1184264977
+HK,FREE,IOS,2020,3,M,12,+20,,Entertainment,TikTok - 有趣的人都在這裡,TikTok Pte. Ltd.,0.0,,2020-06-09,25488,https://itunes.apple.com/HK/app/id1235601864
+HK,FREE,IOS,2020,3,M,13,+9,,Lifestyle,SaSaHK,Sa Sa Cosmetic Company Ltd,0.0,,2017-11-07,20836,https://itunes.apple.com/HK/app/id1304040141
+HK,FREE,IOS,2020,3,M,14,+46,,Finance,Octopus 八達通,Octopus Cards,0.0,,2016-08-01,20447,https://itunes.apple.com/HK/app/id1114430602
+HK,FREE,IOS,2020,3,M,15,+11,,Lifestyle,MyLink - 連接．生活,China Mobile Hong Kong Company Limited,0.0,,2011-12-11,19365,https://itunes.apple.com/HK/app/id483513425
+HK,FREE,IOS,2020,3,M,16,+21,,Social Networking,WhatsApp Messenger,WhatsApp Inc.,0.0,,2009-05-03,16922,https://itunes.apple.com/HK/app/id310633997
+HK,FREE,IOS,2020,3,M,17,-13,,Food & Drink,THE GULU,Gorilla Group Limited,0.0,,2013-11-13,16733,https://itunes.apple.com/HK/app/id739628906
+HK,FREE,IOS,2020,3,M,18,+168,,Finance,智財迅手機版,AASTOCKS.com Limited,0.0,,2010-05-04,15403,https://itunes.apple.com/HK/app/id368726182
+HK,FREE,IOS,2020,3,M,19,new,,Utilities,广告主的恶梦,jiang wan,0.0,,2019-11-14,14813,https://itunes.apple.com/HK/app/id1482063271
+HK,FREE,IOS,2020,3,M,20,-8,,Business,Google Meet,Google LLC,0.0,,2017-02-27,13941,https://itunes.apple.com/HK/app/id1013231476
+HK,FREE,IOS,2020,3,M,21,+91,,Travel,大航假期,大航假期有限公司,0.0,,2014-08-15,13934,https://itunes.apple.com/HK/app/id904196877
+HK,FREE,IOS,2020,3,M,22,+18,,Photo & Video,YouTube,Google LLC,0.0,,2012-09-11,13920,https://itunes.apple.com/HK/app/id544007664
+HK,FREE,IOS,2020,3,M,23,-10,,News,香港01 - 新聞資訊及生活服務,HK01 Company Limited,0.0,,2016-02-29,13448,https://itunes.apple.com/HK/app/id1084662006
+HK,FREE,IOS,2020,3,M,24,+15,,Productivity,Gmail - Google 推出的電子郵件服務,Google LLC,0.0,,2011-11-02,12336,https://itunes.apple.com/HK/app/id422689480
+HK,FREE,IOS,2020,3,M,25,new,,Utilities,NetTools+,jiang wan,0.0,,2019-11-10,11991,https://itunes.apple.com/HK/app/id1484759089
+HK,FREE,IOS,2020,3,M,26,+29,,Photo & Video,Instagram,"Instagram, Inc.",0.0,,2010-10-06,11970,https://itunes.apple.com/HK/app/id389801252
+HK,FREE,IOS,2020,3,M,27,+49,,Finance,中銀香港,Bank of China (Hong Kong) Limited,0.0,,2010-08-15,11851,https://itunes.apple.com/HK/app/id385731633
+HK,FREE,IOS,2020,3,M,28,-25,,Shopping,HKTVmall – 網上購物,Hong Kong Television Network Limited,0.0,,2014-11-12,11277,https://itunes.apple.com/HK/app/id910398738
+HK,FREE,IOS,2020,3,M,29,-14,,Education,Google Classroom,Google LLC,0.0,,2015-01-13,10976,https://itunes.apple.com/HK/app/id924620788
+HK,FREE,IOS,2020,3,M,30,-5,,Business,順豐速運,顺丰,0.0,,2018-05-27,10902,https://itunes.apple.com/HK/app/id1383101059
+HK,FREE,IOS,2020,3,M,31,new,,Adventure,七大罪：光與暗之交戰,Netmarble Corporation,0.0,,2020-03-02,10849,https://itunes.apple.com/HK/app/id1475440231
+HK,FREE,IOS,2020,3,M,32,+35,,Food & Drink,麥當勞® App,MHK Restaurants Limited,0.0,,2017-11-28,10375,https://itunes.apple.com/HK/app/id1316860583
+HK,FREE,IOS,2020,3,M,33,+39,,Photo & Video,Z相機 - 趣玩百變特效,Funnytech Corporation,0.0,,2020-04-07,10270,https://itunes.apple.com/HK/app/id1407162950
+HK,FREE,IOS,2020,3,M,34,+35,,Finance,AlipayHK (支付寶香港),Alipay Payment Services (HK) Limited,0.0,,2017-05-24,10200,https://itunes.apple.com/HK/app/id1210638245
+HK,FREE,IOS,2020,3,M,35,-30,,Utilities,安全錦囊,Construction Industry Council,0.0,,2015-05-28,10178,https://itunes.apple.com/HK/app/id985904083
+HK,FREE,IOS,2020,3,M,36,+5,,Music,YouTube Music,Google LLC,0.0,,2019-11-05,10162,https://itunes.apple.com/HK/app/id1017492454
+HK,FREE,IOS,2020,3,M,37,new,,Entertainment,Nintendo Switch Online,"Nintendo Co., Ltd.",0.0,,2019-04-21,10061,https://itunes.apple.com/HK/app/id1234806557
+HK,FREE,IOS,2020,3,M,38,+8,,Productivity,掃描全能王CamScanner|文字識別翻譯,"INTSIG Information Co.,Ltd",0.0,,2010-08-27,9948,https://itunes.apple.com/HK/app/id388627783
+HK,FREE,IOS,2020,3,M,39,+27,,Food & Drink,東海堂 arome,Arome Bakery (H.K.) Company Limited,0.0,,2019-08-10,9927,https://itunes.apple.com/HK/app/id1466185290
+HK,FREE,IOS,2020,3,M,40,+40,,Utilities,Google,Google LLC,0.0,,2019-02-12,9921,https://itunes.apple.com/HK/app/id284815942
+HK,FREE,IOS,2020,3,M,41,new,,Healthcare & Fitness,居安抗疫,"Office of the Government Chief Information Officer, Hong Kong SAR Government",0.0,,2020-03-17,9918,https://itunes.apple.com/HK/app/id1499780720
+HK,FREE,IOS,2020,3,M,42,-7,,Social Networking,Facebook,"Facebook, Inc.",0.0,,2019-02-05,9707,https://itunes.apple.com/HK/app/id284882215
+HK,FREE,IOS,2020,3,M,43,new,,Utilities,香城Online,Choi Wing Fai,0.0,,2020-02-27,9699,https://itunes.apple.com/HK/app/id1493754971
+HK,FREE,IOS,2020,3,M,44,+186,,Finance,富途牛牛-富途證券開戶交易,Shenzhen Futu Network Technology Company Limited,0.0,,2013-01-23,9536,https://itunes.apple.com/HK/app/id592031984
+HK,FREE,IOS,2020,3,M,45,+90,,Lifestyle,UNIQLO Hong Kong & Macau,"UNIQLO CO., LTD.",0.0,,2014-11-18,9466,https://itunes.apple.com/HK/app/id848062398
+HK,FREE,IOS,2020,3,M,46,+16,,Shopping,Carousell,Carousell Pte. Ltd.,0.0,,2013-06-26,9430,https://itunes.apple.com/HK/app/id548607187
+HK,FREE,IOS,2020,3,M,47,+49,,Food & Drink,Uber Eats：美食外送,"Uber Technologies, Inc.",0.0,,2016-05-19,9420,https://itunes.apple.com/HK/app/id1058959277
+HK,FREE,IOS,2020,3,M,48,new,,Education,Interactive Handwriting,Letterland,0.0,,2019-08-09,9239,https://itunes.apple.com/HK/app/id1466772034
+HK,FREE,IOS,2020,3,M,49,new,,Shopping,淘宝特价版,"Taobao (China) Software CO.,LTD",0.0,,2018-03-15,9051,https://itunes.apple.com/HK/app/id1340376323
+HK,FREE,IOS,2020,3,M,50,+20,,Finance,恒生個人流動理財服務,Hang Seng Bank Limited,0.0,,2015-10-12,8997,https://itunes.apple.com/HK/app/id1039256353
+HK,FREE,IOS,2020,3,M,51,+27,,Utilities,TestFlight,Apple,0.0,,2019-12-11,8899,https://itunes.apple.com/HK/app/id899247664
+HK,FREE,IOS,2020,3,M,52,-31,,Adventure,Zombie Fight - Pvp battles,zhidong chen,0.0,,2020-02-20,8825,https://itunes.apple.com/HK/app/id1489285141
+HK,FREE,IOS,2020,3,M,53,+10,,Utilities,Google Chrome,Google LLC,0.0,,2012-06-28,8750,https://itunes.apple.com/HK/app/id535886823
+HK,FREE,IOS,2020,3,M,54,new,,Utilities,海外加速,jiang wan,0.0,,2019-09-29,8635,https://itunes.apple.com/HK/app/id1481408439
+HK,FREE,IOS,2020,3,M,55,+10,,Social Networking,WeChat,WeChat,0.0,,2011-01-20,8203,https://itunes.apple.com/HK/app/id414478124
+HK,FREE,IOS,2020,3,M,56,-23,,Reference,Google 翻譯,Google LLC,0.0,,2011-02-08,8146,https://itunes.apple.com/HK/app/id414706506
+HK,FREE,IOS,2020,3,M,57,+249,,Lifestyle,Loco樂區 - 單車、玩樂,Locolla,0.0,,2017-09-07,8100,https://itunes.apple.com/HK/app/id1246074381
+HK,FREE,IOS,2020,3,M,58,new,,Utilities,NetTools+ Pro,jiang wan,0.0,,2020-02-22,7925,https://itunes.apple.com/HK/app/id1500136708
+HK,FREE,IOS,2020,3,M,59,-17,,Simulation,異塵餘生：庇護所Online,The Burning Game Limited,0.0,,2020-02-25,7915,https://itunes.apple.com/HK/app/id1484471304
+HK,FREE,IOS,2020,3,M,60,-8,,Social Networking,Telegram Messenger,Telegram FZ-LLC,0.0,,2013-08-13,7772,https://itunes.apple.com/HK/app/id686449807
+HK,FREE,IOS,2020,3,M,61,+115,,Entertainment,全民party-超火爆社交軟體,"Staraltar Technology Co., Ltd.",0.0,600K豆 : HK$ 8.00 / 1900K豆 : HK$ 23.00 / 3200K豆 : HK$ 38.00,2016-12-19,7718,https://itunes.apple.com/HK/app/id1112801526
+HK,FREE,IOS,2020,3,M,62,-6,,Productivity,Google 雲端硬碟,Google LLC,0.0,,2012-06-28,7619,https://itunes.apple.com/HK/app/id507874739
+HK,FREE,IOS,2020,3,M,63,-33,,Social Networking,Messenger,"Facebook, Inc.",0.0,,2011-10-19,7287,https://itunes.apple.com/HK/app/id454638411
+HK,FREE,IOS,2020,3,M,64,new,,Education,HKDSE,AVEEGO LTD,0.0,,2012-02-29,7131,https://itunes.apple.com/HK/app/id501309166
+HK,FREE,IOS,2020,3,M,65,-34,,Shopping,MoneyBack,"A. S. Watson & Company, Limited",0.0,,2017-06-22,7028,https://itunes.apple.com/HK/app/id1230818544
+HK,FREE,IOS,2020,3,M,66,new,,Education,Fix-it Phonics Review,Letterland,0.0,,2014-09-16,7012,https://itunes.apple.com/HK/app/id916738218
+HK,FREE,IOS,2020,3,M,67,new,,Books,Letterland Phonics Readers Set 2,Letterland,0.0,,2015-10-14,6568,https://itunes.apple.com/HK/app/id1044702914
+HK,FREE,IOS,2020,3,M,68,+20,,Finance,BoC Pay,Bank of China (Hong Kong) Limited,0.0,,2018-07-30,6450,https://itunes.apple.com/HK/app/id1403690384
+HK,FREE,IOS,2020,3,M,69,+56,,Shopping,手机淘宝 - 淘到你说好,"Taobao (China) Software CO.,LTD",0.0,,2010-09-03,6186,https://itunes.apple.com/HK/app/id387682726
+HK,FREE,IOS,2020,3,M,70,-43,,Lifestyle,U Lifestyle：最Hit優惠及生活資訊平台,Hong Kong Economic Times Limited,0.0,,2012-05-09,6041,https://itunes.apple.com/HK/app/id511267431
+HK,FREE,IOS,2020,3,M,71,+18,,Social Networking,WSTicK,Ho Chung Kwok,0.0,解鎖 - 新增可處理第16至30張的圖片和移除廣告 : HK$ 8.00,2018-11-20,5691,https://itunes.apple.com/HK/app/id1442273161
+HK,FREE,IOS,2020,3,M,72,new,,Lifestyle,Perkd - 會員卡,Perkd,0.0,,2012-02-28,5605,https://itunes.apple.com/HK/app/id483062554
+HK,FREE,IOS,2020,3,M,73,new,,Role Playing,天龍八部3d-波斯明教聖火來襲,Gameone Group Ltd,0.0,元寶x64 : HK$ 8.00 / 元寶 x 224 : HK$ 28.00 / 元寶x304 : HK$ 38.00,2015-02-10,5586,https://itunes.apple.com/HK/app/id948626031
+HK,FREE,IOS,2020,3,M,74,+26,,Food & Drink,和你Eat,IT Monastery Limited,0.0,,2019-11-12,5428,https://itunes.apple.com/HK/app/id1483085409
+HK,FREE,IOS,2020,3,M,75,+46,,News,Twitter,"Twitter, Inc.",0.0,,2009-10-09,5233,https://itunes.apple.com/HK/app/id333903271
+HK,FREE,IOS,2020,3,M,76,+41,,Finance,28Hse.com 香港屋網,28Hse Ltd,0.0,"普通樓盤 : HK$ 308.00 / 置頂盤 : HK$ 548.00 / 黃金置頂盤 : HK$ 1,048.00",2014-08-11,5213,https://itunes.apple.com/HK/app/id902344223
+HK,FREE,IOS,2020,3,M,77,+22,,Travel,App1933 - KMB ‧ LWB,The Kowloon Motor Bus Company (1933) Limited,0.0,,2016-11-20,5139,https://itunes.apple.com/HK/app/id1170003707
+HK,FREE,IOS,2020,3,M,78,+217,,Shopping,鮮直送,Freshgo HK,0.0,,2019-06-13,5090,https://itunes.apple.com/HK/app/id1463762925
+HK,FREE,IOS,2020,3,M,79,-2,,Shopping,"big big shop - 睇得到, 買得到",Big Big Channel Limited,0.0,,2019-08-10,5088,https://itunes.apple.com/HK/app/id1386096779
+HK,FREE,IOS,2020,3,M,80,new,,Social Networking,Houseparty,"Life On Air, Inc",0.0,,2016-01-13,5017,https://itunes.apple.com/HK/app/id1065781769
+HK,FREE,IOS,2020,3,M,81,new,,Games,Shoot Pinata,Michael Prokopenya,0.0,,2018-12-28,5000,https://itunes.apple.com/HK/app/id1436597238
+HK,FREE,IOS,2020,3,M,82,+73,,Food & Drink,KFC HK,Birdland (Hong Kong) Limited,0.0,,2015-12-01,4883,https://itunes.apple.com/HK/app/id1059323300
+HK,FREE,IOS,2020,3,M,83,-55,,Healthcare & Fitness,Mannings HK,"The Dairy Farm Company, Limited",0.0,,2015-11-25,4841,https://itunes.apple.com/HK/app/id1054899885
+HK,FREE,IOS,2020,3,M,84,new,,Social Networking,Analyzer Plus: 退追蹤 & 粉絲追蹤,Creator3D,0.0,,2017-02-14,4824,https://itunes.apple.com/HK/app/id1175402715
+HK,FREE,IOS,2020,3,M,85,+21,,Shopping,DONKI,Pan Pacific Retail Management,0.0,,2019-07-21,4799,https://itunes.apple.com/HK/app/id1470192971
+HK,FREE,IOS,2020,3,M,86,+6,,Navigation,Google 地圖,Google LLC,0.0,,2012-12-12,4728,https://itunes.apple.com/HK/app/id585027354
+HK,FREE,IOS,2020,3,M,87,-85,,Shopping,香港屈臣氏購物程式,Watson's The Chemist,0.0,,2011-11-16,4725,https://itunes.apple.com/HK/app/id479512803
+HK,FREE,IOS,2020,3,M,88,-4,,Photo & Video,Selfie Art：漫畫卡通效果&照片編輯器,Amila Mobile Limited,0.0,,2019-05-26,4718,https://itunes.apple.com/HK/app/id1460647522
+HK,FREE,IOS,2020,3,M,89,-4,,Productivity,Google 文件：同步處理、編輯、共用,Google LLC,0.0,,2014-04-30,4709,https://itunes.apple.com/HK/app/id842842640
+HK,FREE,IOS,2020,3,M,90,new,,Education,Letterland Stories HIJ,Letterland,0.0,,2016-10-03,4632,https://itunes.apple.com/HK/app/id1160844891
+HK,FREE,IOS,2020,3,M,91,new,,Navigation,Pokeguide 即時交通轉乘專家,PokeGuide,0.0,,2015-07-06,4631,https://itunes.apple.com/HK/app/id1007055917
+HK,FREE,IOS,2020,3,M,92,-9,,Entertainment,Viu,PCCW OTT (Hong Kong) Limited,0.0,Viu 升級會員 新加坡 – 月費 : HK$ 38.00 / Viu 升級會員 新加坡 – 月費 (1個月試用) : HK$ 28.00 / Viu 升級會員 香港 – 月費 (7日試用) : HK$ 15.00,2015-10-27,4391,https://itunes.apple.com/HK/app/id1036095179
+HK,FREE,IOS,2020,3,M,93,-49,,Social Networking,iPhone 版 Skype,Skype Communications S.a.r.l,0.0,,2009-03-31,4312,https://itunes.apple.com/HK/app/id304878510
+HK,FREE,IOS,2020,3,M,94,+67,,Shopping,SHEIN購物：時尚女裝服飾品牌,Shein Group Ltd,0.0,,2014-05-19,4277,https://itunes.apple.com/HK/app/id878577184
+HK,FREE,IOS,2020,3,M,95,-22,,Productivity,Google 試算表,Google LLC,0.0,,2014-04-30,4176,https://itunes.apple.com/HK/app/id842849113
+HK,FREE,IOS,2020,3,M,96,+75,,Food & Drink,香港壽司郎,株式会社あきんどスシロー,0.0,,2019-08-13,4119,https://itunes.apple.com/HK/app/id1467855418
+HK,FREE,IOS,2020,3,M,97,+14,,Music,Spotify - 音樂和 Podcast,Spotify Ltd.,0.0,,2013-04-15,4117,https://itunes.apple.com/HK/app/id324684580
+HK,FREE,IOS,2020,3,M,98,+33,,Music,JOOX Music: 隨時聽歌唱K及下載歌曲,Tencent Mobility Limited,0.0,JOOX VIP（1個月） : HK$ 23.00 / JOOX VIP（3個月） : HK$ 138.00 / JOOX VIP（12個月） : HK$ 488.00,2014-12-19,3927,https://itunes.apple.com/HK/app/id914406371
+HK,FREE,IOS,2020,3,M,99,+15,,Social Networking,LINE,LINE Corporation,0.0,,2011-06-22,3874,https://itunes.apple.com/HK/app/id443904275
+HK,FREE,IOS,2020,3,M,100,-66,,Card,食物語,Mover Games Limited,0.0,,2020-02-25,3844,https://itunes.apple.com/HK/app/id1490554008
+HK,FREE,IOS,2020,3,M,101,-47,,Card,無盡方舟,POSEIDON NET(HK) LIMITED,0.0,,2020-02-19,3748,https://itunes.apple.com/HK/app/id1487782503
+HK,FREE,IOS,2020,3,M,102,+32,,Social Networking,"Discord - Talk, Chat & Hangout","Discord, Inc.",0.0,,2015-05-21,3663,https://itunes.apple.com/HK/app/id985746746
+HK,FREE,IOS,2020,3,M,103,new,,Shopping,淘寶Lite,"Taobao (China) Software CO.,LTD",0.0,,2015-07-26,3660,https://itunes.apple.com/HK/app/id1021442712
+HK,FREE,IOS,2020,3,M,104,+20,,Shopping,Price.com.hk 香港格價網,Networld Technology Limited,0.0,,2011-08-11,3656,https://itunes.apple.com/HK/app/id455201798
+HK,FREE,IOS,2020,3,M,105,new,,Finance,香港滙豐投資全速易,HSBC Global Services (UK) Limited,0.0,,2017-09-13,3614,https://itunes.apple.com/HK/app/id1261295769
+HK,FREE,IOS,2020,3,M,106,-47,,News,Now 新聞 - 24小時直播,PCCW Media Limited,0.0,,2012-01-09,3570,https://itunes.apple.com/HK/app/id480933058
+HK,FREE,IOS,2020,3,M,107,new,,Books,Letterland Phonics Readers Set 1,Letterland,0.0,,2015-10-14,3536,https://itunes.apple.com/HK/app/id1044702761
+HK,FREE,IOS,2020,3,M,108,+12,,Productivity,Microsoft Word,Microsoft Corporation,0.0,,2014-03-27,3515,https://itunes.apple.com/HK/app/id586447913
+HK,FREE,IOS,2020,3,M,109,-30,,Action,Slap Kings,Lion Studios,0.0,,2020-02-23,3505,https://itunes.apple.com/HK/app/id1500010832
+HK,FREE,IOS,2020,3,M,110,-5,,Business,腾讯会议-多人在线移动会议,"Tencent Technology (Shanghai) Co., Ltd",0.0,,2019-12-24,3482,https://itunes.apple.com/HK/app/id1484048379
+HK,FREE,IOS,2020,3,M,111,+307,,Photo & Video,RecShot-卡通、漫畫特效&拼圖相機,Starpool Data Limited,0.0,,2019-08-15,3413,https://itunes.apple.com/HK/app/id1475454256
+HK,FREE,IOS,2020,3,M,112,-103,,Shopping,日本樂天市場 日貨購好買,"Rakuten, Inc.",0.0,,2020-03-31,3294,https://itunes.apple.com/HK/app/id1255802530
+HK,FREE,IOS,2020,3,M,113,-65,,News,有線新聞,i-CABLE.com Limited,0.0,,2019-09-16,3220,https://itunes.apple.com/HK/app/id1433886832
+HK,FREE,IOS,2020,3,M,114,-57,,Word,仙命決-武俠&仙俠放置遊戲,Hong Kong Pleasing Creation Times Limited,0.0,,2019-08-21,3217,https://itunes.apple.com/HK/app/id1475870720
+HK,FREE,IOS,2020,3,M,115,+21,,Entertainment,哔哩哔哩-弹幕番剧直播高清视频,bilibili,0.0,,2014-10-11,3192,https://itunes.apple.com/HK/app/id736536022
+HK,FREE,IOS,2020,3,M,116,+90,,Entertainment,ViuTV,HK Television Entertainment Company Limited (HKTVE),0.0,,2016-03-31,3143,https://itunes.apple.com/HK/app/id1091178201
+HK,FREE,IOS,2020,3,M,117,-97,,Shopping,Amazon Shopping,AMZN Mobile LLC,0.0,,2010-11-14,3108,https://itunes.apple.com/HK/app/id297606951
+HK,FREE,IOS,2020,3,M,118,-16,,Productivity,Microsoft Outlook,Microsoft Corporation,0.0,,2015-01-28,2976,https://itunes.apple.com/HK/app/id951937596
+HK,FREE,IOS,2020,3,M,119,+13,,Photo & Video,Google 相簿 - 相片和影片儲存空間,Google LLC,0.0,,2015-05-28,2888,https://itunes.apple.com/HK/app/id962194608
+HK,FREE,IOS,2020,3,M,120,+54,,Social Networking,小红书 – 标记我的生活,Xingin,0.0,,2013-12-04,2871,https://itunes.apple.com/HK/app/id741292507
+HK,FREE,IOS,2020,3,M,121,new,,Education,Lingvist,Lingvist Technologies OU,0.0,,2015-06-01,2858,https://itunes.apple.com/HK/app/id969093402
+HK,FREE,IOS,2020,3,M,122,+79,,Photo & Video,InShot - Vlog影片編輯,InstaShot Inc.,0.0,,2015-06-11,2849,https://itunes.apple.com/HK/app/id997362197
+HK,FREE,IOS,2020,3,M,123,-116,,Shopping,PARKnSHOP,"A. S. Watson & Company, Limited",0.0,,2014-04-24,2848,https://itunes.apple.com/HK/app/id840837558
+HK,FREE,IOS,2020,3,M,124,+26,,Travel,新巴城巴 CitybusNWFB,Citybus & New World First Bus,0.0,,2011-10-21,2839,https://itunes.apple.com/HK/app/id472242340
+HK,FREE,IOS,2020,3,M,125,+16,,Education,開言英語OpenLanguage,"Beijing Diandiankankan Technology Co.,Ltd.",0.0,,2015-09-10,2837,https://itunes.apple.com/HK/app/id995158649
+HK,FREE,IOS,2020,3,M,126,+70,,Photo & Video,美圖秀秀,"Xiamen Meitu Technology Co., Ltd.",0.0,,2011-02-14,2807,https://itunes.apple.com/HK/app/id416048305
+HK,FREE,IOS,2020,3,M,127,+102,,Lifestyle,支付宝 - 生活好，支付宝,"Alipay (Hangzhou) Technology Co., Ltd.",0.0,,2009-10-15,2800,https://itunes.apple.com/HK/app/id333206289
+HK,FREE,IOS,2020,3,M,128,+271,,Utilities,菜鸟裹裹-快递轻松查寄取,菜鸟网络科技有限公司,0.0,,2015-01-04,2787,https://itunes.apple.com/HK/app/id951610982
+HK,FREE,IOS,2020,3,M,129,+52,,Lifestyle,Pinterest,Pinterest,0.0,,2011-04-28,2759,https://itunes.apple.com/HK/app/id429047995
+HK,FREE,IOS,2020,3,M,130,-15,,Shopping,拼多多-拼着买，才便宜,上海寻梦信息技术有限公司,0.0,,2015-10-29,2727,https://itunes.apple.com/HK/app/id1044283059
+HK,FREE,IOS,2020,3,M,131,+22,,Finance,SC Mobile Hong Kong,Standard Chartered Bank,0.0,,2011-07-07,2713,https://itunes.apple.com/HK/app/id445795688
+HK,FREE,IOS,2020,3,M,132,+13,,Lifestyle,YATA-Fans,Yata Limited,0.0,,2018-10-12,2691,https://itunes.apple.com/HK/app/id1435778377
+HK,FREE,IOS,2020,3,M,133,+11,,Arcade,!Block Magic Puzzle,zhe zhang,0.0,,2019-11-19,2676,https://itunes.apple.com/HK/app/id1488199014
+HK,FREE,IOS,2020,3,M,134,new,,Utilities,Whoscall,Gogolook,0.0,,2014-12-16,2674,https://itunes.apple.com/HK/app/id929968679
+HK,FREE,IOS,2020,3,M,135,+12,,Food & Drink,Pizza Hut HK,Pizza Hut,0.0,,2010-10-13,2673,https://itunes.apple.com/HK/app/id393514825
+HK,FREE,IOS,2020,3,M,136,new,,Shopping,黃家聯盟 - 香港小店積分平台,Yellow Family Limited,0.0,,2020-02-15,2583,https://itunes.apple.com/HK/app/id1498933987
+HK,FREE,IOS,2020,3,M,137,-127,,Shopping,卓悅化妝品,Bonjour Cosmetic Wholesale Center Limited,0.0,,2017-05-18,2551,https://itunes.apple.com/HK/app/id952560315
+HK,FREE,IOS,2020,3,M,138,+61,,Entertainment,影视大全(海外),Zhi Li,0.0,,2018-10-03,2546,https://itunes.apple.com/HK/app/id1435558135
+HK,FREE,IOS,2020,3,M,139,-41,,Shopping,Wolipay - 和你Pay,Awesapp Ltd,0.0,,2019-12-16,2514,https://itunes.apple.com/HK/app/id1489143414
+HK,FREE,IOS,2020,3,M,140,-,,Shopping,759 Online,"Coils Electronic Co., Limited",0.0,,2016-01-05,2493,https://itunes.apple.com/HK/app/id1062447544
+HK,FREE,IOS,2020,3,M,141,-48,,Utilities,Fun Play Stickers,QiuYan Wu,0.0,,2019-08-12,2488,https://itunes.apple.com/HK/app/id1473082669
+HK,FREE,IOS,2020,3,M,142,+33,,Entertainment,myTV SUPER,TVB,0.0,,2016-03-14,2472,https://itunes.apple.com/HK/app/id1080187984
+HK,FREE,IOS,2020,3,M,143,+104,,Business,Adobe Acrobat Reader,Adobe Inc.,0.0,,2011-10-17,2455,https://itunes.apple.com/HK/app/id469337564
+HK,FREE,IOS,2020,3,M,144,+94,,Finance,HSBC HK Reward+,HSBC Global Services (UK) Limited,0.0,,2017-12-07,2404,https://itunes.apple.com/HK/app/id1315948639
+HK,FREE,IOS,2020,3,M,145,new,,Entertainment,KnowU – 掌握你的生活,"Xingye(Hainan) Technology Co., Ltd",0.0,,2020-01-24,2403,https://itunes.apple.com/HK/app/id1494444252
+HK,FREE,IOS,2020,3,M,146,+229,,Productivity,Continue on PC,Microsoft Corporation,0.0,,2017-07-28,2389,https://itunes.apple.com/HK/app/id1254607852
+HK,FREE,IOS,2020,3,M,147,-50,,Photo & Video,快手,"Beijing Kwai Technology Co., Ltd.",0.0,,2011-07-01,2387,https://itunes.apple.com/HK/app/id440948110
+HK,FREE,IOS,2020,3,M,148,+14,,Business,美聯筍盤,Midland Realty,0.0,,2012-10-23,2386,https://itunes.apple.com/HK/app/id565920454
+HK,FREE,IOS,2020,3,M,149,new,,Shopping,Fortress 豐澤,A.S. Watson Retail (HK) Limited,0.0,,2016-09-07,2358,https://itunes.apple.com/HK/app/id1133110850
+HK,FREE,IOS,2020,3,M,150,new,,Entertainment,Patreon,Patreon,0.0,,2015-10-14,2348,https://itunes.apple.com/HK/app/id1044456188
+HK,FREE,IOS,2020,3,M,151,new,,Books,Letterland Phonics Readers Set 3,Letterland,0.0,,2015-10-14,2343,https://itunes.apple.com/HK/app/id1044702930
+HK,FREE,IOS,2020,3,M,152,-,,Finance,AEON 香港,"AEON Credit Service (Asia) Co., Ltd.",0.0,,2018-01-15,2331,https://itunes.apple.com/HK/app/id1332612057
+HK,FREE,IOS,2020,3,M,153,new,,Finance,Investing.com,Fusion Media Limited,0.0,,2014-09-02,2319,https://itunes.apple.com/HK/app/id909998122
+HK,FREE,IOS,2020,3,M,154,new,,Books,Letterland Phonics Readers Set 4,Letterland,0.0,,2015-10-14,2288,https://itunes.apple.com/HK/app/id1044703265
+HK,FREE,IOS,2020,3,M,155,+34,,Social Networking,QQ,Tencent Technology (Shenzhen) Company Limited,0.0,,2011-06-22,2234,https://itunes.apple.com/HK/app/id444934666
+HK,FREE,IOS,2020,3,M,156,+48,,Shopping,新鴻基地產商場,Sun Hung Kai Real Estate Agency Ltd,0.0,,2016-12-07,2230,https://itunes.apple.com/HK/app/id1181866241
+HK,FREE,IOS,2020,3,M,157,+12,,Business,Cisco Webex Meetings,Cisco,0.0,,2009-01-06,2187,https://itunes.apple.com/HK/app/id298844386
+HK,FREE,IOS,2020,3,M,158,+45,,Food & Drink,OpenRice《開飯喇！》,OpenRice.com,0.0,,2009-04-15,2174,https://itunes.apple.com/HK/app/id310663323
+HK,FREE,IOS,2020,3,M,159,-2,,Productivity,Microsoft Excel,Microsoft Corporation,0.0,,2014-03-27,2170,https://itunes.apple.com/HK/app/id586683407
+HK,FREE,IOS,2020,3,M,160,+20,,Business,Adobe Scan,Adobe Inc.,0.0,,2017-05-31,2163,https://itunes.apple.com/HK/app/id1199564834
+HK,FREE,IOS,2020,3,M,161,+255,,Finance,AIA Connect / 友聯繫,AIA International Limited,0.0,,2017-12-05,2159,https://itunes.apple.com/HK/app/id1292514758
+HK,FREE,IOS,2020,3,M,162,+55,,Entertainment,全民K歌-抢麦新玩法,"Tencent Technology (Shanghai) Co., Ltd",0.0,,2014-09-09,2148,https://itunes.apple.com/HK/app/id910513149
+HK,FREE,IOS,2020,3,M,163,+100,,Lifestyle,米家-智慧生活新體驗,"Beijing Xiaomi Co., Ltd",0.0,,2015-01-27,2138,https://itunes.apple.com/HK/app/id957323480
+HK,FREE,IOS,2020,3,M,164,-37,,News,東網 - 東方日報,on.cc (HK) Limited,0.0,,2010-01-13,2138,https://itunes.apple.com/HK/app/id349812998
+HK,FREE,IOS,2020,3,M,165,new,,Education,Letterland Stories A,Letterland,0.0,,2016-10-03,2078,https://itunes.apple.com/HK/app/id1160842275
+HK,FREE,IOS,2020,3,M,166,+1,,Utilities,百度,"Beijing Baidu Netcom Science & Technology Co.,Ltd",0.0,,2010-08-29,2039,https://itunes.apple.com/HK/app/id382201985
+HK,FREE,IOS,2020,3,M,167,-38,,Business,Moovup 前線空缺 | 職位配對,moovup (HK) Ltd.,0.0,,2017-06-28,2015,https://itunes.apple.com/HK/app/id1215492885
+HK,FREE,IOS,2020,3,M,168,+148,,Business,WhatsApp Business,WhatsApp Inc.,0.0,,2019-04-10,2001,https://itunes.apple.com/HK/app/id1386412985
+HK,FREE,IOS,2020,3,M,169,+92,,Shopping,ZALORA - 時尚購物平台,Zalora South East Asia Pte Ltd.,0.0,,2013-04-17,1984,https://itunes.apple.com/HK/app/id624639017
+HK,FREE,IOS,2020,3,M,170,+20,,Entertainment,Hong Kong Toolbar,Commercial Radio Interactive,0.0,,2011-10-02,1968,https://itunes.apple.com/HK/app/id463715309
+HK,FREE,IOS,2020,3,M,171,-62,,Business,DingTalk,"DingTalk (China) Information Technology Co., Ltd.",0.0,,2014-12-02,1913,https://itunes.apple.com/HK/app/id930368978
+HK,FREE,IOS,2020,3,M,172,+81,,Weather,MyObservatory,Hong Kong Observatory,0.0,,2010-03-22,1913,https://itunes.apple.com/HK/app/id361319719
+HK,FREE,IOS,2020,3,M,173,+4,,Finance,PayPal,"PayPal, Inc.",0.0,,2019-02-03,1893,https://itunes.apple.com/HK/app/id283646709
+HK,FREE,IOS,2020,3,M,174,-155,,Board,開心鬥一番-麻雀、啤牌任你玩,Spring Thunder Technology Limited,0.0,,2017-08-13,1857,https://itunes.apple.com/HK/app/id1263330630
+HK,FREE,IOS,2020,3,M,175,new,,Healthcare & Fitness,30天 - 減肥 健身 運動,Bending Spoons Apps IVS,0.0,,2016-04-08,1833,https://itunes.apple.com/HK/app/id1099771240
+HK,FREE,IOS,2020,3,M,176,+75,,Business,掃描儀-全能掃描王和迅捷PDF轉換器,BPMobile,0.0,,2015-09-23,1828,https://itunes.apple.com/HK/app/id1040093707
+HK,FREE,IOS,2020,3,M,177,new,,Puzzle,Juicy Stack - 3D Tile Puzzlе,Coda Platform Limited,0.0,,2019-07-08,1818,https://itunes.apple.com/HK/app/id1465894192
+HK,FREE,IOS,2020,3,M,178,+45,,Photo & Video,PicsArt 美易照片編輯: 圖片 & 拼貼畫製作工具,"PicsArt, Inc.",0.0,,2013-01-02,1797,https://itunes.apple.com/HK/app/id587366035
+HK,FREE,IOS,2020,3,M,179,+247,,Education,Kahoot! Play & Create Quizzes,Kahoot! AS,0.0,,2016-09-19,1794,https://itunes.apple.com/HK/app/id1131203560
+HK,FREE,IOS,2020,3,M,180,+66,,Entertainment,爱奇艺随刻-原爱奇艺极速版app,iQiYi,0.0,,2011-07-10,1775,https://itunes.apple.com/HK/app/id445375097
+HK,FREE,IOS,2020,3,M,181,+4,,Productivity,Microsoft Office Lens|PDF Scan,Microsoft Corporation,0.0,,2015-04-02,1747,https://itunes.apple.com/HK/app/id975925059
+HK,FREE,IOS,2020,3,M,182,-3,,Utilities,csl.,CSL Mobile Limited,0.0,,2011-05-25,1744,https://itunes.apple.com/HK/app/id433378614
+HK,FREE,IOS,2020,3,M,183,+31,,Finance,Citibank HK,CITIBANK (HONG KONG) LIMITED,0.0,,2010-06-04,1742,https://itunes.apple.com/HK/app/id373717372
+HK,FREE,IOS,2020,3,M,184,+72,,Healthcare & Fitness,Nike Training Club,"Nike, Inc",0.0,,2016-06-22,1693,https://itunes.apple.com/HK/app/id301521403
+HK,FREE,IOS,2020,3,M,185,-1,,Productivity,Yahoo電子信箱－首創取消訂閱 自動整理信件 個人化收件匣,Yahoo,0.0,,2012-12-10,1655,https://itunes.apple.com/HK/app/id577586159
+HK,FREE,IOS,2020,3,M,186,new,,Education,Letterland Stories BCD,Letterland,0.0,,2016-10-03,1636,https://itunes.apple.com/HK/app/id1160844882
+HK,FREE,IOS,2020,3,M,187,new,,Education,Letterland Word Builder,Letterland,0.0,,2014-05-28,1622,https://itunes.apple.com/HK/app/id875909721
+HK,FREE,IOS,2020,3,M,188,-84,,Simulation,Endless Frontier - RPG,ekkorr,0.0,,2018-02-20,1622,https://itunes.apple.com/HK/app/id1339001756
+HK,FREE,IOS,2020,3,M,189,+243,,Lifestyle,ecHome億世家,E.P.S.A. Corporation LTD,0.0,,2019-11-12,1603,https://itunes.apple.com/HK/app/id1484439287
+HK,FREE,IOS,2020,3,M,190,new,,Finance,Yahoo 財經 - 即時股票滙率報價,Yahoo,0.0,,2012-08-15,1566,https://itunes.apple.com/HK/app/id328412701
+HK,FREE,IOS,2020,3,M,191,-21,,Music,QQ音樂 - 讓生活充滿音樂,Tencent Technology (Shenzhen) Company Limited,0.0,,2011-03-18,1562,https://itunes.apple.com/HK/app/id414603431
+HK,FREE,IOS,2020,3,M,192,new,,Food & Drink,Storellet: 電子會籍,Storellet,0.0,,2014-12-09,1561,https://itunes.apple.com/HK/app/id936066838
+HK,FREE,IOS,2020,3,M,193,+180,,Shopping,黃藍圖鑑,IO HONG LEUNG,0.0,,2020-02-19,1557,https://itunes.apple.com/HK/app/id1492751770
+HK,FREE,IOS,2020,3,M,194,+15,,Music,MOOV 音樂,MOOV (HONG KONG) LIMITED,0.0,MOOV月費計劃 : HK$ 48.00 / MOOV 月費計劃 : HK$ 38.00,2011-05-12,1547,https://itunes.apple.com/HK/app/id436310157
+HK,FREE,IOS,2020,3,M,195,-121,,Action,少年神將 - 經典三國卡牌手遊,Obsidian Games,0.0,,2020-01-23,1538,https://itunes.apple.com/HK/app/id1490055836
+HK,FREE,IOS,2020,3,M,196,-106,,Shopping,鄰住買 Neigbuy - 零運費網購,Ztore HK Limited,0.0,,2019-05-31,1531,https://itunes.apple.com/HK/app/id1448803221
+HK,FREE,IOS,2020,3,M,197,new,,Finance,Plus500 線上交易,Plus500 Ltd,0.0,,2011-02-14,1521,https://itunes.apple.com/HK/app/id417962622
+HK,FREE,IOS,2020,3,M,198,-149,,Puzzle,Brain Out,EYEWIND LIMITED,0.0,,2019-10-06,1477,https://itunes.apple.com/HK/app/id1477841973
+HK,FREE,IOS,2020,3,M,199,new,,Education,Letterland Stories EFG,Letterland,0.0,,2016-10-03,1475,https://itunes.apple.com/HK/app/id1160807214
+HK,FREE,IOS,2020,3,M,200,+247,,Food & Drink,大家樂,Café de Coral Fast Food Limited,0.0,,2018-10-18,1463,https://itunes.apple.com/HK/app/id1436965382
